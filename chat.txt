@@ -1,0 +1,3388 @@
+12/9/22, 8:49 AM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+12/8/22, 4:38 PM - Elephant 2: https://youtu.be/Ze95k0VqsM8
+12/10/22, 9:51 AM - Sheharyar Khan: Uni Aya h?
+12/10/22, 10:03 AM - Elephant 2: Os ki class e cancel hogayi!
+12/10/22, 10:03 AM - Elephant 2: Isi liye imma go sleep again!
+12/10/22, 10:03 AM - Elephant 2: I woke up to change hahaha!
+12/10/22, 10:26 AM - Elephant 2: https://youtube.com/shorts/HgARAxK9Z3I?feature=share
+12/12/22, 1:41 PM - Sheharyar Khan: Shahmmer
+12/12/22, 1:41 PM - Sheharyar Khan: Jb free ho to btyn
+12/12/22, 4:38 PM - Elephant 2: Okaay!
+12/12/22, 4:38 PM - Elephant 2: Phnch gaya hostel
+12/12/22, 4:39 PM - Sheharyar Khan: Chal m rat tkk auga
+12/12/22, 4:39 PM - Elephant 2: Sure!
+12/12/22, 5:10 PM - Sheharyar Khan: ??
+12/12/22, 5:10 PM - Elephant 2: Yep!
+12/12/22, 5:10 PM - Sheharyar Khan: Khana akthy khany ka koi scene h?
+12/12/22, 5:10 PM - Elephant 2: Main sath Beth jau ga!
+12/12/22, 5:11 PM - Sheharyar Khan: Paisy ay nahi tery abi tkk
+12/12/22, 5:11 PM - Elephant 2: Agaye hain! Phr khtm bi hogaye
+12/12/22, 5:11 PM - Sheharyar Khan: Hmm
+12/12/22, 5:12 PM - Sheharyar Khan: Yr chal mery pas joo hy unsy guzara  krlygy
+12/12/22, 5:12 PM - Sheharyar Khan: Pr mujh aisy acha ni lgta to hostel btha hoo or m akaly khana khau
+12/12/22, 5:13 PM - Elephant 2: Bhai! 🤦🏽‍♂️
+12/12/22, 5:13 PM - Elephant 2: Main sath chal paru ga! I don't feel like eating thon
+12/12/22, 5:14 PM - Sheharyar Khan: Bta kch halka phulka kia khyn
+12/12/22, 5:14 PM - Sheharyar Khan: 400 hy pas mery
+12/12/22, 5:14 PM - Elephant 2: Nouraiz aya howa
+12/12/22, 5:14 PM - Elephant 2: Bruh! You eat!
+12/12/22, 5:14 PM - Sheharyar Khan: Tery pas?
+12/12/22, 5:14 PM - Elephant 2: Han v
+12/12/22, 5:17 PM - Elephant 2: Han g*
+12/12/22, 5:17 PM - Sheharyar Khan: Chal mujh any m abii time h m ata hn too ak mil lta hn
+12/12/22, 5:18 PM - Elephant 2: He just went!
+12/12/22, 5:25 PM - Sheharyar Khan: <Media omitted>
+12/12/22, 5:25 PM - Sheharyar Khan: ??
+12/12/22, 5:25 PM - Elephant 2: Kidhr ajau usky sath?
+12/12/22, 5:25 PM - Elephant 2: Tery flat?
+12/12/22, 5:25 PM - Sheharyar Khan: Ni uni
+12/12/22, 5:25 PM - Sheharyar Khan: Uni sy pick krna h mujh
+12/12/22, 5:25 PM - Elephant 2: Sure!
+12/12/22, 6:04 PM - Sheharyar Khan: ???
+12/12/22, 9:29 PM - Elephant 2: <Media omitted>
+12/15/22, 12:24 PM - Sheharyar Khan: #include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+
+ int buffer[5],count=0;
+int main()
+{
+
+void producer();
+void consumer();
+int wait(int);
+int signal(int);
+
+while(1)
+{
+producer();
+consumer();
+
+}
+return 0;
+}
+ 
+void producer()
+{
+if(count<=buffer)
+{
+  srand(time(0));
+  buffer[count] = rand() ;
+count++;
+printf("\nProducer produces the item %d",buffer[count]);
+  }
+else
+{
+  printf("Buffer full");
+}
+}
+ 
+void consumer()
+{
+if(count>0)
+{
+count++;
+printf("\nConsumer consumes the items %d",buffer[count]);
+  }
+else
+{
+  printf("Buffer empty");
+}
+}
+12/17/22, 6:28 PM - Elephant 2: Oii
+12/17/22, 6:28 PM - Elephant 2: Yara wo picture send karin
+12/17/22, 6:28 PM - Elephant 2: Layout wali
+12/17/22, 6:33 PM - Sheharyar Khan: <Media omitted>
+12/17/22, 7:06 PM - Elephant 2: Bhai mazak ni kr!
+12/17/22, 7:06 PM - Elephant 2: Send kr! Main bnany laaga hu!
+12/17/22, 7:07 PM - Sheharyar Khan: Na krn tu
+12/17/22, 7:08 PM - Sheharyar Khan: Say please
+12/17/22, 7:09 PM - Elephant 2: Please send kardy laley!
+12/17/22, 7:11 PM - Sheharyar Khan: Nichy a room k
+12/17/22, 7:14 PM - Elephant 2: Can't talk now. What's up?
+12/17/22, 8:11 PM - Sheharyar Khan: <Media omitted>
+12/17/22, 10:07 PM - Elephant 2: Sir ki mail send karin sheri
+12/17/22, 10:07 PM - Sheharyar Khan: <Media omitted>
+12/17/22, 10:16 PM - Elephant 2: Trust me bruh, i really cant read
+12/17/22, 10:16 PM - Elephant 2: can ya type it out!
+12/17/22, 10:17 PM - Sheharyar Khan: Zaisysystems@gmail.com
+12/17/22, 10:18 PM - Elephant 2: shukran 😁
+12/17/22, 11:40 PM - Elephant 2: <Media omitted>
+12/17/22, 11:40 PM - Sheharyar Khan: You litterly nailed it bruh!
+12/17/22, 11:41 PM - Sheharyar Khan: Idhr bc click m kis button p krta hn border kiska change hta h jak🤦🏻‍♂️
+12/17/22, 11:41 PM - Sheharyar Khan: <Media omitted>
+12/17/22, 11:42 PM - Elephant 2: I know i am great hahahaha!
+12/17/22, 11:42 PM - Elephant 2: maybe its taking the wrong id of the button
+12/17/22, 11:42 PM - Elephant 2: isi liye shayed
+12/17/22, 11:42 PM - Sheharyar Khan: Indeed you are in web
+12/17/22, 11:42 PM - Sheharyar Khan: At least I am impressed
+12/17/22, 11:43 PM - Elephant 2: tuny heading aur price tag main padding di ha ya margin?
+12/17/22, 11:44 PM - Elephant 2: My job here done hahaha!
+12/17/22, 11:44 PM - Elephant 2: Imma email this to the dude!
+12/17/22, 11:44 PM - Elephant 2: Let's see haha!
+12/17/22, 11:46 PM - Sheharyar Khan: i thing padding
+12/17/22, 11:49 PM - Elephant 2: sahi sahi
+12/18/22, 12:26 AM - Elephant 2: this fucking ribbon took my mind bhai!
+12/18/22, 12:26 AM - Elephant 2: <Media omitted>
+12/18/22, 12:38 AM - Elephant 2: <Media omitted>
+12/18/22, 12:40 AM - Sheharyar Khan: Bruh that's what I understood😅
+12/18/22, 12:40 AM - Elephant 2: Its zaisystems@gmail.com
+12/18/22, 12:49 AM - Sheharyar Khan: <Media omitted>
+12/18/22, 12:49 AM - Sheharyar Khan: <Media omitted>
+12/18/22, 12:49 AM - Elephant 2: Krta eik mnt!
+12/18/22, 12:54 AM - Elephant 2: <Media omitted>
+12/18/22, 12:54 AM - Elephant 2: <Media omitted>
+12/18/22, 12:54 AM - Elephant 2: Bruh, the speed is too fast!
+12/18/22, 1:33 PM - Sheharyar Khan: Shahmmer?
+12/18/22, 1:33 PM - Sheharyar Khan: Bt sun
+12/18/22, 1:36 PM - Sheharyar Khan: It's imo
+12/18/22, 1:36 PM - Sheharyar Khan: You deleted this message
+12/18/22, 1:36 PM - Sheharyar Khan: Important
+12/18/22, 3:11 PM - Elephant 2: Yep?
+12/18/22, 3:15 PM - Sheharyar Khan: Ek mini game khail ly yr
+12/18/22, 3:16 PM - Sheharyar Khan: <Media omitted>
+12/18/22, 3:19 PM - Elephant 2: Internet's too slow
+12/18/22, 3:19 PM - Elephant 2: Name bta game ka
+12/18/22, 3:19 PM - Sheharyar Khan: <Media omitted>
+12/18/22, 3:20 PM - Elephant 2: Account bta
+12/18/22, 3:20 PM - Elephant 2: Main krta
+12/18/22, 3:23 PM - Sheharyar Khan: <Media omitted>
+12/18/22, 3:23 PM - Sheharyar Khan: <Media omitted>
+12/18/22, 4:01 PM - Elephant 2: Okaay
+12/18/22, 4:01 PM - Elephant 2: Download hojaye app
+12/18/22, 4:06 PM - Elephant 2: Code send kr
+12/18/22, 4:13 PM - Sheharyar Khan: ls55d8qxqP
+12/18/22, 4:15 PM - Sheharyar Khan: <#> Jazzcash: Warning! Do not share your new device registration OTP with anyone. Your OTP is mKFHiBWTQP KmqrlttQSk3
+12/18/22, 4:16 PM - Sheharyar Khan: 5kN2Lox3bP
+12/18/22, 4:16 PM - Sheharyar Khan: <Media omitted>
+12/18/22, 4:16 PM - Elephant 2: Bruhh this tucker is not opening!!
+12/18/22, 4:16 PM - Sheharyar Khan: <Media omitted>
+12/18/22, 4:16 PM - Sheharyar Khan: Tucker
+12/18/22, 4:16 PM - Sheharyar Khan: <Media omitted>
+12/18/22, 4:16 PM - Elephant 2: Fucker*
+12/18/22, 4:17 PM - Elephant 2: I guess si
+12/18/22, 4:51 PM - Elephant 2: Tery mobile py kr lein gy
+12/18/22, 4:51 PM - Elephant 2: If possible
+12/18/22, 5:05 PM - Sheharyar Khan: <Media omitted>
+12/18/22, 5:06 PM - Elephant 2: Okaay karo
+12/18/22, 5:14 PM - Elephant 2: Game thi knsi?
+12/18/22, 5:41 PM - Sheharyar Khan: <Media omitted>
+12/18/22, 5:41 PM - Sheharyar Khan: <Media omitted>
+12/18/22, 7:26 PM - Elephant 2: Yep kheli to howi ha
+12/19/22, 12:10 AM - Sheharyar Khan: ???
+12/19/22, 12:21 AM - Sheharyar Khan: Shahmmer?
+12/19/22, 9:53 AM - Elephant 2: Han g laley
+12/19/22, 9:53 AM - Elephant 2: Subha jaldi uthny k dar sy I slept early last night!
+12/19/22, 9:53 AM - Elephant 2: Or lecture e cancel hogaya hahah!
+12/19/22, 10:17 AM - Sheharyar Khan: Mam Fatima zindabad
+12/19/22, 10:17 AM - Elephant 2: Yep hahaha!
+12/20/22, 5:20 PM - Elephant 2: Oii there's a little project it came up!
+12/20/22, 5:20 PM - Elephant 2: Detect krna if a fruit is ripped ya rotten!
+12/20/22, 5:20 PM - Elephant 2: Kia kehta, hojaye ga tery sy?
+12/20/22, 5:43 PM - Sheharyar Khan: Knsa fruit
+12/20/22, 5:43 PM - Sheharyar Khan: Hojyga
+12/20/22, 5:43 PM - Elephant 2: Any
+12/20/22, 5:43 PM - Elephant 2: Let me show ya an example!
+12/20/22, 5:43 PM - Sheharyar Khan: There could be millions bruh
+12/20/22, 5:43 PM - Elephant 2: https://github.com/saikrishna759/spoiled-fruits-vs-fresh-fruits-classification/find/master
+12/20/22, 5:43 PM - Elephant 2: <Media omitted>
+12/20/22, 5:43 PM - Elephant 2: <Media omitted>
+12/20/22, 5:45 PM - Elephant 2: Teri awaz ni ari
+12/20/22, 5:47 PM - Elephant 2: I'll forward ya number to him!
+12/20/22, 5:52 PM - Sheharyar Khan: Ok
+12/20/22, 10:57 PM - Sheharyar Khan: ??
+12/20/22, 10:57 PM - Elephant 2: Ye
+12/20/22, 10:57 PM - Sheharyar Khan: Kia kring?
+12/20/22, 10:57 PM - Elephant 2: Yep
+12/20/22, 10:57 PM - Elephant 2: YouTube not much!
+12/20/22, 10:57 PM - Elephant 2: You tell?
+12/20/22, 10:58 PM - Sheharyar Khan: Can I sleep at your place today?
+12/20/22, 10:58 PM - Elephant 2: Sure!
+12/20/22, 10:58 PM - Elephant 2: What happened, everything's okay?
+12/20/22, 11:19 PM - Sheharyar Khan: Jgah h pri?
+12/20/22, 11:19 PM - Sheharyar Khan: !?!
+12/20/22, 11:35 PM - Elephant 2: Gate's open, andr ajayen!
+12/21/22, 11:37 AM - Elephant 2: Yara meri behen ny 1 bjy tk Lahore phnch jana
+12/21/22, 11:37 AM - Elephant 2: Main nikal raha hu abi, meri attendence laga dein lazmi!
+12/21/22, 11:37 AM - Elephant 2: Aur mam ko bi bta dein!
+12/21/22, 11:37 AM - Sheharyar Khan: Okk lga duga
+12/21/22, 11:37 AM - Elephant 2: Mama ko bi bta dein
+12/21/22, 11:37 AM - Elephant 2: Mama**
+12/21/22, 11:37 AM - Elephant 2: Ma**
+12/21/22, 11:37 AM - Elephant 2: Fuck!
+12/21/22, 11:37 AM - Elephant 2: Mam**
+12/21/22, 1:11 PM - Elephant 2: Janu mam sy keh dein k main office a kr quiz dy du ga
+12/21/22, 1:12 PM - Elephant 2: Bs meri absent na mark karin!!
+12/21/22, 1:12 PM - Elephant 2: 🥲
+12/21/22, 1:36 PM - Sheharyar Khan: <Media omitted>
+12/21/22, 2:20 PM - Elephant 2: Attendence bi laga di thi
+12/21/22, 2:20 PM - Elephant 2: ?
+12/21/22, 2:21 PM - Sheharyar Khan: <Media omitted>
+12/21/22, 2:23 PM - Elephant 2: Sahi sah!
+12/21/22, 2:23 PM - Elephant 2: Chal shukran 😊
+12/21/22, 2:25 PM - Sheharyar Khan: No problem at all buddy
+12/22/22, 7:07 PM - Sheharyar Khan: Bruh???
+12/22/22, 7:07 PM - Elephant 2: Yep?
+12/22/22, 7:09 PM - Sheharyar Khan: Account m 50 R's bu
+12/22/22, 7:09 PM - Sheharyar Khan: Hy*
+12/22/22, 7:09 PM - Elephant 2: Eik mnt dekhta
+12/22/22, 7:09 PM - Sheharyar Khan: M cash dydta hn
+12/22/22, 7:09 PM - Elephant 2: Nope, got 1.3 in both easypaisa and Nayapay
+12/23/22, 9:29 PM - Sheharyar Khan: Shahmmer?
+12/23/22, 9:30 PM - Elephant 2: Han h
+12/23/22, 9:30 PM - Sheharyar Khan: Yr tery papa sy paisy lyskty udhr?
+12/23/22, 9:30 PM - Sheharyar Khan: I will return in 1 week
+12/23/22, 9:30 PM - Elephant 2: Kitny?
+12/23/22, 9:30 PM - Sheharyar Khan: Kitny lyskty h?
+12/23/22, 9:30 PM - Elephant 2: Tu apna bta to sahi
+12/23/22, 9:35 PM - Sheharyar Khan: 3k ya 5 agr possible ho
+12/23/22, 9:35 PM - Elephant 2: Let me see!
+12/23/22, 9:35 PM - Elephant 2: Eik mnt
+12/23/22, 9:37 PM - Sheharyar Khan: Hmm
+12/23/22, 9:38 PM - Elephant 2: Na boy month ka end chal raha!
+12/23/22, 9:38 PM - Elephant 2: Everyone of my circle is empty!
+12/23/22, 9:39 PM - Elephant 2: Easypaisa bi loan ni dy raha! Apologies bub!
+12/23/22, 9:39 PM - Sheharyar Khan: Ni ni it's ok
+12/23/22, 9:39 PM - Elephant 2: Appreciated! 😊
+12/24/22, 2:46 PM - Elephant 2: Missed voice call
+12/24/22, 2:51 PM - Sheharyar Khan: Gg
+12/24/22, 3:03 PM - Elephant 2: Kidhr ho?
+12/24/22, 3:19 PM - Sheharyar Khan: Uni
+12/24/22, 9:39 PM - Sheharyar Khan: ??
+12/24/22, 9:52 PM - Sheharyar Khan: Call me
+12/24/22, 9:52 PM - Sheharyar Khan: Waiting for your call
+12/25/22, 11:34 AM - Elephant 2: I slept early last night!
+12/25/22, 11:34 AM - Elephant 2: Sup?
+12/25/22, 10:15 PM - Elephant 2: This stupid internet
+12/25/22, 10:15 PM - Elephant 2: I'm at 59 thi
+12/25/22, 11:09 PM - Sheharyar Khan: <Media omitted>
+12/27/22, 5:53 PM - Elephant 2: Missed voice call
+12/27/22, 5:53 PM - Sheharyar Khan: Yr tery pas extra blanket hy?
+12/27/22, 5:53 PM - Elephant 2: I'm here
+12/27/22, 5:53 PM - Elephant 2: Nope laley
+12/27/22, 5:53 PM - Elephant 2: Plus main abi mamu ki taraf jara hu
+12/27/22, 5:54 PM - Elephant 2: Agr rukna to idhr ajayen
+12/27/22, 5:56 PM - Sheharyar Khan: Kb ana Tony wapis
+12/27/22, 6:02 PM - Elephant 2: Abi pta ni ha
+12/27/22, 6:02 PM - Elephant 2: Wohi kr raha hy
+12/27/22, 6:02 PM - Elephant 2: Hu*
+12/27/22, 6:33 PM - Elephant 2: Main hostel e hu!
+12/28/22, 6:38 PM - Sheharyar Khan: Shahmmer
+12/28/22, 6:38 PM - Sheharyar Khan: ???
+12/29/22, 4:32 PM - Elephant 2: Laley code send kr dena!
+12/29/22, 4:42 PM - Sheharyar Khan: Knsa
+12/29/22, 4:42 PM - Sheharyar Khan: //Learnprogramo
+#include <stdio.h>
+int main()
+{
+int referenceString[10], pageFaults = 0, m, n, s, pages, frames;
+printf("\nEnter the number of Pages:\t");
+scanf("%d", &pages);
+printf("\nEnter reference string values:\n");
+for( m = 0; m < pages; m++)
+{
+   printf("Value No. [%d]:\t", m + 1);
+   scanf("%d", &referenceString[m]);
+}
+printf("\n What are the total number of frames:\t");
+{
+   scanf("%d", &frames);
+}
+int temp[frames];
+for(m = 0; m < frames; m++)
+{
+  temp[m] = -1;
+}
+for(m = 0; m < pages; m++)
+{
+  s = 0;
+  for(n = 0; n < frames; n++)
+   {
+      if(referenceString[m] == temp[n])
+         {
+            s++;
+            pageFaults--;
+         }
+   }     
+   pageFaults++;
+   if((pageFaults <= frames) && (s == 0))
+      {
+        temp[m] = referenceString[m];
+      }   
+   else if(s == 0)
+      {
+        temp[(pageFaults - 1) % frames] = referenceString[m];
+      }
+      printf("\n");
+      for(n = 0; n < frames; n++)
+       {     
+         printf("%d\t", temp[n]);
+       }
+} 
+printf("\nTotal Page Faults:\t%d\n", pageFaults);
+return 0;
+}
+12/29/22, 4:42 PM - Sheharyar Khan: #include <stdio.h>
+void insert(int,int);
+void deletee();
+void display();
+int queue_array[50];
+int rear = -1;
+int front = -1;
+int main() 
+{
+    
+    int size = 0;
+    int sizeofframes = 0;
+    printf("Enter the number of pages : ");
+    scanf("%d", &size);  
+    char hitmiss[size];
+    int pages[size];
+    printf("Enter the number of frames : ");
+    scanf("%d", &sizeofframes);
+  int number = 0;
+  int count = 0;
+  int i=0;
+  for(i=0;i<size;i++)
+    {
+    count = 0;
+    printf("Enter the number : ");
+    scanf("%d", &number);
+    int j;
+    for( j=0;i<sizeofframes;j++)
+      {
+        if (number == queue_array[j])
+          count++;
+      }
+      if (count > 0 &&  front > rear)
+      {
+        insert(number , sizeofframes);
+        hitmiss[i] = 'X';
+      }
+      else if(count > 0 &&  front < rear)
+      {
+        deletee();
+        insert(number , sizeofframes);
+        hitmiss[i] = 'X';
+      }
+      else if(count > 0)
+      { 
+       hitmiss[i] = 'O'; 
+      }
+      display();
+    }
+  
+    return 0;
+}
+void insert(int item,int MAX)
+{	
+if(rear == MAX - 1)
+printf("Queue Overflow n");
+else
+{
+if(front== - 1)
+front = 0;
+rear = rear + 1;
+queue_array[rear] = item;
+}
+}
+void deletee()
+{
+if(front == - 1 || front > rear)
+{
+printf("Queue Underflow n");
+return;
+}
+else
+{
+printf("Element deleted from queue is : %dn", queue_array[front]);
+front = front + 1;
+rear = rear - 1 ;
+}
+}
+void display()
+{
+int i;
+if(front == - 1)
+printf("Queue is empty n");
+else
+{
+printf("Queue is : n");
+for(i = front; i <= rear; i++)
+printf("%d ", queue_array[i]);
+printf("n");
+}
+}
+12/29/22, 4:42 PM - Sheharyar Khan: <Media omitted>
+12/29/22, 5:22 PM - Elephant 2: Jazak Allah 😊
+12/29/22, 6:36 PM - Elephant 2: mail krdi main ny mam ko!
+12/29/22, 6:36 PM - Sheharyar Khan: Oor kia kra hy?
+12/29/22, 6:42 PM - Elephant 2: Main enjoys kr raha haha!
+12/29/22, 8:02 PM - Sheharyar Khan: Zayn us din knsa song sunra tha
+12/29/22, 8:03 PM - Sheharyar Khan: Name bhool gya uska
+12/29/22, 8:03 PM - Elephant 2: Iraday abdul hanan
+12/29/22, 8:04 PM - Sheharyar Khan: OK OK kro
+12/30/22, 9:55 PM - Elephant 2: Teri os ki attendance ka kia hal ha?
+12/30/22, 9:55 PM - Elephant 2: Ss send karin zada
+12/30/22, 10:04 PM - Sheharyar Khan: Halat khrab h bhi😂😂
+12/30/22, 10:04 PM - Sheharyar Khan: Rhny dy bsss
+12/30/22, 10:04 PM - Elephant 2: Send kro! 😑
+12/30/22, 10:04 PM - Sheharyar Khan: 50% h bhi net
+12/30/22, 10:05 PM - Elephant 2: Ss bhej bhai
+12/30/22, 10:06 PM - Sheharyar Khan: <Media omitted>
+12/30/22, 10:22 PM - Elephant 2: Teri lab main 66 kesy ha? 🥲
+12/30/22, 10:22 PM - Elephant 2: Meri 60 ha!
+12/30/22, 10:22 PM - Elephant 2: The hell
+12/30/22, 10:22 PM - Sheharyar Khan: 8/4 attendences h meri
+12/30/22, 10:22 PM - Sheharyar Khan: That's all I know
+12/30/22, 10:22 PM - Elephant 2: 8/4 lab ki?
+12/30/22, 10:23 PM - Sheharyar Khan: G
+12/30/22, 10:24 PM - Elephant 2: Aur classes ki?
+12/30/22, 10:24 PM - Sheharyar Khan: 7/8
+12/30/22, 10:25 PM - Elephant 2: 7 presents 8 absents?
+12/30/22, 10:26 PM - Sheharyar Khan: YES
+12/30/22, 10:28 PM - Elephant 2: Bros! 😉
+12/31/22, 12:46 PM - Elephant 2: <Media omitted>
+12/31/22, 1:05 PM - Sheharyar Khan: <Media omitted>
+12/31/22, 1:05 PM - Sheharyar Khan: <Media omitted>
+1/1/23, 6:41 PM - Elephant 2: Yrr testing ki assignment kesi krni? Any ideas bruda?
+1/1/23, 6:44 PM - Sheharyar Khan: sikhny sy related idea du ya jugar sy releated?
+1/1/23, 6:44 PM - Elephant 2: Well, i guess I'll go sikhna
+1/1/23, 6:45 PM - Sheharyar Khan: *note* : jugar could result in serious consequences.
+1/1/23, 6:45 PM - Sheharyar Khan: sure
+1/1/23, 6:46 PM - Elephant 2: Obvio isi liye i went with sikhna hahaha!
+1/1/23, 6:47 PM - Sheharyar Khan: https://youtu.be/ER5gpVt-0BU
+1/1/23, 6:47 PM - Sheharyar Khan: This playlist could led you towards the path of success .
+1/1/23, 6:48 PM - Elephant 2: Ayeee! Shukran G!
+1/1/23, 6:48 PM - Elephant 2: I'll ask if I'm stuck!
+1/1/23, 6:48 PM - Sheharyar Khan: faida koi ni
+1/1/23, 6:48 PM - Sheharyar Khan: mujh b khas ni ata
+1/1/23, 6:48 PM - Elephant 2: NOT IN A WEIRD WAY 😂😂
+1/1/23, 6:48 PM - Sheharyar Khan: bs python ati hy so its an aid
+1/1/23, 6:49 PM - Elephant 2: Nice! Allah khair kary
+1/1/23, 6:57 PM - Sheharyar Khan: wssy web ka b kafi knowlege use full h is task ko achieve krny k lya
+1/1/23, 7:02 PM - Elephant 2: Sahi sahi
+1/1/23, 7:03 PM - Elephant 2: Main dekhta hu!
+1/1/23, 7:03 PM - Elephant 2: Kal raat submit karani na?
+1/1/23, 7:04 PM - Sheharyar Khan: yep
+1/1/23, 7:04 PM - Sheharyar Khan: but its a looooooooooooooooooooooong way to go
+1/1/23, 7:04 PM - Sheharyar Khan: so it will take tiime
+1/1/23, 7:04 PM - Sheharyar Khan: tu kia krra h abi
+1/1/23, 7:05 PM - Elephant 2: Imma start right away then
+1/1/23, 7:05 PM - Elephant 2: Nothing much, YouTube and all that haha!
+1/1/23, 7:05 PM - Sheharyar Khan: agr 100 rs pkr kr idhr aja to it will be really help full for both of us
+1/1/23, 7:05 PM - Elephant 2: It will you're not wrongn
+1/1/23, 7:05 PM - Elephant 2: But
+1/1/23, 7:06 PM - Elephant 2: There's a small problem! Can't abi
+1/1/23, 7:06 PM - Elephant 2: Kal university main, what do you say?
+1/1/23, 7:06 PM - Sheharyar Khan: 100 rs h tu aja abi kal university m baith kr os ka command prompt bnyngy
+1/1/23, 7:06 PM - Sheharyar Khan: bhai koiii ek side h hmari?
+1/1/23, 7:07 PM - Sheharyar Khan: hr trf tang phansi hwe hy
+1/1/23, 7:07 PM - Sheharyar Khan: os b tooo pass krni hy
+1/1/23, 7:07 PM - Elephant 2: You're not wrong bruda!
+1/1/23, 7:07 PM - Elephant 2: You're not wrong!
+1/1/23, 7:07 PM - Elephant 2: Chal I'll let you know!
+1/1/23, 7:07 PM - Sheharyar Khan: mujh help chya inspect use krny m chrome walaa
+1/1/23, 7:08 PM - Sheharyar Khan: chrome m jo inspect ki option hti hy
+1/1/23, 7:08 PM - Elephant 2: Shayed thora late hojaye, but I'll be there!
+1/1/23, 7:08 PM - Elephant 2: Kambal waghera ha para m
+1/1/23, 7:08 PM - Elephant 2: ?
+1/1/23, 7:09 PM - Elephant 2: <Media omitted>
+1/1/23, 7:09 PM - Sheharyar Khan: extra ni hy
+1/1/23, 7:09 PM - Sheharyar Khan: voh sath ly ayn
+1/1/23, 7:09 PM - Elephant 2: 🙂
+1/1/23, 7:09 PM - Sheharyar Khan: laptop m tujh arrange krduga
+1/1/23, 7:10 PM - Elephant 2: Msla laptop ko to ha e ni bhai! Kambal ka ha 😂
+1/1/23, 7:10 PM - Sheharyar Khan: <Media omitted>
+1/1/23, 7:10 PM - Sheharyar Khan: <Media omitted>
+1/1/23, 7:10 PM - Sheharyar Khan: <Media omitted>
+1/1/23, 7:10 PM - Elephant 2: Main krta kuch!
+1/1/23, 7:11 PM - Sheharyar Khan: Inspect ki option sy
+1/1/23, 7:11 PM - Elephant 2: Inspect main ja
+1/1/23, 7:11 PM - Elephant 2: Usky bad apna mouse yaha pr ly aa
+1/1/23, 7:11 PM - Sheharyar Khan: <Media omitted>
+1/1/23, 7:11 PM - Elephant 2: Phr click kr, wo tuge usky tag k uper ly aye ga
+1/1/23, 7:11 PM - Sheharyar Khan: <Media omitted>
+1/1/23, 7:12 PM - Elephant 2: <Media omitted>
+1/1/23, 7:12 PM - Elephant 2: Eik mnt
+1/1/23, 7:12 PM - Sheharyar Khan: Still kch smjh ni arai mujh yeah kia likha hy
+1/1/23, 7:13 PM - Sheharyar Khan: <Media omitted>
+1/1/23, 7:13 PM - Sheharyar Khan: Is m class ya I'd name khn hy
+1/1/23, 7:13 PM - Elephant 2: Ye tuny css kholi howi ha
+1/1/23, 7:13 PM - Elephant 2: Html document kaha ha?
+1/1/23, 7:13 PM - Sheharyar Khan: i dnt know
+1/1/23, 7:13 PM - Sheharyar Khan: khn hy tu e btady
+1/1/23, 7:14 PM - Elephant 2: <Media omitted>
+1/1/23, 7:15 PM - Elephant 2: Yaha sy ye arrow select kr, aur jaha jaha tu jaye ga wo uska html tag highlight krdy ga
+1/1/23, 7:17 PM - Elephant 2: Bc video send ni hori
+1/1/23, 7:17 PM - Sheharyar Khan: M ny kia hy
+1/1/23, 7:17 PM - Elephant 2: <Media omitted>
+1/1/23, 7:18 PM - Sheharyar Khan: I got a complete different console bruh
+1/1/23, 7:18 PM - Elephant 2: 🥲
+1/1/23, 7:18 PM - Elephant 2: You using chrome, yes?
+1/1/23, 7:19 PM - Sheharyar Khan: Hn
+1/1/23, 7:20 PM - Elephant 2: pta ni kai issue ha phr!
+1/1/23, 7:20 PM - Elephant 2: main krta hu kuch tu bs kambal ka kuch kr dy!
+1/1/23, 7:20 PM - Elephant 2: yaha sy lamba kam ha utha kr ana!
+1/1/23, 7:24 PM - Sheharyar Khan: chal o0k
+1/1/23, 7:29 PM - Sheharyar Khan: got it agai smjh kssy dkhty h class name
+1/1/23, 7:39 PM - Elephant 2: Ayee Less Gooo!
+1/2/23, 1:35 PM - Elephant 2: <Media omitted>
+1/2/23, 6:47 PM - Elephant 2: Phone charge hogaya ha! Let me know when you are here!
+1/2/23, 7:03 PM - Elephant 2: Mera laptop wala bag teri gari main hoga laley!
+1/2/23, 7:04 PM - Sheharyar Khan: <Media omitted>
+1/2/23, 7:05 PM - Elephant 2: Mery Hostel ajayen
+1/2/23, 7:05 PM - Elephant 2: Main udhr e jara
+1/2/23, 7:05 PM - Sheharyar Khan: Okaaa
+1/2/23, 11:33 PM - Sheharyar Khan: Hahahah😂😂
+1/2/23, 11:36 PM - Elephant 2: Bruh I couldn't see a thing 😂😂😂
+1/2/23, 11:37 PM - Elephant 2: Alhamdulill'ah reached safe aur gate bi bnd hony sy 2 mnt pehly phncha tha 😂
+1/2/23, 11:39 PM - Sheharyar Khan: Haha
+1/2/23, 11:40 PM - Sheharyar Khan: Sai hy
+1/2/23, 11:40 PM - Elephant 2: Yep! 😂
+1/3/23, 10:49 PM - Elephant 2: Os ki attendance ka bta?
+1/3/23, 10:50 PM - Elephant 2: Kia bna tera?
+1/3/23, 10:50 PM - Elephant 2: <Media omitted>
+1/3/23, 10:50 PM - Elephant 2: 🥲
+1/3/23, 10:51 PM - Elephant 2: 73 py bachat ha?
+1/3/23, 10:51 PM - Sheharyar Khan: Umid to hy
+1/3/23, 10:51 PM - Elephant 2: And how was your interview?
+1/3/23, 10:51 PM - Elephant 2: And was it worth it? Going to a gaming field interview?
+1/3/23, 10:51 PM - Sheharyar Khan: Interviewer bhaiii ajeeb swal puchra thaaaa
+1/3/23, 10:52 PM - Sheharyar Khan: Ajeeeeeeb
+1/3/23, 10:52 PM - Sheharyar Khan: Yes
+1/3/23, 10:52 PM - Elephant 2: 🥲
+1/3/23, 10:52 PM - Sheharyar Khan: Like hr swal ka voh glt ans kra tha
+1/3/23, 10:52 PM - Sheharyar Khan: Like swal puchra thaaa phr uska glt jwab b khud dyra tha
+1/3/23, 10:52 PM - Elephant 2: Whoever took your profile pic, is too good at photography! Nice one!!
+1/3/23, 10:53 PM - Sheharyar Khan: Like mujh hr swal m counter argu krna pra tha
+1/3/23, 10:53 PM - Elephant 2: Ah make sense!
+1/3/23, 10:53 PM - Sheharyar Khan: Yep
+1/3/23, 10:53 PM - Elephant 2: Apni attendance ka bta?
+1/3/23, 10:53 PM - Elephant 2: Os ka?
+1/3/23, 10:53 PM - Elephant 2: Also, papers ki tiyari kb krni?
+1/3/23, 10:54 PM - Elephant 2: Numerical to hojaye gi!
+1/3/23, 10:54 PM - Elephant 2: Is aur testing bi hojaye gi, bs Os ka issue ha!
+1/3/23, 10:54 PM - Sheharyar Khan: Seems like I am fucked
+1/3/23, 10:54 PM - Sheharyar Khan: 69.1
+1/3/23, 10:54 PM - Elephant 2: Kesyyy?
+1/3/23, 10:54 PM - Elephant 2: Teri kitni presents lagi howi hain?
+1/3/23, 10:55 PM - Elephant 2: 17-5 class
+7-4 Lab
+1/3/23, 10:55 PM - Sheharyar Khan: 20/9
+1/3/23, 10:55 PM - Sheharyar Khan: 8/4
+1/3/23, 10:55 PM - Sheharyar Khan: Net attendance 69.1
+1/3/23, 10:55 PM - Elephant 2: Yrr kal mam sy chal kr bat krty hain!
+1/3/23, 10:55 PM - Elephant 2: Tabah na hojayen dono!
+1/3/23, 10:55 PM - Sheharyar Khan: Hmm okie
+1/3/23, 10:55 PM - Elephant 2: Class k bad chalty!
+1/3/23, 10:56 PM - Elephant 2: Plus testing ki bi bat krni!
+1/3/23, 10:56 PM - Elephant 2: Mma sy
+1/3/23, 10:56 PM - Elephant 2: Mama sy
+1/3/23, 10:56 PM - Elephant 2: Mam sy***
+1/3/23, 10:56 PM - Sheharyar Khan: Kal class b hy we will sort it out
+1/3/23, 10:56 PM - Sheharyar Khan: Let's see
+1/3/23, 10:56 PM - Sheharyar Khan: Mam sy umid koi ni
+1/3/23, 10:56 PM - Elephant 2: Yeaaap!
+1/3/23, 10:56 PM - Elephant 2: Phr kia karin 🥲
+1/3/23, 10:57 PM - Elephant 2: Sir ny ura dena wrna 🥲
+1/3/23, 10:57 PM - Sheharyar Khan: Btauga kal
+1/3/23, 10:57 PM - Elephant 2: Allah khair kary!
+1/3/23, 10:57 PM - Elephant 2: 👀
+1/3/23, 10:57 PM - Sheharyar Khan: Hmm
+1/3/23, 11:04 PM - Elephant 2: Topic: Page replacement algorithms (other than fifo cause this dude has chosen fifo)
+Members:
+Shehrayar
+Shahmeer
+1/3/23, 11:04 PM - Elephant 2: Thk ha?
+1/3/23, 11:49 PM - Sheharyar Khan: No idea
+1/3/23, 11:49 PM - Sheharyar Khan: Kb dni h yeahM
+1/3/23, 11:49 PM - Sheharyar Khan: ??
+1/3/23, 11:49 PM - Elephant 2: Iska no idea 😂
+1/3/23, 11:50 PM - Elephant 2: Kal class main pta chaly ga hahaha
+1/3/23, 11:50 PM - Sheharyar Khan: <Media omitted>
+1/3/23, 11:50 PM - Sheharyar Khan: <Media omitted>
+1/3/23, 11:50 PM - Elephant 2: Han okaaay ha
+1/3/23, 11:50 PM - Elephant 2: Han thk ha
+1/3/23, 11:50 PM - Sheharyar Khan: <Media omitted>
+1/3/23, 11:50 PM - Elephant 2: Kal to ni ha
+1/3/23, 11:50 PM - Elephant 2: Allah khair kary
+1/3/23, 11:51 PM - Elephant 2: Saturday wali class main hoga
+1/3/23, 11:51 PM - Elephant 2: Ya shayed lab mai
+1/3/23, 11:51 PM - Sheharyar Khan: Okk
+1/4/23, 4:49 PM - Elephant 2: <Media omitted>
+1/4/23, 6:12 PM - Sheharyar Khan: <Media omitted>
+1/4/23, 9:25 PM - Elephant 2: <Media omitted>
+1/4/23, 9:26 PM - Elephant 2: <Media omitted>
+1/4/23, 11:45 PM - Sheharyar Khan: from tkinter.tix import Select
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.select import Select
+import time
+
+driver = webdriver.Chrome(executable_path="C:\\Program Files\\Google\\Chrome\\Driver\\chromedriver.exe")
+driver.implicitly_wait(5)
+
+driver.get('https://www.airbnb.co.in/a/stays')
+location = driver.find_element(By.XPATH, "//input[@id='query']")
+location.send_keys("Italy Rome")
+
+adults = driver.find_element(By.XPATH, ".//*[@id='adults']")
+adults.send_keys('2')
+chlidd = driver.find_element(By.NAME, "children")
+chlidd.send_keys('1')
+
+ checkindate = driver.find_element(By.ID, "//div[@class='dg7nl1z d1x65u59 d698sjd dir dir-ltr']")
+ checkindate.click()
+ checkoutdate = driver.find_element(By.ID,
+                                  "//div[@class='dg7nl1z d1x65u59 d698sjd dir dir-ltr']//div[@class='d1lzmjwf dir dir-ltr'][normalize-space()='18']")
+ checkoutdate.click()
+
+
+print(location.get_attribute("value"))
+searchit = driver.find_element(By.XPATH, "//span[@class='t1fd4488 dir dir-ltr']")
+searchit.click()
+
+#Open the filter section.
+driver.find_element(By.XPATH, "//button[@class='c1tureqs dir dir-ltr']").click()
+# Select the number of bedrooms as 5
+driver.find_element(By.XPATH, "//button[@aria-label='Increase number of bedrooms']").click()
+driver.find_element(By.XPATH, "//button[@aria-label='Increase number of bedrooms']").click()
+driver.find_element(By.XPATH, "//button[@aria-label='Increase number of bedrooms']").click()
+driver.find_element(By.XPATH, "//button[@aria-label='Increase number of bedrooms']").click()
+driver.find_element(By.XPATH, "//button[@aria-label='Increase number of bedrooms']").click()
+
+#Sort houses with pools
+driver.find_element(By.XPATH, "//span[@class='_1oj8hra']//*[name()='svg']").click()
+
+# Verify that the applied filters are correct
+
+assert location.get_attribute("value") == "Rome, Italy"
+assert checkindate.get_attribute("value") == "11"
+assert checkoutdate.get_attribute("value") == "18"
+assert chlidd.get_attribute('value') == '1'
+assert adults.get_attribute('value') == '2'
+driver.quit()
+
+
+
+
+time.sleep(20)
+time.sleep(3)
+1/5/23, 12:01 PM - Elephant 2: <Media omitted>
+1/5/23, 2:58 PM - Sheharyar Khan: Call me
+1/5/23, 8:35 PM - Sheharyar Khan: <Media omitted>
+1/5/23, 9:53 PM - Sheharyar Khan: Shahmer Issy kah Mery hostel ka gate bnd hny lga h
+1/6/23, 11:17 AM - Elephant 2: Kidhr ho tum log
+1/6/23, 11:17 AM - Elephant 2: Muge text mesg karo
+1/6/23, 11:18 AM - Elephant 2: ??
+1/6/23, 11:18 AM - Elephant 2: Iwiwi
+1/6/23, 11:18 AM - Elephant 2: Wjjwjw
+1/6/23, 11:18 AM - Elephant 2: Jejeje
+1/6/23, 11:18 AM - Elephant 2: Hsjjw
+1/6/23, 11:18 AM - Elephant 2: Hwhehe
+1/6/23, 11:18 AM - Elephant 2: Hwjej
+1/6/23, 11:18 AM - Elephant 2: Uwuwuw
+1/6/23, 11:18 AM - Elephant 2: Hehehe
+1/6/23, 11:18 AM - Elephant 2: Jwjwjw
+1/6/23, 1:48 PM - Elephant 2: https://hub.uol.edu.pk/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html#Shell-home
+1/6/23, 7:19 PM - Elephant 2: Yara IS ki assignment send kr dena! Main beth kr bna leta hu!
+1/6/23, 7:19 PM - Elephant 2: Kal in sha allah mam ko pakra du ga
+1/6/23, 7:34 PM - Sheharyar Khan: Tujh kia hwa h?
+1/6/23, 7:37 PM - Elephant 2: Tabiet down hogayi ha bs yr
+1/6/23, 9:08 PM - Elephant 2: Assignment to bhej dy
+1/6/23, 9:16 PM - Sheharyar Khan: <Media omitted>
+1/6/23, 9:16 PM - Sheharyar Khan: <Media omitted>
+1/6/23, 9:16 PM - Elephant 2: Shukran bub! ❤️
+1/6/23, 9:17 PM - Elephant 2: Is main editing kr k kam chal jaye ga?
+1/6/23, 9:17 PM - Sheharyar Khan: Ni yr
+1/6/23, 9:17 PM - Sheharyar Khan: Blkul ni
+1/6/23, 9:17 PM - Elephant 2: Chal main google kr k dobara krta hu
+1/6/23, 9:17 PM - Sheharyar Khan: Mam cancel krai h dasti
+1/6/23, 9:17 PM - Sheharyar Khan: Sath sath hi
+1/6/23, 9:17 PM - Elephant 2: Sahi sahi main krta hu
+1/6/23, 9:17 PM - Sheharyar Khan: Mam ny phli meri prhi k copy na ho
+1/6/23, 9:17 PM - Elephant 2: Okaay karo
+1/6/23, 9:18 PM - Sheharyar Khan: Phr accept
+1/6/23, 9:18 PM - Elephant 2: Ahhh sahi sahi
+1/6/23, 9:18 PM - Elephant 2: Main dobara bnata hu laley
+1/6/23, 9:18 PM - Sheharyar Khan: Hn
+1/6/23, 9:35 PM - Sheharyar Khan: M Teri TRF hii sony auga aj
+1/6/23, 10:36 PM - Elephant 2: okay ha!
+1/6/23, 10:42 PM - Elephant 2: hath pary to eik shorma bi leta ayen
+1/7/23, 11:02 AM - Elephant 2: <Media omitted>
+1/7/23, 11:03 AM - Elephant 2: <Media omitted>
+1/7/23, 11:08 AM - Sheharyar Khan: <Media omitted>
+1/7/23, 11:08 AM - Sheharyar Khan: <Media omitted>
+1/7/23, 11:16 AM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 4:34 PM - Elephant 2: <Media omitted>
+1/7/23, 7:13 PM - Elephant 2: <Media omitted>
+1/7/23, 7:48 PM - Sheharyar Khan: ?
+1/7/23, 10:29 PM - Elephant 2: Han laley kidhr phncha ha?
+1/7/23, 10:29 PM - Elephant 2: Numerical main?
+1/7/23, 10:38 PM - Elephant 2: Muge algorithms ki kuch smg ni ari! 🥲
+1/7/23, 10:53 PM - Sheharyar Khan: Same
+1/7/23, 10:53 PM - Sheharyar Khan: <Media omitted>
+1/7/23, 10:53 PM - Elephant 2: Allah khair kary laley!
+1/8/23, 12:05 AM - Elephant 2: Subha kb tk aye ga?
+1/8/23, 12:05 AM - Elephant 2: Mery charger bs sath leta ayen lazmi! Meri battery dead hogayi ha phone ki!
+1/8/23, 12:08 AM - Sheharyar Khan: Ok h
+1/8/23, 12:08 AM - Sheharyar Khan: Mujh ek dfa sbch 10 tkkk yad krva dyn
+1/8/23, 12:08 AM - Sheharyar Khan: Subh*
+1/8/23, 12:09 AM - Elephant 2: Okaaay karo!
+1/8/23, 12:09 AM - Elephant 2: I will in sha allah!
+1/8/23, 1:22 AM - Sheharyar Khan: <Media omitted>
+1/8/23, 1:22 AM - Sheharyar Khan: <Media omitted>
+1/8/23, 1:22 AM - Sheharyar Khan: Is past paper
+1/8/23, 9:38 AM - Elephant 2: Janu chsrger leta ayen lazmi
+1/8/23, 11:02 AM - Sheharyar Khan: Haeyyyy
+1/8/23, 11:09 AM - Sheharyar Khan: ??
+1/8/23, 5:04 PM - Elephant 2: <Media omitted>
+1/8/23, 5:36 PM - Elephant 2: <Media omitted>
+1/8/23, 5:25 PM - Elephant 2: Missed voice call
+1/8/23, 6:27 PM - Sheharyar Khan: ahmer shahmeer k number p call kr
+1/8/23, 6:27 PM - Elephant 2: Main ni uthau ga!
+1/8/23, 6:27 PM - Elephant 2: 👀
+1/8/23, 6:28 PM - Sheharyar Khan: ahmer shahmeer k number p call kr
+1/8/23, 8:56 PM - Sheharyar Khan: <Media omitted>
+1/8/23, 10:57 PM - Elephant 2: <Media omitted>
+1/8/23, 10:57 PM - Elephant 2: <Media omitted>
+1/8/23, 10:57 PM - Elephant 2: <Media omitted>
+1/8/23, 10:57 PM - Elephant 2: <Media omitted>
+1/8/23, 10:57 PM - Elephant 2: <Media omitted>
+1/8/23, 10:57 PM - Elephant 2: <Media omitted>
+1/8/23, 11:06 PM - Sheharyar Khan: <Media omitted>
+1/8/23, 11:06 PM - Sheharyar Khan: <Media omitted>
+1/8/23, 11:18 PM - Sheharyar Khan: <Media omitted>
+1/8/23, 11:41 PM - Elephant 2: <Media omitted>
+1/8/23, 11:41 PM - Elephant 2: <Media omitted>
+1/9/23, 12:45 AM - Elephant 2: <Media omitted>
+1/9/23, 9:46 AM - Elephant 2: Ha kaha tk prepare kr lia
+1/9/23, 9:46 AM - Elephant 2: Aur kidhr betha howa ha?
+1/9/23, 9:46 AM - Elephant 2: Jaja
+1/9/23, 9:46 AM - Elephant 2: Uwiwi
+1/9/23, 9:46 AM - Elephant 2: Wiiwiw
+1/9/23, 9:46 AM - Elephant 2: Uwuiw
+1/9/23, 9:46 AM - Elephant 2: Wjjwjw
+1/9/23, 9:46 AM - Elephant 2: Wjsjjs
+1/9/23, 9:46 AM - Elephant 2: Ejjwj
+1/9/23, 9:46 AM - Elephant 2: Jwjwj
+1/9/23, 9:46 AM - Elephant 2: Wjjwjw
+1/9/23, 9:46 AM - Sheharyar Khan: m parking hn
+1/9/23, 9:47 AM - Sheharyar Khan: oor teri chapal mery pass hhy
+1/9/23, 9:47 AM - Sheharyar Khan: parking m hi cs k samny car khari h meri
+1/9/23, 9:47 AM - Elephant 2: Okaay karo
+1/9/23, 9:47 AM - Elephant 2: Main bs nikal raha hu hostel sy
+1/9/23, 4:14 PM - Elephant 2: Best of luck for the interview!
+1/9/23, 5:11 PM - Sheharyar Khan: <Media omitted>
+1/9/23, 7:24 PM - Elephant 2: Numerical Baba g tana tan kr di ha
+1/9/23, 9:42 PM - Sheharyar Khan: <Media omitted>
+1/9/23, 10:17 PM - Elephant 2: <Media omitted>
+1/9/23, 10:23 PM - Elephant 2: <Media omitted>
+1/9/23, 11:28 PM - Elephant 2: <Media omitted>
+1/9/23, 11:28 PM - Elephant 2: <Media omitted>
+1/9/23, 11:28 PM - Elephant 2: <Media omitted>
+1/9/23, 11:28 PM - Elephant 2: <Media omitted>
+1/9/23, 11:28 PM - Elephant 2: You dirty, dirty dog! Wuf wuf
+1/10/23, 8:04 AM - Elephant 2: <Media omitted>
+1/10/23, 8:24 PM - Sheharyar Khan: ??
+1/11/23, 6:16 PM - Elephant 2: Ha laley
+1/11/23, 6:16 PM - Elephant 2: Kia scene ha OS ka?
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:22 PM - Elephant 2: <Media omitted>
+1/11/23, 6:24 PM - Sheharyar Khan: M ata hn thuri dair tkkk
+1/11/23, 6:24 PM - Sheharyar Khan: Phr krty h kch
+1/11/23, 6:27 PM - Elephant 2: Okay ha
+1/11/23, 6:36 PM - Elephant 2: Kitni dair tk?
+1/11/23, 6:38 PM - Sheharyar Khan: 1 hour
+1/11/23, 7:01 PM - Elephant 2: Teri taraf chalna phr, right
+1/11/23, 7:01 PM - Sheharyar Khan: Let's see
+1/11/23, 7:02 PM - Elephant 2: Sure!
+1/11/23, 7:02 PM - Elephant 2: Haris agaya ha na, idhr study ni honi
+1/11/23, 7:05 PM - Sheharyar Khan: Hmm
+1/11/23, 7:17 PM - Elephant 2: Baby man gayi? 👀
+1/11/23, 7:29 PM - Sheharyar Khan: 🙄
+1/11/23, 7:29 PM - Sheharyar Khan: Tujh lgta h meri life m hy koi aisi jisk many sy khushi ho mujh
+1/11/23, 7:30 PM - Elephant 2: There is something called a joke!
+1/11/23, 7:30 PM - Elephant 2: Khair, nvm!
+1/11/23, 7:30 PM - Sheharyar Khan: Jis m too bhttt e fazul huy
+1/11/23, 7:31 PM - Elephant 2: 🫡
+1/11/23, 8:46 PM - Sheharyar Khan: M nikal rha hn flat sy
+1/11/23, 8:46 PM - Elephant 2: Okay ha!
+1/11/23, 11:32 PM - Elephant 2: <Media omitted>
+1/12/23, 2:20 PM - Elephant 2: Laley 7 bjy tk aye ga?
+1/12/23, 2:26 PM - Sheharyar Khan: 8 tk
+1/12/23, 3:00 PM - Elephant 2: Okaay bro
+1/12/23, 3:41 PM - Elephant 2: Meri chapal leta ayen bs!
+1/12/23, 3:41 PM - Elephant 2: Yad sy
+1/12/23, 3:41 PM - Sheharyar Khan: Yr aj too mushkil h chapel ghr h or m office
+1/12/23, 4:05 PM - Sheharyar Khan: ??
+1/12/23, 4:27 PM - Elephant 2: Okay ha koi bat ni
+1/12/23, 4:29 PM - Sheharyar Khan: Yr shahmmer
+1/12/23, 4:29 PM - Sheharyar Khan: Numerical ki ek assignment too bnady
+1/12/23, 6:02 PM - Elephant 2: 👀
+1/12/23, 6:02 PM - Elephant 2: Knsi?
+1/13/23, 11:22 AM - Elephant 2: Yara kambal aur joti utha laein agr hath pary
+1/13/23, 11:22 AM - Sheharyar Khan: Phr vhi bat
+1/13/23, 11:23 AM - Sheharyar Khan: Mery office any k bad yeah msg krta h tu
+1/13/23, 11:23 AM - Elephant 2: Kia Subha tha, i guess light abi ayi ha
+1/13/23, 11:23 AM - Elephant 2: Send late howa ha
+1/13/23, 3:16 PM - Elephant 2: Kb tk any ka irada ha laley?
+1/13/23, 3:16 PM - Sheharyar Khan: Ghnty m tery pas
+1/13/23, 3:17 PM - Elephant 2: Almost half the stuff is done
+1/13/23, 3:17 PM - Elephant 2: Okay ha! Neechy a kr text kr dena wohi sy teri taraf nikal parin gy
+1/13/23, 3:17 PM - Sheharyar Khan: Okkkk
+1/13/23, 3:17 PM - Elephant 2: Ya Ali town gate py a kr text kr dein!
+1/13/23, 3:18 PM - Elephant 2: Aight then, have a good time! 🫡
+1/13/23, 3:20 PM - Sheharyar Khan: Ok
+1/13/23, 4:35 PM - Sheharyar Khan: ???
+1/13/23, 6:23 PM - Sheharyar Khan: <Media omitted>
+1/13/23, 6:23 PM - Sheharyar Khan: <Media omitted>
+1/13/23, 8:53 PM - Sheharyar Khan: https://www.hackerrank.com/auth/reset_password?reset_password_token=NacZF2bzzBUK32FX4yYd
+1/13/23, 8:56 PM - Elephant 2: saley wrong link h
+1/13/23, 8:57 PM - Sheharyar Khan: https://www.hackerrank.com/linked-matrix-screening
+1/14/23, 3:55 PM - Elephant 2: Kidhr ho yara?
+1/15/23, 2:48 AM - Elephant 2: Kal aty howy yr mera kambal aur white boot leta ayen laley!
+1/15/23, 10:37 AM - Sheharyar Khan: Sure
+1/15/23, 3:06 PM - Elephant 2: Kb tk ana?
+1/15/23, 3:26 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 3:26 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 3:27 PM - Elephant 2: Bs kambal aur shoes leta ayen
+1/15/23, 3:27 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 3:27 PM - Elephant 2: Okay ha!
+1/15/23, 4:00 PM - Sheharyar Khan: M nikal pra hn flat su
+1/15/23, 4:00 PM - Sheharyar Khan: Sy*
+1/15/23, 4:01 PM - Elephant 2: Okaay ga
+1/15/23, 4:18 PM - Sheharyar Khan: ??
+1/15/23, 4:18 PM - Elephant 2: Yep
+1/15/23, 4:19 PM - Sheharyar Khan: Cum nichy
+1/15/23, 4:19 PM - Elephant 2: Aya
+1/15/23, 5:28 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 5:28 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 5:28 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 5:28 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 5:30 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 5:30 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 6:19 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 6:21 PM - Elephant 2: <Media omitted>
+1/15/23, 6:23 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 6:24 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 6:24 PM - Elephant 2: Simpsons 3 by 8
+1/15/23, 6:26 PM - Elephant 2: Guess Seidel, Simpson 3 by 8
+1/15/23, 7:06 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 7:18 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 7:18 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 7:18 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 7:18 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 7:19 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 7:19 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 7:19 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 7:34 PM - Elephant 2: 1
+1/15/23, 7:34 PM - Elephant 2: 2
+1/15/23, 7:35 PM - Elephant 2: 3
+1/15/23, 7:53 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 7:54 PM - Elephant 2: <Media omitted>
+1/15/23, 8:06 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 8:06 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 8:06 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 8:06 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 8:07 PM - Elephant 2: <Media omitted>
+1/15/23, 8:30 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 8:30 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 8:30 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 9:00 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 9:07 PM - Elephant 2: <Media omitted>
+1/15/23, 9:12 PM - Elephant 2: <Media omitted>
+1/15/23, 10:07 PM - Elephant 2: Ha Sheri?
+1/15/23, 10:07 PM - Elephant 2: I was outside
+1/15/23, 11:17 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 11:24 PM - Sheharyar Khan: ???
+1/15/23, 11:24 PM - Elephant 2: Eik mnt krta hu
+1/15/23, 11:26 PM - Elephant 2: <Media omitted>
+1/15/23, 11:26 PM - Elephant 2: <Media omitted>
+1/15/23, 11:26 PM - Elephant 2: <Media omitted>
+1/15/23, 11:26 PM - Elephant 2: Yahi 3 pary thy
+1/15/23, 11:26 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 11:27 PM - Elephant 2: Janu yahi 3 page pary thy
+1/15/23, 11:27 PM - Elephant 2: Haris k bistar py pary thy
+1/15/23, 11:27 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 11:29 PM - Elephant 2: <Media omitted>
+1/15/23, 11:29 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 11:30 PM - Elephant 2: Ruk dekhta hu
+1/15/23, 11:31 PM - Elephant 2: <Media omitted>
+1/15/23, 11:31 PM - Elephant 2: Bs yahi hain na?
+1/15/23, 11:31 PM - Sheharyar Khan: Gg
+1/15/23, 11:31 PM - Elephant 2: Okay karo!
+1/15/23, 11:31 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 11:32 PM - Elephant 2: Okay!
+1/15/23, 11:40 PM - Sheharyar Khan: <Media omitted>
+1/15/23, 11:40 PM - Sheharyar Khan: 1
+1/15/23, 11:40 PM - Sheharyar Khan: You deleted this message
+1/15/23, 11:40 PM - Sheharyar Khan: 2
+1/15/23, 11:41 PM - Sheharyar Khan: 3
+1/15/23, 11:41 PM - Sheharyar Khan: 4
+1/15/23, 11:41 PM - Sheharyar Khan: 5
+1/15/23, 11:41 PM - Sheharyar Khan: Inki bnady pdf
+1/15/23, 11:41 PM - Elephant 2: Okaay eik mnt
+1/15/23, 11:44 PM - Elephant 2: <Media omitted>
+1/15/23, 11:44 PM - Sheharyar Khan: 🙌🏻🙌🏻
+1/15/23, 11:44 PM - Sheharyar Khan: Thanks buddu
+1/15/23, 11:44 PM - Sheharyar Khan: Chal ab soja
+1/15/23, 11:45 PM - Elephant 2: 🫡
+1/16/23, 11:57 AM - Elephant 2: https://youtu.be/EyDpQpcPpuc
+1/16/23, 12:26 PM - Sheharyar Khan: Hn jnu dkhi h yeah
+1/16/23, 12:26 PM - Sheharyar Khan: No doubt lucid air kamal krai
+1/16/23, 12:26 PM - Elephant 2: Yep!
+1/16/23, 12:27 PM - Elephant 2: I just saw this, plus the editing!
+1/16/23, 12:46 PM - Elephant 2: Testing ka kia krna?
+1/16/23, 1:04 PM - Sheharyar Khan: No idea bruh
+1/16/23, 1:04 PM - Sheharyar Khan: M to ab 8 bjy e auga
+1/16/23, 1:04 PM - Sheharyar Khan: Phr joo hogi dkhngy
+1/16/23, 1:04 PM - Elephant 2: I'll be going to bilal's! Let's see how stuff goes
+1/16/23, 1:04 PM - Sheharyar Khan: Hmm
+1/16/23, 7:03 PM - Sheharyar Khan: <Media omitted>
+1/16/23, 7:03 PM - Elephant 2: Han okay
+1/16/23, 7:03 PM - Elephant 2: Ruk main kehta ha unko
+1/16/23, 7:09 PM - Elephant 2: Ary hain hm log!
+1/16/23, 7:10 PM - Sheharyar Khan: Ok
+1/16/23, 7:22 PM - Sheharyar Khan: <Media omitted>
+1/16/23, 7:23 PM - Elephant 2: Janu bistar bike py kesy aye ga
+1/16/23, 7:23 PM - Elephant 2: Hm 3 log hain
+1/16/23, 7:23 PM - Elephant 2: Eik bike py
+1/16/23, 7:23 PM - Sheharyar Khan: <Media omitted>
+1/16/23, 7:23 PM - Sheharyar Khan: <Media omitted>
+1/16/23, 7:26 PM - Elephant 2: Ruk main pohcta
+1/16/23, 10:19 PM - Elephant 2: <Media omitted>
+1/17/23, 11:17 AM - Sheharyar Khan: <Media omitted>
+1/17/23, 11:18 AM - Sheharyar Khan: <Media omitted>
+1/17/23, 3:00 PM - Sheharyar Khan: Mashallah
+1/17/23, 3:01 PM - Elephant 2: Shukran 😊
+1/18/23, 12:14 PM - Elephant 2: Yara kettle ka kuch ho skta?
+1/18/23, 12:14 PM - Sheharyar Khan: Kch?
+1/18/23, 12:14 PM - Elephant 2: Agr chakr lagy to leta ayen idhr!
+1/18/23, 12:14 PM - Sheharyar Khan: Teri trf dny ka?
+1/18/23, 12:14 PM - Sheharyar Khan: Chkr hmmm
+1/18/23, 12:14 PM - Elephant 2: Yeep
+1/18/23, 12:14 PM - Sheharyar Khan: Hn tery jny sy phly milna to hy tb krlygy kch
+1/18/23, 12:14 PM - Elephant 2: Laley aj needed ha!
+1/18/23, 12:15 PM - Sheharyar Khan: Abi to office hn na
+1/18/23, 12:15 PM - Elephant 2: Ahmer ko bol dein k office jaty howy deta jaye
+1/18/23, 12:15 PM - Elephant 2: Janu ahmer ko bol dein!
+1/18/23, 12:15 PM - Sheharyar Khan: Usk pas mbile hi nhi hy
+1/18/23, 12:15 PM - Elephant 2: Less go 😂😂
+1/18/23, 12:15 PM - Sheharyar Khan: Haha
+1/18/23, 12:16 PM - Elephant 2: Chal we'll sort something!
+1/18/23, 12:16 PM - Elephant 2: 8 bjy wapsi ha office sy?
+1/18/23, 12:19 PM - Sheharyar Khan: Gg
+1/18/23, 12:29 PM - Elephant 2: Okkay ha
+1/19/23, 5:12 PM - Elephant 2: Oi
+1/19/23, 5:12 PM - Sheharyar Khan: Gg
+1/19/23, 5:12 PM - Elephant 2: Bilal tery liye mithai laya ha
+1/19/23, 5:13 PM - Sheharyar Khan: Ok
+1/19/23, 5:13 PM - Elephant 2: Tu idhr aye ga?
+1/19/23, 5:14 PM - Elephant 2: That was the question
+1/19/23, 5:14 PM - Sheharyar Khan: Dkhngy yr
+1/19/23, 5:14 PM - Sheharyar Khan: Chakar lgta ya nahi
+1/19/23, 5:22 PM - Elephant 2: Okaay ha do let him know k kia scene ha tera!
+1/19/23, 6:09 PM - Sheharyar Khan: Ok g
+1/19/23, 6:14 PM - Elephant 2: teri meethai main ly aya hu
+1/19/23, 6:16 PM - Sheharyar Khan: Oka
+1/19/23, 7:39 PM - Sheharyar Khan: M ara hn Teri trf
+1/19/23, 7:39 PM - Elephant 2: Kay
+1/19/23, 7:39 PM - Elephant 2: Okay ha
+1/19/23, 7:39 PM - Sheharyar Khan: Pr afsos apka cattle ni askygi qk office sy sidha ara hn😂😂
+1/19/23, 7:40 PM - Elephant 2: Koi ni krty kuch uska 👀
+1/19/23, 7:54 PM - Elephant 2: A kr call krna muge!
+1/19/23, 7:54 PM - Sheharyar Khan: Ok
+1/19/23, 9:07 PM - Elephant 2: Kidhr ho bhai?
+1/19/23, 9:19 PM - Sheharyar Khan: <Media omitted>
+1/19/23, 9:20 PM - Elephant 2: It's completely fine laley!
+1/19/23, 9:20 PM - Elephant 2: No issues!
+1/19/23, 10:25 PM - Elephant 2: <Media omitted>
+1/19/23, 10:25 PM - Elephant 2: Tery 250 deny thy main ny
+1/19/23, 10:30 PM - Sheharyar Khan: Received
+1/19/23, 10:30 PM - Elephant 2: We clear?
+1/19/23, 10:30 PM - Sheharyar Khan: Ni😂
+1/19/23, 10:30 PM - Sheharyar Khan: 10 hzar or bhjwa dy
+1/19/23, 10:31 PM - Elephant 2: Han krty kuch!
+1/19/23, 10:50 PM - Sheharyar Khan: Hahah
+1/19/23, 10:57 PM - Elephant 2: 👀😂
+1/20/23, 3:39 PM - Elephant 2: Tuny kb tk ana?
+1/20/23, 3:40 PM - Sheharyar Khan: <Media omitted>
+1/20/23, 3:40 PM - Elephant 2: Okay karo!
+1/24/23, 10:34 AM - Elephant 2: Oii, testing k viva ka kia krna?
+1/24/23, 10:35 AM - Sheharyar Khan: University jara hn vhn jak dkhty hy
+1/24/23, 10:35 AM - Sheharyar Khan: Tu kb tkk aaara hy?
+1/24/23, 10:35 AM - Elephant 2: Chal main nikal raha hu esy 10 mnt tk
+1/24/23, 10:35 AM - Sheharyar Khan: Ok kro
+1/24/23, 11:28 AM - Elephant 2: Yara if possible sir ko bta dein k meri family idhr shift hori ha! Main unhi kamu main busy ho yrrr
+1/24/23, 11:58 AM - Sheharyar Khan: Okk
+1/24/23, 11:59 AM - Elephant 2: Muge btayen phr what did he say!
+1/24/23, 12:21 PM - Sheharyar Khan: <Media omitted>
+1/24/23, 12:21 PM - Sheharyar Khan: <Media omitted>
+1/24/23, 12:22 PM - Elephant 2: Well you're not wrong
+1/24/23, 12:26 PM - Elephant 2: Tu kaha betha ha?
+1/24/23, 12:27 PM - Elephant 2: Main bs ata hu phr!
+1/24/23, 12:28 PM - Sheharyar Khan: <Media omitted>
+1/24/23, 12:30 PM - Elephant 2: Main ara hu university
+1/24/23, 12:30 PM - Sheharyar Khan: <Media omitted>
+1/24/23, 12:31 PM - Elephant 2: Main ara hu
+1/24/23, 1:19 PM - Sheharyar Khan: Agya?
+1/24/23, 1:25 PM - Elephant 2: Han g
+1/24/23, 1:25 PM - Elephant 2: Kidhr ga?
+1/24/23, 1:26 PM - Elephant 2: Testing waly office k bht
+1/24/23, 1:26 PM - Elephant 2: Bhr*
+1/24/23, 6:51 PM - Elephant 2: Oii can ya arrange 1ppp kahi sy? I'll return ya first week next month!
+1/24/23, 6:59 PM - Sheharyar Khan: What is 1ppp ?? 🙄
+1/24/23, 7:00 PM - Elephant 2: Oye yrrr
+1/24/23, 7:00 PM - Elephant 2: 1000*
+1/24/23, 7:00 PM - Elephant 2: Mistyped!!
+1/24/23, 7:01 PM - Sheharyar Khan: Yakam ko tu mujh milny h tb tkk ka e to masla h sara😂
+1/24/23, 7:01 PM - Sheharyar Khan: M vape olx p lgaya h sale hogya to lylyn
+1/24/23, 7:05 PM - Sheharyar Khan: Umid h aj Kal m e hojyga
+1/24/23, 7:06 PM - Sheharyar Khan: 9k tk milry hy 10 p deal done krdni
+1/24/23, 7:06 PM - Elephant 2: Okaay laley
+1/24/23, 7:06 PM - Elephant 2: Let me know 😊
+1/24/23, 7:13 PM - Sheharyar Khan: Sure
+1/26/23, 3:58 PM - Elephant 2: Ha laley koi bat bani
+1/26/23, 4:59 PM - Sheharyar Khan: Hn shahmmer hogya kam
+1/26/23, 4:59 PM - Sheharyar Khan: Btady khn send krn
+1/26/23, 6:08 PM - Elephant 2: Laley easypaisa krdein muge
+1/26/23, 6:19 PM - Sheharyar Khan: Issi number p?
+1/26/23, 6:20 PM - Sheharyar Khan: <Media omitted>
+1/26/23, 6:36 PM - Elephant 2: Shukran laley!
+1/26/23, 6:36 PM - Elephant 2: Received!
+1/27/23, 5:55 PM - Elephant 2: Laley soban calculator mang raha rha
+1/27/23, 5:56 PM - Elephant 2: Usky kam ata ha
+1/27/23, 6:20 PM - Sheharyar Khan: Too khn hy?
+1/27/23, 6:20 PM - Sheharyar Khan: Kal chuti h Kal krta HN m kch
+1/27/23, 6:20 PM - Elephant 2: Bhr hu abi
+1/27/23, 6:20 PM - Elephant 2: Okay laley!
+1/27/23, 6:20 PM - Elephant 2: Let me know kia scene ha
+1/27/23, 6:20 PM - Sheharyar Khan: Okay
+1/28/23, 9:49 PM - Elephant 2: Laley calculator 🥲
+1/28/23, 9:49 PM - Elephant 2: Soban k kam ata ha laley
+1/29/23, 12:02 PM - Elephant 2: ?
+1/29/23, 12:02 PM - Sheharyar Khan: Yr mujh btady m calculator k paisy bhjdta hn ab ni lgra chkar thokar tu
+1/29/23, 12:03 PM - Sheharyar Khan: 1000 bhjdu thkk h??
+1/29/23, 12:04 PM - Sheharyar Khan: Meri b kch masly aisy chalry h k time blkul ni nikalrha udhr askn
+1/29/23, 12:08 PM - Elephant 2: Ahmer pas ha tery?
+1/29/23, 12:08 PM - Elephant 2: Usko bol dein k wo yaha pakra jaye ga!
+1/29/23, 12:09 PM - Elephant 2: Mery pas bike ni ha wrna main khud a kr ly jata
+1/29/23, 12:09 PM - Sheharyar Khan: Yr jnuu koi masla ni suban ko agr urgent zrort h mera frz bnta h ussy LYA h to ussy provide krn
+1/29/23, 12:10 PM - Elephant 2: Na na
+1/29/23, 12:10 PM - Elephant 2: Tu bs ye bta k ahmer pas ha?
+1/29/23, 12:10 PM - Elephant 2: Usko bol dein job py jaty howy yaha muge deta jaye
+1/29/23, 12:10 PM - Elephant 2: Cause main kal ghr jara hu!
+1/30/23, 7:15 PM - Sheharyar Khan: <Media omitted>
+1/30/23, 7:16 PM - Sheharyar Khan: U can try bruh
+1/30/23, 7:18 PM - Sheharyar Khan: <Media omitted>
+1/30/23, 7:18 PM - Sheharyar Khan: Front end
+1/30/23, 10:22 PM - Elephant 2: Main dekhta huu
+1/30/23, 10:22 PM - Elephant 2: Shukran! 😊
+1/30/23, 10:25 PM - Elephant 2: Idhr yara jobs show e ni hori
+1/30/23, 10:25 PM - Sheharyar Khan: <Media omitted>
+1/30/23, 10:26 PM - Elephant 2: Ahh sahi sahi! Chal main abi ghr aya howa hu
+1/30/23, 10:26 PM - Elephant 2: Wapas a kr krty kuch in sha allah!
+1/30/23, 10:26 PM - Elephant 2: Shukran 😊
+1/30/23, 10:27 PM - Sheharyar Khan: Hn ok
+1/31/23, 12:51 PM - Elephant 2: https://apply.techlift.pk
+1/31/23, 2:30 PM - Sheharyar Khan: Yeah kia hy
+1/31/23, 2:35 PM - Elephant 2: Well you wanted to do raat ka kam as well, check this out
+1/31/23, 2:37 PM - Sheharyar Khan: 🥰
+1/31/23, 2:37 PM - Sheharyar Khan: Thanks buddy
+1/31/23, 2:48 PM - Elephant 2: Best of luck! 😉
+1/31/23, 2:55 PM - Sheharyar Khan: Understandable  🙌🏻
+1/31/23, 3:09 PM - Elephant 2: Yea Boi!
+2/3/23, 12:09 PM - Sheharyar Khan: Enrollment krli?
+2/3/23, 12:38 PM - Sheharyar Khan: ??
+2/3/23, 3:40 PM - Elephant 2: Nope
+2/3/23, 3:40 PM - Elephant 2: Start hogayi ha?
+2/3/23, 3:40 PM - Elephant 2: Main yara idhr lahore main shifting kara raha tha
+2/3/23, 3:41 PM - Elephant 2: Isi liye pta ni chala, last date kb ha?
+2/3/23, 3:54 PM - Sheharyar Khan: I dnt know exactly pr 10 days h abi Jhn tkk mujh pta h m not sure
+2/3/23, 3:54 PM - Elephant 2: I'll enroll abi then!
+2/3/23, 3:54 PM - Elephant 2: Let me know tera mera koi agr same section bnta ha to
+2/3/23, 3:57 PM - Sheharyar Khan: M advanced software engineering path rha hn uska  bs ek section hi hy vhn krly enroll
+2/3/23, 4:02 PM - Elephant 2: Okaaay lala
+2/3/23, 4:05 PM - Sheharyar Khan: Job hogai?
+2/3/23, 4:09 PM - Elephant 2: Nope, shifting hogayi khair sy!
+2/3/23, 4:09 PM - Elephant 2: Dua kr job ki bj
+2/3/23, 4:09 PM - Sheharyar Khan: Ek jgah p interview krvau?
+2/3/23, 4:09 PM - Elephant 2: Kis cheez main?
+2/3/23, 4:10 PM - Sheharyar Khan: cpp
+2/3/23, 5:20 PM - Elephant 2: Something is better than nothing hahaha
+2/3/23, 5:20 PM - Elephant 2: Sure I'm in
+2/3/23, 5:21 PM - Elephant 2: Oiii
+2/3/23, 5:21 PM - Elephant 2: Isky 4 sections hain
+2/3/23, 5:21 PM - Elephant 2: Missed voice call
+2/3/23, 5:21 PM - Elephant 2: <Media omitted>
+2/3/23, 5:33 PM - Elephant 2: Main ny A main kia ha
+2/3/23, 5:34 PM - Sheharyar Khan: <Media omitted>
+2/3/23, 7:39 PM - Elephant 2: Han okay ha, main ny  ye first wala main enroll kia ha
+2/4/23, 2:59 PM - Elephant 2: <Media omitted>
+2/4/23, 2:59 PM - Elephant 2: Laley organizational behaviour yahi wala e subject ha na?
+2/4/23, 3:17 PM - Sheharyar Khan: I guess so
+2/4/23, 3:17 PM - Sheharyar Khan: Meri dfa wsy simple ob tha
+2/4/23, 3:17 PM - Sheharyar Khan: Pr lg tu yhi rha
+2/4/23, 8:55 PM - Elephant 2: Okaay hogaya!
+2/4/23, 8:55 PM - Elephant 2: Coal show ni hora abi! Allah khair kary!
+2/4/23, 9:08 PM - Sheharyar Khan: <Media omitted>
+2/4/23, 9:51 PM - Elephant 2: Han jau ga in sha allah!
+2/4/23, 9:51 PM - Elephant 2: Classes kb sy hain wesy?
+2/4/23, 10:35 PM - Sheharyar Khan: M pta krk btadta hn
+2/4/23, 11:43 PM - Elephant 2: Okay ha lala
+2/5/23, 4:32 PM - Elephant 2: Tuny kal ana na burewala sy?
+2/5/23, 4:32 PM - Elephant 2: Soban ka calculator bs muge pakra dein laley
+2/5/23, 5:14 PM - Sheharyar Khan: <Media omitted>
+2/5/23, 7:15 PM - Elephant 2: Tiyari krni kia ha ye bta dy!
+2/5/23, 7:15 PM - Elephant 2: Topics waghera k name, if there's any!
+2/5/23, 7:31 PM - Sheharyar Khan: Oop dsa just
+2/5/23, 8:50 PM - Elephant 2: Okaay!
+2/6/23, 10:45 AM - Sheharyar Khan: ??
+2/6/23, 11:04 AM - Elephant 2: <Media omitted>
+2/6/23, 11:06 AM - Sheharyar Khan: Yr that's good
+2/6/23, 11:06 AM - Sheharyar Khan: Is m bss ek oor cpp ka page add kr
+2/6/23, 11:06 AM - Sheharyar Khan: <Media omitted>
+2/6/23, 11:06 AM - Elephant 2: Zaror krta agr pdf edit hojati, ye template main ny buy kia tha! Sad loif 🥲
+2/6/23, 11:07 AM - Sheharyar Khan: Hojti hy🤦🏻‍♂️
+2/6/23, 11:07 AM - Sheharyar Khan: Ek or PDF bna or in duno ko merge krdy
+2/6/23, 11:08 AM - Elephant 2: Main krta hu kuch, gimme 5 mnt
+2/6/23, 11:12 AM - Sheharyar Khan: Sure, waiting
+2/6/23, 11:28 AM - Elephant 2: <Media omitted>
+2/6/23, 11:28 AM - Elephant 2: i guess this looks good!
+2/6/23, 11:28 AM - Elephant 2: i will be making a new resume very soon, for now yahi sahi ha hahaha!
+2/6/23, 11:49 AM - Sheharyar Khan: You deleted this message
+2/6/23, 11:49 AM - Sheharyar Khan: You deleted this message
+2/6/23, 11:54 AM - Elephant 2: Han g?
+2/6/23, 11:55 AM - Elephant 2: Yara idhr signals ka issue ara ha bs!
+2/6/23, 11:55 AM - Sheharyar Khan: 2 min rk m hr ko cv fwd ki h m review btata hn
+2/6/23, 11:55 AM - Elephant 2: Han g okay ha
+2/6/23, 11:55 AM - Elephant 2: Agr internet off ho to text kr dein! Phone mery hath main e ha!
+2/6/23, 11:57 AM - Sheharyar Khan: Ok
+2/6/23, 12:05 PM - Sheharyar Khan: location: https://maps.google.com/?q=31.4628657,74.2716958
+2/6/23, 12:11 PM - Elephant 2: Okay laley!
+2/6/23, 12:11 PM - Sheharyar Khan: Kitna dur h to yhn sy?
+2/6/23, 2:41 PM - Elephant 2: Kidhr ho?
+2/7/23, 7:16 AM - Elephant 2: Yara fyp enroll krny k liye sap sy, bs subject enroll krna prta na
+2/7/23, 7:16 AM - Elephant 2: Cause waha sirf eiki name show hora tha fyp phase 1 main
+2/7/23, 7:31 AM - Sheharyar Khan: Ggg
+2/7/23, 10:08 AM - Elephant 2: Okaay hogaya!
+2/8/23, 10:36 AM - Sheharyar Khan: <Media omitted>
+2/8/23, 11:03 AM - Elephant 2: Sure, make me jealous! 😂😂
+2/8/23, 11:06 AM - Sheharyar Khan: Hahah😂
+2/8/23, 1:24 PM - Elephant 2: Yep, they did the right thing! Ye sb yahoodi sazish thi!
+2/8/23, 1:25 PM - Elephant 2: Wikipedia was helping people for free! Why? That's not the way to educate people
+2/8/23, 1:31 PM - Sheharyar Khan: Exactly
+2/8/23, 3:06 PM - Sheharyar Khan: Dear Sheharyar khan,
+
+Thank you for your interest in the MTO SAP ABAP role at Biafotech.
+
+Please note your first in-person interview for the said role has been scheduled. The interview will last 20-30 minutes in total. Below are the details.
+
+Date: Thu, Feb 09, 2023
+
+Reporting Time: 02:30 PM
+
+Venue: Biafotech (Pvt.) Ltd. (Lahore Office)
+
+Address: C-31/10, 1st Floor (Adjacent Jalal Sons) Commercial Zone, Main Boulevard, Lake City, Lahore
+
+Google Maps Link: https://goo.gl/maps/AHTLZMwTHxNihGWh7
+
+Important Instructions:
+— Bring along a copy of your updated résumé and valid CNIC.
+— Ensure your presence 15 mins before the reporting time.
+— Bring your Latest Degree /Transcript.
+
+We are looking forward to meeting you!
+
+Sincerely,
+
+Hassan Haider
+Officer HR, Talent Acquisition
+Telephone: +92 42 3230 3230
+WhatsApp: +92 30 7407 6085
+E-mail: hassan.haider@biafotech.comWebsite: https://www.biafotech.com/
+SAP | Digital Transformation | ERP | Biafotech
+Biafotech is a globally recognized IT & ERP leader providing cutting-edge expertise and enterprise-level global standard solutions.
+www.biafotech.com
+
+SAP | Digital Transformation | ERP | Biafotech
+Biafotech is a globally recognized IT & ERP leader providing cutting-edge expertise and enterprise-level global standard solutions.
+www.biafotech.com
+2/8/23, 3:06 PM - Sheharyar Khan: You can try here if you want tooo...
+2/8/23, 3:07 PM - Elephant 2: The interview is about?
+2/8/23, 3:09 PM - Sheharyar Khan: Yr apna sap ni
+2/8/23, 3:09 PM - Sheharyar Khan: Tujh pta e hoga voh world wide use hta h
+2/8/23, 3:09 PM - Sheharyar Khan: Plz don't say tujh b lgta tha uol ka h voh
+2/8/23, 3:09 PM - Sheharyar Khan: Anyways yeah b ek company h sap use krai too usse operate krny k lya bnda chya
+2/8/23, 3:10 PM - Sheharyar Khan: Offering 35k
+2/8/23, 3:13 PM - Sheharyar Khan: I guess it is good until we don't get selected at any other place what do you say bruh?
+2/8/23, 3:14 PM - Sheharyar Khan: I also have something to show you , in which you might be interested
+2/8/23, 4:20 PM - Elephant 2: Show me
+2/8/23, 6:43 PM - Elephant 2: Bruh, show me!
+2/8/23, 6:47 PM - Sheharyar Khan: Ek workshop horai h lhr m kafi achi
+2/8/23, 6:48 PM - Sheharyar Khan: Islamic Love dating and lust university crushes in p
+2/8/23, 6:48 PM - Sheharyar Khan: Like love or lust m difference
+2/8/23, 6:48 PM - Sheharyar Khan: Oor Islam kya khta h love k bry m
+2/8/23, 6:48 PM - Sheharyar Khan: University relationships k bry m
+2/8/23, 6:49 PM - Elephant 2: Lesss goo!
+2/8/23, 6:49 PM - Elephant 2: Kidhr hori ha?
+2/8/23, 6:57 PM - Sheharyar Khan: It will cost you😂
+2/8/23, 7:24 PM - Elephant 2: Like how much?
+2/8/23, 7:24 PM - Elephant 2: 🥲
+2/8/23, 7:34 PM - Sheharyar Khan: 1k
+2/8/23, 7:34 PM - Sheharyar Khan: Just
+2/8/23, 7:34 PM - Sheharyar Khan: Workshop is paid
+2/8/23, 7:35 PM - Sheharyar Khan: But a good bunch of alem e din and intellectual people's will be there to debate and also qNa session
+2/8/23, 8:16 PM - Elephant 2: Sahi sahi!
+2/8/23, 8:16 PM - Elephant 2: I'm out, but i suggest you should pay this a visit!
+2/8/23, 8:17 PM - Sheharyar Khan: Ni suggestion ki zrort ni
+2/8/23, 8:17 PM - Sheharyar Khan: M to wsy b jana e hy😂
+2/8/23, 8:17 PM - Elephant 2: Hahahaha sahi ha!
+2/9/23, 12:17 AM - Sheharyar Khan: Kal chla jyn interview k lya
+2/9/23, 12:18 AM - Elephant 2: I'm not too sure about it abi
+2/11/23, 11:50 AM - Elephant 2: Laley Calculator mila?
+2/11/23, 11:52 AM - Elephant 2: Yara usko phr calculator buy krky dy dein gy
+2/11/23, 11:52 AM - Elephant 2: Y'know
+2/11/23, 11:52 AM - Sheharyar Khan: Abi khn h tu?
+2/11/23, 11:52 AM - Elephant 2: Main apny ghr hu
+2/11/23, 11:53 AM - Sheharyar Khan: Yr suban k account m abi paisy na bhjdu?
+2/11/23, 11:53 AM - Elephant 2: Ni yara!
+2/11/23, 11:53 AM - Sheharyar Khan: Bat vhi h Meri 9 - 11 job h m ni nikal skta time or Saturday Sunday ko Dil ni krta k AJ b bhr niklo
+2/11/23, 11:53 AM - Elephant 2: Wo bol raha tha k main ny calculator dia tha, paisy muge na Hun, calculator ho
+2/11/23, 11:54 AM - Elephant 2: If that make sense;
+2/11/23, 11:55 AM - Sheharyar Khan: Chlo m suban sy rabta krk bikea krvadta hn
+2/11/23, 11:55 AM - Elephant 2: Tery pas number ha uska?
+2/11/23, 11:55 AM - Sheharyar Khan: Gg
+2/11/23, 11:55 AM - Elephant 2: Soban ka
+2/11/23, 11:56 AM - Elephant 2: Chalo muge btana phr k kia bna
+2/11/23, 11:56 AM - Elephant 2: Main tery sy esy koi 10 mnt tk dobara rabta krta hu!
+2/11/23, 11:56 AM - Sheharyar Khan: Acha
+2/11/23, 11:58 AM - Sheharyar Khan: Calculator ka model vgaira h mind m?
+2/11/23, 11:59 AM - Elephant 2: Ni laley!
+2/11/23, 11:59 AM - Elephant 2: Scientific calculator tha bs yahi pta ha
+2/11/23, 11:59 AM - Sheharyar Khan: Internet p bhtttt sary casio k calculator ary hy
+2/11/23, 12:00 PM - Elephant 2: Is tarah ka tha uska
+2/11/23, 12:00 PM - Elephant 2: Mery khayal sy
+2/11/23, 12:00 PM - Elephant 2: <Media omitted>
+2/11/23, 12:02 PM - Elephant 2: fx-82ES Plus
+2/11/23, 12:05 PM - Elephant 2: Kitny ka ha ye?
+2/11/23, 12:19 PM - Elephant 2: Ollo?
+2/11/23, 12:21 PM - Sheharyar Khan: Shahmmer I dnt know the exact price
+2/11/23, 12:21 PM - Elephant 2: Yeep you still forgot the e!
+2/11/23, 12:21 PM - Sheharyar Khan: I admite mujh sy calculator gum gya h bhi m phncha dta hn subhan tk ab kia khta h tu or?
+2/11/23, 12:22 PM - Sheharyar Khan: Sans too ly
+2/11/23, 12:22 PM - Elephant 2: Bruh!
+2/11/23, 12:22 PM - Elephant 2: I'm NOT in a hurry!
+2/11/23, 12:22 PM - Elephant 2: I was talking about the.. nvm!
+2/11/23, 12:22 PM - Sheharyar Khan: Nvm?
+2/11/23, 12:23 PM - Elephant 2: Nevermind*
+2/11/23, 12:23 PM - Sheharyar Khan: Or mujh iska b mtlb smjh ni aya wssy forget the e?
+2/11/23, 12:23 PM - Sheharyar Khan: Mind to m kra hn bht
+2/11/23, 12:23 PM - Elephant 2: Bruhh why?
+2/11/23, 12:24 PM - Elephant 2: If it was mine, I wouldn't have asked! Y'know!
+2/11/23, 12:24 PM - Elephant 2: My name's shahmeer! 👀
+2/11/23, 12:56 PM - Elephant 2: 👀
+2/11/23, 1:01 PM - Sheharyar Khan: Glti sy  lga tha😂
+2/11/23, 1:05 PM - Sheharyar Khan: Terry Papa h lhr?
+2/11/23, 1:05 PM - Elephant 2: Hahahaha! Make sense!
+2/11/23, 1:05 PM - Elephant 2: Soban sy bat howi teri?
+2/11/23, 1:05 PM - Elephant 2: Han g abi to Lahore hain
+2/11/23, 1:05 PM - Elephant 2: Khair?
+2/11/23, 1:05 PM - Sheharyar Khan: Wsy hi uncle sy mil k thank you khna tha
+2/11/23, 1:06 PM - Sheharyar Khan: Bhiii ab is bry m bat  na krain avain damag na shat kr m kha na AJ punch jyga ussy calculator
+2/11/23, 1:06 PM - Elephant 2: Yrr main just poch raha tha! The hell?
+2/11/23, 1:07 PM - Sheharyar Khan: M bat krni e ni usy
+2/11/23, 1:07 PM - Sheharyar Khan: Jak Ali bhai ko dyauga yaa bykea wala pkra ayga
+2/11/23, 1:07 PM - Elephant 2: Bhai!
+2/11/23, 1:08 PM - Sheharyar Khan: Hell is you are asking a same question for aprox 10th time
+2/11/23, 1:08 PM - Sheharyar Khan: Agr calculator itna zrori tha you were supposed to say at the first time k bhai calculator k bgair Guzaura nhi hy puncha m puncha dta jsy mrzi
+2/11/23, 1:08 PM - Sheharyar Khan: I was like k shahmmer sy ghr wali bat h khair h
+2/11/23, 1:09 PM - Elephant 2: It wasn't mine!!!!!
+2/11/23, 1:09 PM - Elephant 2: Wrna main ny koi bat krni e ni thi Bhai!
+2/11/23, 1:10 PM - Sheharyar Khan: ...
+2/11/23, 1:10 PM - Elephant 2: Ha yara meri e ghlti e!
+2/11/23, 1:10 PM - Elephant 2: Sorry! 🙏🏾
+2/11/23, 1:12 PM - Sheharyar Khan: Bhrhal m suban sy rabta ni kra
+2/11/23, 1:12 PM - Sheharyar Khan: Uncle sy milny ka md h Mera agr tujh thkk lgta m milny auga
+2/11/23, 1:12 PM - Sheharyar Khan: Phr tujh pkra dunga
+2/11/23, 1:12 PM - Sheharyar Khan: Vrna Ali bhai zindabad
+2/11/23, 1:29 PM - Elephant 2: Ha muge pakra dein
+2/11/23, 1:29 PM - Elephant 2: Bta dy kb tk anay ka plan ha?
+2/11/23, 1:30 PM - Sheharyar Khan: 3 bjy tkk
+2/11/23, 1:33 PM - Elephant 2: Okay ha!
+2/11/23, 1:33 PM - Elephant 2: Muge bta dein nikalny sy pehly!
+2/11/23, 1:57 PM - Sheharyar Khan: Lunch krvata h?
+2/11/23, 3:18 PM - Elephant 2: Ha laley kb tk ana?
+2/11/23, 3:18 PM - Elephant 2: Aja krty kuch!
+2/11/23, 3:22 PM - Sheharyar Khan: Ok
+2/11/23, 3:26 PM - Elephant 2: ?
+2/11/23, 3:28 PM - Sheharyar Khan: <Media omitted>
+2/11/23, 4:11 PM - Elephant 2: Aja aja me is waiting
+2/11/23, 4:12 PM - Sheharyar Khan: M nikal pra hm
+2/11/23, 4:15 PM - Elephant 2: Ajao, waiting
+2/11/23, 4:32 PM - Sheharyar Khan: ??
+2/11/23, 4:48 PM - Elephant 2: It's totally free and you can get your concert passes from PFA booth expo center Hall no.3 before 6 :00pm on 10th, 11th and 12th of February
+Or
+https://foodexpo.pfa.gop.pk/Login/FoodExpoSignup
+Register your self on our website you will get passes for sure
+2/11/23, 4:52 PM - Sheharyar Khan: Waiting for you
+2/11/23, 4:52 PM - Sheharyar Khan: Aja phr dkhty h isko
+2/11/23, 5:02 PM - Sheharyar Khan: <Media omitted>
+2/12/23, 1:45 AM - Sheharyar Khan: <Media omitted>
+2/12/23, 1:46 AM - Sheharyar Khan: <Media omitted>
+2/12/23, 1:46 AM - Sheharyar Khan: <Media omitted>
+2/12/23, 11:49 AM - Elephant 2: Ham sb ny apny phar diye thy
+2/12/23, 11:49 AM - Elephant 2: Main poch kr btata hu
+2/12/23, 11:58 AM - Elephant 2: <Media omitted>
+2/12/23, 11:58 AM - Elephant 2: <Media omitted>
+2/12/23, 11:58 AM - Elephant 2: <Media omitted>
+2/12/23, 11:58 AM - Elephant 2: <Media omitted>
+2/12/23, 6:28 PM - Elephant 2: This message was deleted
+2/15/23, 11:36 PM - Elephant 2: Ha g laley? I just got free
+2/15/23, 11:38 PM - Sheharyar Khan: <Media omitted>
+2/15/23, 11:43 PM - Elephant 2: Ah sahi sahi!
+2/16/23, 2:18 PM - Sheharyar Khan: Shahmmer car I have my thousand back zrori tha
+2/16/23, 2:19 PM - Elephant 2: yepp! I'll send ya raat tk!
+2/16/23, 2:19 PM - Elephant 2: Thanks for waiting bruda!
+2/16/23, 2:26 PM - Sheharyar Khan: Hmm thank you yr kam aty hy
+2/16/23, 2:40 PM - Elephant 2: 🫡😁
+2/16/23, 3:48 PM - Elephant 2: <Media omitted>
+2/16/23, 3:48 PM - Elephant 2: Shukran for waiting bub! 😊
+2/16/23, 3:48 PM - Sheharyar Khan: Yeap recived bruh
+2/16/23, 3:49 PM - Elephant 2: 🫡😁
+2/19/23, 7:32 PM - Sheharyar Khan: Hey buddy hope so you are doing well
+2/19/23, 7:32 PM - Sheharyar Khan: Can you suggest me any marvel movie?
+2/19/23, 7:32 PM - Elephant 2: Alhamdulill'ah, me doing good!
+2/19/23, 7:33 PM - Elephant 2: Sure! Try X-men: First class
+2/19/23, 7:34 PM - Sheharyar Khan: Ab link m bhj e dy online dkhny ka agr bat ho e rho h tu
+2/19/23, 7:35 PM - Elephant 2: Krta eik mnt
+2/19/23, 7:35 PM - Elephant 2: https://movies7.to/movie/x-men-first-class-6l97/1-full
+2/19/23, 7:48 PM - Sheharyar Khan: Yr mujh Avengers Infinity War smjh ajygi?
+2/19/23, 7:49 PM - Elephant 2: Um
+2/19/23, 7:49 PM - Elephant 2: You've watched, thor iron man and captain America right?
+2/19/23, 7:49 PM - Sheharyar Khan: yes
+2/19/23, 7:49 PM - Elephant 2: Well, go for it! Even if you didn't understand, you'll surely get entertained!
+2/19/23, 7:50 PM - Sheharyar Khan: ok kro
+2/19/23, 7:50 PM - Elephant 2: Don't*
+2/19/23, 10:09 PM - Sheharyar Khan: Shahmmer
+2/19/23, 10:09 PM - Sheharyar Khan: Where is the next part of what I am watching
+2/19/23, 10:09 PM - Sheharyar Khan: Fuck that was amazing
+2/19/23, 10:12 PM - Elephant 2: The next one's end game
+2/19/23, 10:12 PM - Elephant 2: Avengers end game
+2/19/23, 10:13 PM - Sheharyar Khan: Jisko tm log kahry thy fazool h right?
+2/19/23, 10:47 PM - Sheharyar Khan: <Media omitted>
+2/20/23, 12:27 AM - Elephant 2: sadly i think yes
+2/21/23, 6:15 PM - Sheharyar Khan: <Media omitted>
+2/21/23, 6:23 PM - Elephant 2: This page, if you made it, looks 100% better than my entire css career 😂😂
+2/21/23, 6:23 PM - Elephant 2: Keep going!
+2/21/23, 6:24 PM - Sheharyar Khan: Bnaya to m NY hi hy
+2/21/23, 6:25 PM - Sheharyar Khan: Pr yeah BT teri 100% glt hy
+2/21/23, 6:25 PM - Elephant 2: It's really really good!
+2/21/23, 6:25 PM - Sheharyar Khan: yr thkkk h tareef too sb ko achi lgti h pr yeah zda hy
+2/21/23, 6:25 PM - Sheharyar Khan: Bootstrap zindabad m NY kxh ni kia
+2/21/23, 6:26 PM - Elephant 2: I spoke my heart, agy man'na ya man'na teri marzi ha 😂
+2/21/23, 6:26 PM - Elephant 2: Hahahaha well, you're not wrong! 😂
+2/21/23, 6:26 PM - Sheharyar Khan: Chal phr ksm kha uski
+2/21/23, 6:26 PM - Sheharyar Khan: Jo tjh mili hwe thi Pakistan wali hi
+2/21/23, 6:26 PM - Elephant 2: Bruh qasam sy!
+2/21/23, 6:27 PM - Elephant 2: It's really better than mine!
+2/21/23, 6:27 PM - Sheharyar Khan: Ni ni uski
+2/21/23, 6:27 PM - Sheharyar Khan: Kyaaa name tha uska bhains ki tang🤦🏻‍♂️🤦🏻‍♂️
+2/21/23, 6:27 PM - Elephant 2: Han bhai usi ki! There are some details that i suck at! You've done a good job!
+2/21/23, 6:27 PM - Sheharyar Khan: Like?
+2/21/23, 6:27 PM - Elephant 2: Name ka kia krna, bs usi ki!
+2/21/23, 6:28 PM - Elephant 2: <Media omitted>
+2/21/23, 6:28 PM - Elephant 2: And the row was really well aligned!
+2/21/23, 6:28 PM - Elephant 2: I love them details bhai!
+2/21/23, 6:29 PM - Sheharyar Khan: Bruh bootstrap bootstrap bootstrap
+2/21/23, 6:29 PM - Sheharyar Khan: Yeah bht easy hy
+2/21/23, 6:29 PM - Sheharyar Khan: U know what is the difficult part?
+2/21/23, 6:29 PM - Elephant 2: Main ny isi bola ha k if "you designed" 😂
+2/21/23, 6:29 PM - Elephant 2: Which one?
+2/21/23, 6:30 PM - Sheharyar Khan: Yeah ek edit popup hy
+2/21/23, 6:31 PM - Elephant 2: Ss bhej
+2/21/23, 6:31 PM - Sheharyar Khan: Is m data lyk ana h ek user ID k corresponding api bna kr phly ek api user ID backend p bhjygi phr dusri api batabase sy data fatch krk laygi phr phr database sy backend p ayga data then backend sy frontend p ayga phr idhr show hoga
+2/21/23, 6:31 PM - Sheharyar Khan: This was the task
+2/21/23, 6:31 PM - Elephant 2: Woah!!
+2/21/23, 6:32 PM - Sheharyar Khan: Like 3 layers properly sync krna uper sy threads k sath
+2/21/23, 6:32 PM - Elephant 2: That sounds interesting! Really interesting!
+2/21/23, 6:32 PM - Sheharyar Khan: If you remember threading
+2/21/23, 6:32 PM - Elephant 2: I do remember threading! Still don't know how they work tho! 😂
+2/21/23, 6:32 PM - Elephant 2: https://helpful-marzipan-85b3e4.netlify.app/index.html
+2/21/23, 6:33 PM - Elephant 2: It's a demo website I'm working on! Client ki ha
+2/21/23, 6:33 PM - Elephant 2: Check it out! Mobile and pc dono py dekh!
+2/21/23, 6:33 PM - Sheharyar Khan: Sure
+2/21/23, 6:34 PM - Elephant 2: The hosting is slow, give it time to load a little hehe
+2/21/23, 6:37 PM - Sheharyar Khan: design b tuny socha ??😨
+2/21/23, 6:38 PM - Elephant 2: Obviously! 😂
+2/21/23, 6:38 PM - Elephant 2: Took some inspirations tho! But it was my idea, yes!
+2/21/23, 6:39 PM - Sheharyar Khan: pta ni tu kis base p yeah bat krta hy
+2/21/23, 6:39 PM - Sheharyar Khan: oor i think projects coustomer sy lna is much much more paid
+2/21/23, 6:39 PM - Elephant 2: Told ya, the little details bhai!
+2/21/23, 6:39 PM - Elephant 2: 10k charge kr raha hu iska
+2/21/23, 6:39 PM - Elephant 2: Oh ha! I did got my internship in flutter
+2/21/23, 6:39 PM - Elephant 2: Wo bi sath kr raha hu
+2/21/23, 6:40 PM - Elephant 2: Aur side py ye choty choty projects
+2/21/23, 6:40 PM - Sheharyar Khan: khn?
+2/21/23, 6:41 PM - Sheharyar Khan: flutter kis language p hy bhlan?
+2/21/23, 6:41 PM - Elephant 2: Dart py
+2/21/23, 6:41 PM - Elephant 2: Orientel tech
+2/21/23, 6:41 PM - Sheharyar Khan: Johar town?
+2/21/23, 6:42 PM - Elephant 2: Han g
+2/21/23, 6:43 PM - Sheharyar Khan: Btw I don't think so accouncing your achievements is a good thing
+2/21/23, 6:43 PM - Sheharyar Khan: Just my thought
+2/21/23, 6:44 PM - Elephant 2: I completely agree! Just wanted to brag a little hahaha
+2/21/23, 6:44 PM - Elephant 2: That's why 😂
+2/21/23, 6:44 PM - Sheharyar Khan: Na kr I will suggest
+2/21/23, 6:44 PM - Sheharyar Khan: Bragging gives you feel of satisfaction
+2/21/23, 6:45 PM - Elephant 2: 100% agreed!
+2/21/23, 6:45 PM - Elephant 2: Imma try not to!
+2/21/23, 6:45 PM - Sheharyar Khan: Feel of satisfaction reduce your motivation
+2/21/23, 6:45 PM - Sheharyar Khan: Reducing motivation makes you lazy
+2/21/23, 6:45 PM - Elephant 2: Now this line, i needed to hear! Shukran shukran!
+2/21/23, 6:46 PM - Sheharyar Khan: Lazyness makes you comfortable
+2/21/23, 6:46 PM - Sheharyar Khan: Comfortability kills dreams
+2/21/23, 6:47 PM - Sheharyar Khan: If this makes sense😅
+2/21/23, 6:48 PM - Elephant 2: That makes perfect sense bruh!
+2/21/23, 6:48 PM - Elephant 2: And i agree with ya!
+2/21/23, 6:48 PM - Sheharyar Khan: If you have any I dnt know😅
+2/21/23, 6:49 PM - Elephant 2: Everyone has dreams! Even a drug addict!
+2/21/23, 6:49 PM - Elephant 2: Me too gaha
+2/23/23, 1:18 PM - Elephant 2: Ollo?
+2/23/23, 1:20 PM - Elephant 2: mere pss aik project bana hua hai, Medical instruments detect kar leta hai, with 93 percent accuracy
+2/23/23, 1:20 PM - Elephant 2: Data kahi sy lia ni ha, khud collect kia ha
+2/23/23, 1:20 PM - Elephant 2: Is ki estimated cost bta, what do you think?
+2/23/23, 1:21 PM - Elephant 2: Missed voice call
+2/23/23, 1:40 PM - Sheharyar Khan: Bnaya knsa algorithm use krk h?
+2/23/23, 1:41 PM - Elephant 2: Han sheri
+2/23/23, 1:41 PM - Sheharyar Khan: Yr it depends on ui a bit pr AJ kal itni zda price nahi h is project ki
+2/23/23, 1:41 PM - Elephant 2: Main pochta hu
+2/23/23, 1:42 PM - Elephant 2: Teri estimation kitni ha?
+2/23/23, 1:42 PM - Sheharyar Khan: Qk kafi modern apps agy h ap unki pic dydo chz ki voh video m detect krdty hy🤷🏼‍♂️
+2/23/23, 1:42 PM - Sheharyar Khan: So u can guess k itny sy Kam ki payment hogi
+2/23/23, 1:42 PM - Elephant 2: Bruh
+2/23/23, 1:43 PM - Elephant 2: I can't guess na isi liye tery sy poch raha hu
+2/23/23, 1:43 PM - Sheharyar Khan: With more than 93%
+2/23/23, 1:43 PM - Elephant 2: 30k tk?
+2/23/23, 1:43 PM - Sheharyar Khan: Yr agr koi pagal bnda milgya ussy jitni mrzi lylo m hta to m free b na lta😂
+2/23/23, 1:43 PM - Elephant 2: Bruh, that's roast! 😂
+2/23/23, 1:43 PM - Sheharyar Khan: Like jisko thura sa knowledge hy is chz k application download  krta or detect hojata jo b krna hta
+2/23/23, 1:44 PM - Sheharyar Khan: Bki agr ussy koi customer mila h it's obvious k us bndy ko knowledge ni h is chz ka soo goo for  100k agr bnda bhr ka hy ti
+2/23/23, 1:44 PM - Sheharyar Khan: Agr Pakistani hy than 50k
+2/23/23, 1:45 PM - Elephant 2: Okay karo!
+2/23/23, 1:46 PM - Sheharyar Khan: Hmm
+2/23/23, 7:35 PM - Sheharyar Khan: Oh khair
+2/23/23, 9:58 PM - Elephant 2: Was i incorrect
+2/23/23, 9:58 PM - Elephant 2: 😂
+2/23/23, 9:59 PM - Sheharyar Khan: Ni bhai apka start sy e km h morally support krna lgn ko
+2/23/23, 9:59 PM - Sheharyar Khan: U are best at your work
+2/23/23, 9:59 PM - Sheharyar Khan: I think cs part time h apna
+2/23/23, 10:00 PM - Elephant 2: Cheers! 😂
+2/23/23, 10:00 PM - Sheharyar Khan: Rhndy
+2/23/23, 10:01 PM - Sheharyar Khan: M ni krta tery sath cheers
+2/23/23, 10:01 PM - Elephant 2: Sure, it' your personal choice my G!
+2/23/23, 10:01 PM - Sheharyar Khan: Han blkul
+2/23/23, 10:02 PM - Elephant 2: 😂😂😂👍🏽
+2/24/23, 10:53 AM - Sheharyar Khan: University jara h?
+2/24/23, 11:14 AM - Sheharyar Khan: Oor Saturday ko office jata h ya chuti hti h?
+2/24/23, 1:18 PM - Elephant 2: University jata hu yara
+2/24/23, 1:18 PM - Elephant 2: Abi internship isi liye they're fine with hybrid time!
+2/24/23, 1:18 PM - Elephant 2: Bs kam dikahana hota
+2/24/23, 1:18 PM - Elephant 2: Abi university sy aya hu
+2/24/23, 1:18 PM - Sheharyar Khan: Kal ana h?
+2/24/23, 1:19 PM - Elephant 2: Kal I'll rest yara!
+2/24/23, 1:19 PM - Elephant 2: Next week sy Saturday ko au ga
+2/24/23, 1:19 PM - Sheharyar Khan: Hmm okkk
+2/24/23, 1:19 PM - Elephant 2: Kal zara office ja kr time dena
+2/26/23, 1:47 PM - Sheharyar Khan: Ufffff
+2/26/23, 2:22 PM - Elephant 2: 👀
+2/26/23, 4:37 PM - Sheharyar Khan: ??
+2/26/23, 4:37 PM - Elephant 2: Yep?
+2/26/23, 4:39 PM - Sheharyar Khan: Kidr k
+2/26/23, 4:39 PM - Sheharyar Khan: Kidr o
+2/26/23, 4:40 PM - Sheharyar Khan: <Media omitted>
+2/26/23, 5:05 PM - Elephant 2: Janu mery apna ghr relatives aye howy hain
+2/26/23, 5:05 PM - Elephant 2: Ami k mamu k aye howy hain ghr
+2/26/23, 5:06 PM - Elephant 2: Dekh ly!
+2/26/23, 5:06 PM - Sheharyar Khan: <Media omitted>
+2/26/23, 5:07 PM - Sheharyar Khan: ??
+2/26/23, 5:15 PM - Elephant 2: Yara sorry. Acha ni laga
+2/26/23, 5:15 PM - Elephant 2: Aunty esy akeli bethi rain gi
+2/26/23, 5:15 PM - Elephant 2: Uncomfortable hun hi
+2/26/23, 6:22 PM - Sheharyar Khan: Hn thikkk h hogya kam
+2/26/23, 6:36 PM - Elephant 2: Aunty lahore kia kr rahi hain?
+2/26/23, 6:38 PM - Sheharyar Khan: Ghr dkhry hy
+2/26/23, 6:38 PM - Elephant 2: Sorry again yara! Ghr relatives aye howy hain!
+2/26/23, 6:38 PM - Elephant 2: Also best of luck!
+2/26/23, 6:39 PM - Sheharyar Khan: Hm ok g
+2/26/23, 6:39 PM - Sheharyar Khan: Koi ni
+2/26/23, 6:39 PM - Elephant 2: 🫡
+3/1/23, 9:25 AM - Sheharyar Khan: shahmmer ?
+3/1/23, 9:25 AM - Sheharyar Khan: m apna flat shift kra hn aj hoskta h ek din saman teri trf rkhna pry
+3/1/23, 9:27 AM - Elephant 2: Kitna saman ha laley?
+3/1/23, 9:27 AM - Sheharyar Khan: 2 bags
+3/1/23, 9:27 AM - Elephant 2: Okay ha!
+3/1/23, 9:27 AM - Elephant 2: Kitny bajy tk aye ga?
+3/1/23, 9:28 AM - Elephant 2: Abi main university hu
+3/1/23, 9:28 AM - Sheharyar Khan: 3 bjy
+3/1/23, 9:28 AM - Elephant 2: Sure! Muge call kr dena!
+3/1/23, 9:28 AM - Sheharyar Khan: vohh b abi finale ni h incase agr bht zrort hwe than i will call you
+3/1/23, 9:28 AM - Sheharyar Khan: or suna
+3/1/23, 9:28 AM - Sheharyar Khan: bic agai teri
+3/1/23, 9:29 AM - Elephant 2: Abi tk ni! Ajaye gi in sha allah jaldi
+3/1/23, 9:29 AM - Elephant 2: Sure let me know
+3/1/23, 9:29 AM - Sheharyar Khan: sai hogya
+3/1/23, 9:30 AM - Sheharyar Khan: tuny bhrhal apni job ki party ni di abi tk
+3/1/23, 11:46 AM - Elephant 2: Jb job paki hogi to zaror dunga
+3/1/23, 11:46 AM - Elephant 2: Abi internee hu 😂
+3/1/23, 11:46 AM - Sheharyar Khan: M knsa permanent hogya tha bai jb m ny di
+3/1/23, 11:47 AM - Sheharyar Khan: Normally permanent to 3 maah bad hi hty h sary
+3/1/23, 11:47 AM - Sheharyar Khan: Ya atleast 2 if you are too good
+3/1/23, 11:47 AM - Elephant 2: Chalo weekend py scene bnaty hain?
+3/1/23, 11:47 AM - Elephant 2: Sunday ya Saturday after university?
+3/1/23, 11:47 AM - Sheharyar Khan: good boy
+3/1/23, 11:48 AM - Sheharyar Khan: dkhlygy milna hi hy saturday ko phr dkhty hy
+3/1/23, 11:48 AM - Sheharyar Khan: tooo bs tyari rkh 😂😂
+3/1/23, 11:48 AM - Elephant 2: Hahaha okay ha!
+3/1/23, 4:09 PM - Sheharyar Khan: Shahmmer?
+3/1/23, 4:31 PM - Elephant 2: Ha g
+3/1/23, 4:31 PM - Elephant 2: I dozed off haha! Just woke up!
+3/1/23, 6:55 PM - Elephant 2: 7000 ki seat
+3/1/23, 6:55 PM - Elephant 2: <Media omitted>
+3/1/23, 6:55 PM - Elephant 2: 2sry hostel ka warden ni betha tha uska number ly aya hu
+3/1/23, 6:55 PM - Elephant 2: <Media omitted>
+3/1/23, 7:10 PM - Sheharyar Khan: <Media omitted>
+3/1/23, 7:26 PM - Sheharyar Khan: Iski seat 7000 ki hy?
+3/1/23, 7:26 PM - Elephant 2: Han g
+3/1/23, 7:26 PM - Sheharyar Khan: Tu is time khn h?
+3/1/23, 7:26 PM - Elephant 2: Abi hostel dekh kr aya hu
+3/1/23, 7:26 PM - Elephant 2: Ab cousins k pas betha hu
+3/1/23, 7:26 PM - Sheharyar Khan: Ab ghr agya h?
+3/1/23, 7:26 PM - Sheharyar Khan: Ya Ali town?
+3/1/23, 7:26 PM - Sheharyar Khan: Chal ata hn m
+3/1/23, 7:26 PM - Elephant 2: Ali Town hu abi
+3/1/23, 7:27 PM - Elephant 2: Okay ha!
+3/1/23, 7:27 PM - Elephant 2: Aj w treat ka krty kuch!
+3/1/23, 7:27 PM - Elephant 2: Zain bi free ha aj
+3/1/23, 7:27 PM - Elephant 2: Aj e kahi scene bnaty hain!
+3/1/23, 7:27 PM - Sheharyar Khan: Ok kro
+3/1/23, 7:27 PM - Sheharyar Khan: Ata m
+3/1/23, 7:27 PM - Elephant 2: Okaay!
+3/1/23, 7:27 PM - Elephant 2: Let me know kia scene ha
+3/1/23, 7:27 PM - Sheharyar Khan: Oka
+3/1/23, 7:44 PM - Elephant 2: Kb tk ana?
+3/1/23, 7:44 PM - Sheharyar Khan: 15 mins
+3/1/23, 7:44 PM - Elephant 2: Waiting
+3/1/23, 8:28 PM - Elephant 2: Laley kaha reh gaye ho?
+3/2/23, 1:20 PM - Elephant 2: Oi.
+3/2/23, 1:21 PM - Sheharyar Khan: Hn oi
+3/2/23, 1:21 PM - Elephant 2: Can ya manage 50k kahi sy?
+3/2/23, 1:21 PM - Elephant 2: I'll return 10k per month!
+3/2/23, 1:21 PM - Sheharyar Khan: Are u for real? 🙄
+3/2/23, 1:22 PM - Elephant 2: I am! Ofcourse if it's possible! 👀
+3/2/23, 1:22 PM - Sheharyar Khan: I was reading k u have written 5 or 50😂😂
+3/2/23, 1:22 PM - Elephant 2: 50 bruh!
+3/2/23, 1:22 PM - Elephant 2: 50k! 🥲
+3/2/23, 1:22 PM - Sheharyar Khan: Abi meri first sallery b ni aiii or mangny ay hwy😂😂Phil sallery any to 1 dfa bhai
+3/2/23, 1:23 PM - Sheharyar Khan: Pura mahina 16 ghnty job Krny k bad ani h phr mang b lna
+3/2/23, 1:23 PM - Elephant 2: Papa sy poch ly! Urgent na hota main tuge na kehta
+3/2/23, 1:24 PM - Sheharyar Khan: Mery papa itny achy hty m ny tery papa sy hi loan lny tHy🤦🏻‍♂️
+3/2/23, 1:24 PM - Elephant 2: Dekh lein agr easy ho to muge btayen! Main ny 2 3 dosto sy bola ha! Socha tuge bi bta du! Agr manage hota hain ofcourse
+3/2/23, 1:24 PM - Elephant 2: Valid Point! 😂
+3/2/23, 1:36 PM - Sheharyar Khan: Yr ho e ni skta I dnt know kya problem hogi but m sorry bro 50k🥺
+3/2/23, 1:36 PM - Elephant 2: Na na yara that is totally fine yr!
+3/2/23, 1:37 PM - Elephant 2: Obvio money dont grow on trees!
+3/2/23, 1:37 PM - Elephant 2: Isi liye its understandable hehe!
+3/2/23, 1:39 PM - Sheharyar Khan: Hmm thanks
+3/2/23, 1:39 PM - Elephant 2: lo g where did the thanks came from you idiotic sheet! 😂
+3/2/23, 1:59 PM - Sheharyar Khan: Haha
+3/3/23, 6:26 PM - Sheharyar Khan: <Media omitted>
+3/3/23, 6:26 PM - Sheharyar Khan: <Media omitted>
+3/3/23, 7:02 PM - Elephant 2: Okaay ha!
+3/5/23, 2:36 PM - Elephant 2: Laley teri wapsi aj ha?
+3/5/23, 2:37 PM - Sheharyar Khan: Kal subh subh 8 bjy lhr
+3/5/23, 2:37 PM - Elephant 2: Okay hogaya!
+3/5/23, 2:37 PM - Elephant 2: Muge call kr dena, I'll come pick ya up then
+3/5/23, 2:37 PM - Sheharyar Khan: Tuny hr ka number ni send kya bsdk
+3/5/23, 2:38 PM - Elephant 2: Oops! Eik mnt
+3/6/23, 8:50 AM - Elephant 2: Oii
+3/6/23, 8:50 AM - Elephant 2: Sheri teri bari wali bottle rakhni?
+3/6/23, 8:51 AM - Sheharyar Khan: Ni bari ap log use krlo
+3/6/23, 8:51 AM - Elephant 2: Okay ha! Shukran!
+3/6/23, 8:51 AM - Elephant 2: Tery wala dodh boil kr k rakhin ya esy e freezer main rakh du?
+3/6/23, 8:52 AM - Sheharyar Khan: <Media omitted>
+3/6/23, 8:53 AM - Elephant 2: Main ami sy pochta hu
+3/6/23, 12:55 PM - Sheharyar Khan: Shahmeer 🤷🏼‍♂️
+3/6/23, 12:56 PM - Elephant 2: oohh no
+3/6/23, 12:56 PM - Elephant 2: yr dost sy pocha ha wo bol raha k usky pas ni ha number ha! wo slack py bat hoti
+3/6/23, 12:56 PM - Elephant 2: direct office phnch ja
+3/6/23, 12:56 PM - Elephant 2: location bheju?
+3/6/23, 12:57 PM - Sheharyar Khan: name or location bta
+3/6/23, 12:57 PM - Sheharyar Khan: interviews chal b ry h aj kal>
+3/6/23, 12:57 PM - Sheharyar Khan: ?
+3/6/23, 12:57 PM - Elephant 2: interviews as of now to ni hory lekin abi unka study programm chal raha ha
+3/6/23, 12:57 PM - Elephant 2: 3 months ka course kara rahy
+3/6/23, 12:58 PM - Elephant 2: usky liye small interviews chal rahhy
+3/6/23, 12:58 PM - Sheharyar Khan: name kia btaya tha?
+3/6/23, 12:58 PM - Elephant 2: oriental tech
+3/6/23, 7:12 PM - Elephant 2: Tuny kb tk ana ha?
+3/6/23, 7:26 PM - Sheharyar Khan: Khair ho
+3/6/23, 7:27 PM - Elephant 2: Gg wesy poch raha tha!
+3/6/23, 7:27 PM - Sheharyar Khan: Mera intzar kra h?😂😂😂
+3/6/23, 7:27 PM - Elephant 2: Nope, was just asking a question 😂😂
+3/6/23, 7:45 PM - Elephant 2: ?
+3/6/23, 7:49 PM - Sheharyar Khan: 11 tk
+3/6/23, 8:32 PM - Elephant 2: Okay ha
+3/6/23, 11:28 PM - Sheharyar Khan: ??
+3/6/23, 11:28 PM - Elephant 2: yep!
+3/6/23, 11:28 PM - Sheharyar Khan: Yr can i sleep at your place today night
+3/6/23, 11:29 PM - Sheharyar Khan: Mera hostel bht dur hy
+3/6/23, 11:29 PM - Sheharyar Khan: Oor time ni h blkul 12 bjy nikla too souga kb or kal 8 bjy dubara ana h johar town ho
+3/6/23, 11:29 PM - Sheharyar Khan: Wapis kb auga
+3/6/23, 11:29 PM - Elephant 2: sorry yara abi to muskil ha!
+3/6/23, 11:30 PM - Elephant 2: msla seperate room ka isi lye! very sorry Bub!
+3/7/23, 12:48 AM - Sheharyar Khan: Understand able
+3/7/23, 12:52 AM - Elephant 2: Shukran for understanding!
+3/7/23, 1:05 AM - Sheharyar Khan: Oii
+3/7/23, 1:06 AM - Elephant 2: Yep
+3/7/23, 1:11 AM - Sheharyar Khan: Mujh trouser chya
+3/7/23, 1:11 AM - Sheharyar Khan: Koi b
+3/7/23, 1:11 AM - Sheharyar Khan: Aj rat k lya
+3/7/23, 1:12 AM - Elephant 2: Laley ami ny kapry aj dhoy hain! Abi dry ni howy kapry
+3/7/23, 1:12 AM - Elephant 2: Geela chahiye to hukm kt
+3/7/23, 1:12 AM - Elephant 2: 😂
+3/7/23, 1:15 AM - Sheharyar Khan: Hukm lora krn
+3/7/23, 1:15 AM - Sheharyar Khan: tujh 2 kam khn h duno m tuny gand e dikhai hy
+3/7/23, 1:16 AM - Elephant 2: Timing is a bitch bhai?
+3/7/23, 1:16 AM - Elephant 2: Right things, wrong time!
+3/7/23, 10:26 AM - Elephant 2: Laley tery dhodh ki bottle idhr rakhi howi ha, chakr lagana aj tuny?
+3/7/23, 10:27 AM - Sheharyar Khan: yr chkar to lgyga pr rat ko khrab na hoju
+3/7/23, 10:27 AM - Sheharyar Khan: khrab hny sy bhtr h i guess use krlijy
+3/7/23, 10:27 AM - Elephant 2: Laley freezer main rakha howa ha
+3/7/23, 10:27 AM - Elephant 2: Barr bn jaye ga ami bol rahi isi liye poch raha tha
+3/7/23, 10:28 AM - Sheharyar Khan: kia bnjyga?
+3/7/23, 10:28 AM - Elephant 2: Barf**
+3/7/23, 10:28 AM - Elephant 2: Ice hahaha! Mistyped 😂
+3/7/23, 10:28 AM - Sheharyar Khan: acha acha yr i guess ap log use krlo to bhtr ni?
+3/7/23, 10:28 AM - Elephant 2: Laley teri cheez ha, jesy to kahy!
+3/7/23, 10:29 AM - Sheharyar Khan: yr it think use krlna h bhtr mera hisab kitab tu tuny dkhlya h 12 1 baj jata h
+3/7/23, 10:29 AM - Elephant 2: Sahi bat ha
+3/7/23, 10:29 AM - Elephant 2: Chal okay ha, main dhodh pati bnwa raha hu iski 😂
+3/7/23, 10:30 AM - Sheharyar Khan: haha hn thk hy
+3/7/23, 10:30 AM - Sheharyar Khan: shukar h tu b dudh pati shoq sy peera
+3/7/23, 10:30 AM - Elephant 2: Okayy ha
+3/7/23, 10:30 AM - Sheharyar Khan: vrna tujh khalis chzn mushkil e pasand ati
+3/7/23, 10:31 AM - Elephant 2: Ama boil kr leti na, ami ki hath ki cheez phr tuge pta e ha
+3/7/23, 10:31 AM - Elephant 2: Us main alag lazat hoti ua
+3/7/23, 10:31 AM - Sheharyar Khan: hmm
+3/7/23, 10:31 AM - Elephant 2: Do let me know, jb tera scene bnay any ka
+3/7/23, 10:31 AM - Sheharyar Khan: Ok
+3/7/23, 11:50 AM - Elephant 2: Janu stay ka thora muskhil ha, lekin aunty ko mery ghr lena!
+3/7/23, 11:50 AM - Elephant 2: Phr dekhty hain kia krna!
+3/7/23, 11:54 AM - Sheharyar Khan: Lak kia krna h ghr dikhana h ??
+K yhn hm stay ni krskty🙄
+3/7/23, 11:54 AM - Elephant 2: Kia? Muge smg ni aya?
+3/7/23, 11:57 AM - Sheharyar Khan: <Media omitted>
+3/7/23, 11:58 AM - Elephant 2: Means k aunty ko yaha betha dein gy
+3/7/23, 11:59 AM - Elephant 2: Tu tb dekh lein na k aunty ko kaha stay karaba! Avin unko sath ly kr ab ni ghomta rahy ga na!
+3/7/23, 11:59 AM - Sheharyar Khan: <Media omitted>
+3/7/23, 11:59 AM - Elephant 2: Aunty yaha rest waghera kr lein gi, hm ja kr jaga kr kuch itazam kr lein gy, if that make sense
+3/7/23, 12:00 PM - Elephant 2: Allah khair kary ga yr;;
+3/7/23, 12:00 PM - Elephant 2: I'll be here tho!
+3/7/23, 12:00 PM - Elephant 2: Let me know, if i can be of any help!
+3/7/23, 12:04 PM - Sheharyar Khan: Ok
+3/7/23, 4:06 PM - Sheharyar Khan: shahmmer
+3/7/23, 4:10 PM - Elephant 2: Han g
+3/7/23, 4:11 PM - Sheharyar Khan: yr bhai ko parishan na hny fna
+3/7/23, 4:11 PM - Sheharyar Khan: dna
+3/7/23, 4:12 PM - Elephant 2: Bruh i am trying to keep him company hehe
+3/7/23, 4:12 PM - Sheharyar Khan: you are best at this after all😂😂
+3/7/23, 4:12 PM - Sheharyar Khan: moral support
+3/7/23, 4:12 PM - Elephant 2: Hahahaha
+3/7/23, 4:12 PM - Elephant 2: Bs kabi gharor ni kia 😂
+3/7/23, 5:23 PM - Sheharyar Khan: Shahmeer M
+3/7/23, 5:23 PM - Sheharyar Khan: ??
+3/7/23, 5:23 PM - Elephant 2: Yeep
+3/7/23, 5:24 PM - Sheharyar Khan: Yr ek or km prgya h tujh sy
+3/7/23, 5:25 PM - Elephant 2: Kia howa bol?
+3/7/23, 5:25 PM - Sheharyar Khan: Yr mama bag bhool ai h bus station
+3/7/23, 5:26 PM - Elephant 2: Acha
+3/7/23, 5:27 PM - Sheharyar Khan: Hn ab tujh jana pryga yr vhn
+3/7/23, 5:27 PM - Sheharyar Khan: Kssi trh sy
+3/7/23, 5:27 PM - Elephant 2: Bruhh!
+3/7/23, 5:27 PM - Elephant 2: Ruk main dekhta hu
+3/7/23, 5:27 PM - Sheharyar Khan: Kch na ho btyn i will send you money use bykea
+3/7/23, 5:27 PM - Elephant 2: Knsy adday py?
+3/7/23, 5:27 PM - Sheharyar Khan: Jhnsy mujh pick kia tha
+3/7/23, 5:27 PM - Sheharyar Khan: You got balance?
+3/7/23, 5:27 PM - Elephant 2: Jinnah terminal?
+3/7/23, 5:28 PM - Elephant 2: Nope
+3/7/23, 5:29 PM - Sheharyar Khan: g
+3/7/23, 5:30 PM - Elephant 2: Picture bhej dy bag ki
+3/7/23, 5:30 PM - Elephant 2: Aur kaha py rakha tha unho ny?
+3/7/23, 5:30 PM - Elephant 2: Main waha ja kr check kr leta hu
+3/7/23, 5:30 PM - Sheharyar Khan: 03074978512
+3/7/23, 5:30 PM - Sheharyar Khan: this is the number of conductor
+3/7/23, 5:30 PM - Sheharyar Khan: tujh issy contact krna pryga
+3/7/23, 5:30 PM - Elephant 2: Bruh balance ni ha mery pas! 🥲
+3/7/23, 5:30 PM - Sheharyar Khan: he said m 6.45 p thokar auga
+3/7/23, 5:31 PM - Sheharyar Khan: ksi k number sy krly pr rabta tu tujh e krna pryga ab
+3/7/23, 5:31 PM - Elephant 2: Muge teri bat smg ni ari ha
+3/7/23, 5:31 PM - Elephant 2: Aunty agayi hain Lahore?
+3/7/23, 5:31 PM - Sheharyar Khan: Call is a bit difficult in office yr
+3/7/23, 5:31 PM - Sheharyar Khan: Yes
+3/7/23, 5:31 PM - Elephant 2: Aur bus 6.45 py aye gi!
+3/7/23, 5:32 PM - Sheharyar Khan: Bag m rha h
+3/7/23, 5:32 PM - Sheharyar Khan: Bus thokar sy chli gai hy
+3/7/23, 5:32 PM - Sheharyar Khan: Bus ny wapis thokar ana h 6.45 p
+3/7/23, 5:32 PM - Sheharyar Khan: Bag m rahgya h bus m
+3/7/23, 5:32 PM - Elephant 2: Acha bag usky pas ha?
+3/7/23, 5:32 PM - Sheharyar Khan: Oor mama aiman chand sath hy
+3/7/23, 5:32 PM - Sheharyar Khan: Yes bag bus m hyy conductor ny verify krdya hy
+3/7/23, 5:32 PM - Elephant 2: Chalo main conductor sy rabta krta hu!
+3/7/23, 5:33 PM - Elephant 2: Bag ka color waghera kuch bta dy, taky koi ghlt bag na utha lu main
+3/7/23, 5:34 PM - Sheharyar Khan: Bhi leather k brown tachi h
+3/7/23, 5:34 PM - Sheharyar Khan: 22
+3/7/23, 5:34 PM - Sheharyar Khan: Seat number
+3/7/23, 5:34 PM - Sheharyar Khan: Khn meri mama ka bag tha
+3/7/23, 5:34 PM - Sheharyar Khan: Mera rabta hwa h m kha h meri mama ka bag h m auga lny
+3/7/23, 5:36 PM - Elephant 2: Yara idhr bc kisi k pas balance ni ya
+3/7/23, 5:36 PM - Elephant 2: Ha*
+3/7/23, 5:37 PM - Sheharyar Khan: ab?
+3/7/23, 5:37 PM - Elephant 2: Yara mery number py load krdy agr possible ha to
+3/7/23, 5:37 PM - Sheharyar Khan: acha
+3/7/23, 5:38 PM - Elephant 2: Bc eik to internet ko mout ayi howi ha
+3/7/23, 5:38 PM - Elephant 2: Messages e send ni hory
+3/7/23, 5:38 PM - Sheharyar Khan: Kra hn balance
+3/7/23, 5:38 PM - Sheharyar Khan: Sim knsi h teri bhlan?
+3/7/23, 5:39 PM - Elephant 2: Bus 6 45 py ayi gi?
+3/7/23, 5:42 PM - Sheharyar Khan: yes
+3/7/23, 5:42 PM - Sheharyar Khan: sim btady apni
+3/7/23, 5:42 PM - Sheharyar Khan: zong h na?
+3/7/23, 5:43 PM - Elephant 2: Phr main 6 bjy tk yaha sy nikal para ga
+3/7/23, 5:43 PM - Elephant 2: Ufone ha laley
+3/7/23, 5:43 PM - Elephant 2: 5005 wala number ha
+3/7/23, 5:43 PM - Sheharyar Khan: <Media omitted>
+3/7/23, 5:43 PM - Sheharyar Khan: Yr ab is number p krdia h load
+3/7/23, 5:43 PM - Elephant 2: Han balance agaya ga
+3/7/23, 5:43 PM - Elephant 2: Zong py
+3/7/23, 5:43 PM - Elephant 2: Okay ha!
+3/7/23, 5:44 PM - Elephant 2: Main 6 ya 6.15 py yaha sy nikal paru ga
+3/7/23, 5:44 PM - Sheharyar Khan: us bndy sy rabta krly naa
+3/7/23, 5:44 PM - Sheharyar Khan: voh thk btady ga kis time jana chya
+3/7/23, 5:45 PM - Elephant 2: Eik aur kam bikr dein yara
+3/7/23, 5:45 PM - Sheharyar Khan: kia kia m smjha ni?
+3/7/23, 5:47 PM - Sheharyar Khan: your net is kicking bruh
+3/7/23, 5:52 PM - Elephant 2: Paisy ni hain mery pas 😅
+3/7/23, 5:52 PM - Elephant 2: 200 easypaisa kr dein 🥲
+3/7/23, 5:52 PM - Elephant 2: Okay ha main krta hu
+3/7/23, 5:52 PM - Elephant 2: 6899
+3/7/23, 5:52 PM - Elephant 2: It fucking is making me lose my fucking mind!!
+3/7/23, 5:52 PM - Elephant 2: Jwjw
+3/7/23, 5:52 PM - Elephant 2: Jwjw
+3/7/23, 5:52 PM - Elephant 2: Jwj
+3/7/23, 5:52 PM - Elephant 2: Uw
+3/7/23, 5:52 PM - Elephant 2: Uwuw
+3/7/23, 5:52 PM - Elephant 2: Wjuw
+3/7/23, 5:52 PM - Elephant 2: Jw
+3/7/23, 5:52 PM - Elephant 2: Wujw
+3/7/23, 5:52 PM - Elephant 2: Wu
+3/7/23, 5:52 PM - Elephant 2: Jwjw
+3/7/23, 5:52 PM - Elephant 2: Uwiw
+3/7/23, 5:52 PM - Elephant 2: Uw
+3/7/23, 5:53 PM - Elephant 2: W
+3/7/23, 5:53 PM - Elephant 2: Wjjw
+3/7/23, 5:53 PM - Elephant 2: Wj
+3/7/23, 5:53 PM - Elephant 2: Agaya internet!
+3/7/23, 5:53 PM - Elephant 2: Yara 200 easypaisa kr dein
+3/7/23, 5:53 PM - Elephant 2: Paisy ni khary mery pas 🥲
+3/7/23, 5:53 PM - Sheharyar Khan: Acha krta hn
+3/7/23, 5:53 PM - Sheharyar Khan: Ufone p hy easy oaisa?
+3/7/23, 5:54 PM - Elephant 2: Isi number py
+3/7/23, 5:54 PM - Elephant 2: 098 waly py
+3/7/23, 6:01 PM - Sheharyar Khan: Niazi
+3/7/23, 6:01 PM - Sheharyar Khan: Bus service
+3/7/23, 6:02 PM - Elephant 2: Bruhhhh!!! 🥲
+3/7/23, 6:02 PM - Elephant 2: Bht door ha wo
+3/7/23, 6:03 PM - Elephant 2: Laley paisy send kr dein!
+3/7/23, 6:04 PM - Elephant 2: Missed voice call
+3/7/23, 6:05 PM - Elephant 2: Hwhw
+3/7/23, 6:05 PM - Elephant 2: Whw
+3/7/23, 6:05 PM - Elephant 2: Uwuw
+3/7/23, 6:05 PM - Elephant 2: Uwuw
+3/7/23, 6:05 PM - Elephant 2: Hwjw
+3/7/23, 6:05 PM - Elephant 2: Wjjw
+3/7/23, 6:05 PM - Elephant 2: Wuw
+3/7/23, 6:05 PM - Elephant 2: Hwjw
+3/7/23, 6:05 PM - Elephant 2: Wuuw
+3/7/23, 6:05 PM - Elephant 2: Hww
+3/7/23, 6:06 PM - Elephant 2: Hello
+3/7/23, 6:07 PM - Elephant 2: Hello
+3/7/23, 6:07 PM - Elephant 2: Hello
+3/7/23, 6:07 PM - Elephant 2: Hello
+3/7/23, 6:07 PM - Elephant 2: Hello
+3/7/23, 6:07 PM - Elephant 2: Hello
+3/7/23, 6:07 PM - Elephant 2: Hello
+3/7/23, 6:07 PM - Elephant 2: Hello
+3/7/23, 6:07 PM - Elephant 2: Hello
+3/7/23, 6:07 PM - Elephant 2: Hello
+3/7/23, 6:08 PM - Sheharyar Khan: <Media omitted>
+3/7/23, 6:08 PM - Sheharyar Khan: <Media omitted>
+3/7/23, 6:09 PM - Elephant 2: Jinnah py 7 bjy ana
+3/7/23, 6:09 PM - Elephant 2: Bus ny
+3/7/23, 6:09 PM - Elephant 2: Main udhr jara hu
+3/7/23, 6:12 PM - Sheharyar Khan: <Media omitted>
+3/7/23, 6:12 PM - Sheharyar Khan: Number h conductor ka
+3/8/23, 11:18 AM - Sheharyar Khan: ??
+3/8/23, 7:10 PM - Elephant 2: Oiiii
+3/8/23, 7:10 PM - Elephant 2: Yara ami poch rahi k if we want to buy milk from ya, Kuch ho skta uska
+3/8/23, 7:11 PM - Sheharyar Khan: knsa milk
+3/8/23, 7:11 PM - Elephant 2: Ye jo tu abi ly aya tha
+3/8/23, 7:11 PM - Elephant 2: Like can we buy it?
+3/8/23, 7:11 PM - Sheharyar Khan: voh use kr ni lya ap lgn ny?
+3/8/23, 7:12 PM - Elephant 2: Han g! Isi liye ami poch rahi k if we can buy like more!
+3/8/23, 7:12 PM - Sheharyar Khan: more m khn sy lau?
+3/8/23, 7:12 PM - Elephant 2: Wohi poch raha hu yr main!
+3/8/23, 7:13 PM - Elephant 2: If possible! Obvious!
+3/8/23, 7:13 PM - Sheharyar Khan: u mean all the way from burewala ?
+3/8/23, 7:13 PM - Elephant 2: Nevermind! Cheers 😂
+3/8/23, 7:13 PM - Sheharyar Khan: tu vaqai hil gya hy
+3/8/23, 7:13 PM - Sheharyar Khan: anti ka smjh ata m mothers to masom hti hy
+3/8/23, 7:13 PM - Sheharyar Khan: tu b hil gya hy
+3/8/23, 7:14 PM - Elephant 2: 🫡😂
+3/10/23, 10:43 PM - Elephant 2: Oi ya got 500 on ya?
+3/10/23, 11:03 PM - Sheharyar Khan: Yr hy zror pr filhal focus h mama ko shift krlu lhr
+3/10/23, 11:03 PM - Sheharyar Khan: Phr koi dusra kam
+3/10/23, 11:04 PM - Elephant 2: bruh, kia bol raha ha?
+3/11/23, 8:07 PM - Sheharyar Khan: <Media omitted>
+3/11/23, 8:07 PM - Sheharyar Khan: This is authentic msg 💯
+3/11/23, 8:07 PM - Sheharyar Khan: I have confirmed
+3/11/23, 8:08 PM - Elephant 2: I've read this, i know!
+3/11/23, 8:08 PM - Sheharyar Khan: We are fucked bruh🥺
+3/11/23, 8:08 PM - Sheharyar Khan: We are fucked
+3/11/23, 8:08 PM - Elephant 2: At this point, i don't care anymore tbh!
+3/11/23, 8:08 PM - Elephant 2: If it's singularity, than singularity it is!
+3/11/23, 8:12 PM - Sheharyar Khan: Btw why dnt you care?
+3/11/23, 8:12 PM - Sheharyar Khan: Dnt you think this will totally change our lives
+3/11/23, 8:13 PM - Elephant 2: Let's see if this'll change mine!
+3/11/23, 8:13 PM - Elephant 2: the only reason i don't give a sheet!
+3/11/23, 9:29 PM - Sheharyar Khan: Sath to kahra tha u dnt give a fuck
+3/11/23, 9:29 PM - Elephant 2: Bhai pora parha ha na>
+3/11/23, 9:29 PM - Elephant 2: We're sorted end main likha howa ha!
+3/11/23, 9:29 PM - Elephant 2: 😂
+3/11/23, 9:30 PM - Sheharyar Khan: Yni tujh lgta h chatgpt will not effect your job?
+3/11/23, 9:30 PM - Elephant 2: Bhai!
+3/11/23, 9:30 PM - Elephant 2: I said, it wont change the life i am living right now!
+3/11/23, 9:32 PM - Sheharyar Khan: Oh acha😅
+3/11/23, 9:33 PM - Sheharyar Khan: Now i got your point
+3/11/23, 9:33 PM - Elephant 2: Yep!
+3/11/23, 9:33 PM - Elephant 2: koi bat ni, it takes time to decypher what i say sometimes hehe!
+3/13/23, 9:54 AM - Elephant 2: Aya ni phr aj?
+3/13/23, 9:55 AM - Sheharyar Khan: Yr office k lya late hora tha
+3/13/23, 9:55 AM - Sheharyar Khan: Ruk ni ska
+3/13/23, 9:55 AM - Sheharyar Khan: Rat m lta jauga ab
+3/13/23, 9:55 AM - Elephant 2: Chalo okay ha!
+3/13/23, 9:56 AM - Elephant 2: Do let me know!
+3/13/23, 9:56 AM - Sheharyar Khan: Hn ok
+3/16/23, 5:37 PM - Elephant 2: Ya free on weekend?
+3/16/23, 5:44 PM - Sheharyar Khan: I hope soo
+3/16/23, 5:44 PM - Elephant 2: Helmet tera idhr rakha howa ha isi lye poch raha tha
+3/16/23, 5:44 PM - Elephant 2: do let me know!
+3/16/23, 5:47 PM - Sheharyar Khan: Yr mujh kafi zrort h uski ksm sy daily sochta hn kal lzmi lunga pr phr yad ni rhta
+3/16/23, 5:47 PM - Sheharyar Khan: Mtlb yad rhta h lakin time ni milta
+3/16/23, 5:48 PM - Elephant 2: Understandable hahaha!
+3/16/23, 5:48 PM - Sheharyar Khan: Kal university ana h m ny
+3/16/23, 5:48 PM - Elephant 2: Jb easy ho tb utha lein
+3/16/23, 5:48 PM - Elephant 2: kitny bajy?
+3/16/23, 6:01 PM - Sheharyar Khan: Ummm jummy k time
+3/16/23, 6:01 PM - Sheharyar Khan: Till 5
+3/16/23, 6:01 PM - Elephant 2: lecture leny?
+3/16/23, 6:01 PM - Elephant 2: mera office hoga us time
+3/16/23, 6:02 PM - Elephant 2: main subha au ga
+3/16/23, 6:02 PM - Elephant 2: linear ka lecture leny
+3/16/23, 6:13 PM - Sheharyar Khan: Sai sai
+3/16/23, 6:13 PM - Sheharyar Khan: Hn Advance se ka
+3/16/23, 6:30 PM - Elephant 2: Acha
+3/16/23, 6:30 PM - Elephant 2: main Saturday ko lun ga in sha allah
+3/16/23, 8:06 PM - Sheharyar Khan: I have given a task to make design to take picture from user and show it on a specific place in specific style and also give user to change image and this task is such a nerve wracking thing to me😂
+3/16/23, 8:07 PM - Sheharyar Khan: As i am to poor with html csss
+3/16/23, 8:08 PM - Elephant 2: Yep, i didnt understand a word you spoke. Accept my apologies!
+3/16/23, 8:40 PM - Sheharyar Khan: <Media omitted>
+3/16/23, 8:41 PM - Elephant 2: Mac os?
+3/16/23, 8:41 PM - Sheharyar Khan: Saly m tujh kahra hn aisy tab bnady😂
+3/16/23, 8:41 PM - Sheharyar Khan: Ya mujh idea dydy ksy bnyga
+3/16/23, 8:41 PM - Elephant 2: Sure! Main tuge bna deta
+3/16/23, 8:41 PM - Elephant 2: Main abi jinnah terminal hu
+3/16/23, 8:41 PM - Elephant 2: Abbu ko adday sy pick krny aya howa
+3/16/23, 8:42 PM - Elephant 2: Ghr ja kr bna deta
+3/16/23, 8:42 PM - Sheharyar Khan: Yr mujh idea dydy ksy bnyga
+3/16/23, 8:42 PM - Elephant 2: If ya can wait
+3/16/23, 8:42 PM - Sheharyar Khan: Any smart ways
+3/16/23, 8:43 PM - Elephant 2: Take a container, give it height and width as necessary.
+Inside the main div, add 4 more divs for the respective heading! Give h1 and value to each div
+3/16/23, 8:44 PM - Elephant 2: Color them with css, and give them heights in % so it will stay responsive
+3/16/23, 8:44 PM - Elephant 2: Bs bn gaya 😂
+3/16/23, 8:45 PM - Elephant 2: Font i guess Poppins ha!
+3/16/23, 8:49 PM - Sheharyar Khan: 😒😒
+3/16/23, 8:49 PM - Sheharyar Khan: Great
+3/16/23, 8:49 PM - Elephant 2: I tried to be as much detailed as I could!
+3/16/23, 8:50 PM - Elephant 2: Wait krly thori dair main ghr a kr tuge bna deta hu
+3/16/23, 9:10 PM - Sheharyar Khan: Chal jb ghr jy btadyn m phr btauga m khn tk puncha hn
+3/16/23, 9:10 PM - Sheharyar Khan: Or kya plan hy
+3/16/23, 9:22 PM - Elephant 2: Okay ha
+3/16/23, 9:23 PM - Elephant 2: Main bs ghr e jara abbu agaye hain
+3/16/23, 9:31 PM - Sheharyar Khan: Ok
+3/16/23, 9:31 PM - Elephant 2: Phnch gays ghr
+3/16/23, 9:31 PM - Elephant 2: Ab bta
+3/16/23, 9:37 PM - Sheharyar Khan: Yeah tab bnana h bhai🙄
+3/16/23, 9:51 PM - Elephant 2: <Media omitted>
+3/16/23, 9:51 PM - Elephant 2: okay ha?
+3/16/23, 9:53 PM - Sheharyar Khan: <Media omitted>
+3/16/23, 9:54 PM - Sheharyar Khan: <Media omitted>
+3/16/23, 10:02 PM - Elephant 2: <Media omitted>
+3/16/23, 10:02 PM - Elephant 2: there ya go
+3/16/23, 10:02 PM - Elephant 2: on hover the tab being hover on will turn sky blue
+3/16/23, 10:02 PM - Elephant 2: i didnt add the trasitions and all tho!
+3/16/23, 10:08 PM - Elephant 2: I still suggest the box color is better!
+3/16/23, 10:15 PM - Sheharyar Khan: Hn send me the code its perfect
+3/16/23, 10:15 PM - Sheharyar Khan: Mujh btady ksy add hti
+3/16/23, 10:15 PM - Elephant 2: Main kr k send kr deta hy
+3/16/23, 10:15 PM - Elephant 2: Eik mnt
+3/16/23, 10:19 PM - Elephant 2: This message was deleted
+3/16/23, 10:19 PM - Elephant 2: there ya go
+3/16/23, 10:19 PM - Elephant 2: added a subtle transitions
+3/16/23, 10:19 PM - Elephant 2: its easy editable, you'll understand what is happening
+3/16/23, 10:22 PM - Elephant 2: <Media omitted>
+3/16/23, 10:26 PM - Sheharyar Khan: Thanks mate
+3/16/23, 10:42 PM - Elephant 2: Cheers!
+3/16/23, 11:22 PM - Sheharyar Khan: <Media omitted>
+3/16/23, 11:23 PM - Elephant 2: Try searching ripple effect on yt
+3/16/23, 11:23 PM - Elephant 2: It'll do the job for ya
+3/17/23, 11:33 AM - Elephant 2: Yep? me on a laptop
+3/17/23, 11:57 AM - Sheharyar Khan: <Media omitted>
+3/17/23, 11:58 AM - Sheharyar Khan: Yeah design bnana h yr
+3/17/23, 11:58 AM - Sheharyar Khan: M sb krlia h yeah arrow bnany ka koi simple trika ??? Like arrow ni bnry
+3/17/23, 11:58 AM - Sheharyar Khan: Buttons bnalya h oor functionality to add kr e lta hn okha soka
+3/17/23, 11:58 AM - Elephant 2: html css?
+3/17/23, 11:58 AM - Sheharyar Khan: Hn
+3/17/23, 11:58 AM - Sheharyar Khan: Like best way bta arrow bnany ka
+3/17/23, 11:58 AM - Sheharyar Khan: Triky to hosky bht sary
+3/17/23, 11:59 AM - Elephant 2: let me thinnk
+3/17/23, 11:59 AM - Elephant 2: use before and after pesudo elements
+3/17/23, 11:59 AM - Elephant 2: wo parhy howy hain tuny?
+3/17/23, 11:59 AM - Elephant 2: ::before and ::after?
+3/17/23, 12:00 PM - Sheharyar Khan: Ni pr parhlunga masla ni hy
+3/17/23, 12:00 PM - Elephant 2: yeep read those
+3/17/23, 12:00 PM - Elephant 2: usky thtough bn jayen gy
+3/17/23, 12:01 PM - Elephant 2: pesudo elements in css
+3/17/23, 11:16 PM - Sheharyar Khan: Mujh lga koi hotel bnalya h😂😂😂
+3/17/23, 11:17 PM - Elephant 2: 😂😂😂
+3/17/23, 11:18 PM - Elephant 2: Food app ha! Imma publish it
+3/17/23, 11:18 PM - Elephant 2: 0.99$ 😁
+3/17/23, 11:20 PM - Sheharyar Khan: Kya functionalities hy?
+3/17/23, 11:21 PM - Elephant 2: It breaks in simple 😂😂
+3/17/23, 11:21 PM - Elephant 2: Recipes and all that
+3/17/23, 11:21 PM - Sheharyar Khan: Oh acha acha
+3/17/23, 11:21 PM - Sheharyar Khan: Fit h boss👍🏼
+3/17/23, 11:21 PM - Elephant 2: Chefs k liye
+3/17/23, 11:22 PM - Elephant 2: Abi ye sara dummy data tha! I'll add original functionalities!
+3/17/23, 11:22 PM - Elephant 2: Cheers! 😂
+3/17/23, 11:22 PM - Sheharyar Khan: Sure
+3/18/23, 10:28 AM - Elephant 2: Han g laley
+3/18/23, 11:18 AM - Sheharyar Khan: M auga 5 bjy inshallah
+3/18/23, 11:19 AM - Elephant 2: Sure! Let me know nikalny sy pehly!
+3/18/23, 11:21 AM - Sheharyar Khan: Okay!
+3/18/23, 4:46 PM - Elephant 2: Ya coming at 5, yes?
+3/18/23, 4:58 PM - Sheharyar Khan: yes
+3/18/23, 4:58 PM - Sheharyar Khan: inshallah
+3/18/23, 4:58 PM - Elephant 2: It's 5 pm! That's why I'm asking! Ahm
+3/18/23, 4:58 PM - Sheharyar Khan: bs nikluga 5 bjy office sy
+3/18/23, 4:58 PM - Sheharyar Khan: pas e hy tery ghr k pta h tujh
+3/18/23, 4:58 PM - Sheharyar Khan: 5 min m tery pas
+3/18/23, 4:59 PM - Elephant 2: Oh han! Okay ha! Waiting!
+3/18/23, 4:59 PM - Elephant 2: Main abi ghr aya hu!
+3/18/23, 4:59 PM - Sheharyar Khan: okkkkk
+3/18/23, 5:17 PM - Sheharyar Khan: M outsiders
+3/18/23, 5:17 PM - Sheharyar Khan: Outside*
+3/18/23, 5:17 PM - Elephant 2: Coming
+3/21/23, 10:01 AM - Sheharyar Khan: Shahmmer
+3/21/23, 10:02 AM - Sheharyar Khan: Ek lrky ka flutter m interview hi krva dy
+3/21/23, 12:02 PM - Elephant 2: Laley idhr to abi koi interviews ni hory hain
+3/21/23, 12:03 PM - Elephant 2: Cinnova, ye eik company ha, usko bol yaha try kry
+3/21/23, 12:36 PM - Elephant 2: Idhr hiring hori ha flutter ki
+3/21/23, 12:36 PM - Sheharyar Khan: Ok kro
+3/21/23, 12:36 PM - Elephant 2: 🫡
+3/21/23, 12:45 PM - Elephant 2: http://careers.cinnova.pk/current-opening/python-react-developer/
+3/21/23, 12:45 PM - Elephant 2: You can try here if you want to
+3/21/23, 3:53 PM - Sheharyar Khan: Any movie you suggest?
+3/21/23, 3:54 PM - Elephant 2: Try jack reacher
+3/21/23, 8:35 PM - Sheharyar Khan: Genra kia h?
+3/21/23, 8:35 PM - Elephant 2: Secret Detective
+3/21/23, 9:47 PM - Sheharyar Khan: 👍🏼
+3/23/23, 3:39 PM - Sheharyar Khan: Hey buddy
+3/23/23, 3:39 PM - Sheharyar Khan: What are you doing
+3/23/23, 3:40 PM - Elephant 2: Hola!
+3/23/23, 3:41 PM - Elephant 2: working on my Fyp!
+3/23/23, 3:41 PM - Elephant 2: khair?
+3/23/23, 3:41 PM - Sheharyar Khan: Roza h?
+3/23/23, 3:41 PM - Sheharyar Khan: Wsy e aj chuti thi sucha tery pas hok ata hn
+3/23/23, 3:42 PM - Elephant 2: Yep roza ha!
+3/23/23, 3:42 PM - Elephant 2: Sure! no biggie!
+3/23/23, 3:42 PM - Sheharyar Khan: What is biggie🤦🏻‍♂️
+3/23/23, 3:42 PM - Elephant 2: Bhai!
+3/23/23, 4:09 PM - Sheharyar Khan: Really biggie=bhai?
+3/23/23, 4:09 PM - Sheharyar Khan: 😂
+3/23/23, 4:09 PM - Elephant 2: 😑
+3/23/23, 4:10 PM - Sheharyar Khan: Ab iska kya mtlb hy
+3/23/23, 4:20 PM - Elephant 2: bhai i am stuck at a problem
+3/23/23, 4:21 PM - Elephant 2: dimagh pehly ni kam kr raha
+3/23/23, 4:21 PM - Elephant 2: khyl kr mera! 😂
+3/23/23, 4:21 PM - Sheharyar Khan: Yr jitna to problems m phnsa hta h na mujh lgta h m programmer hn e ni
+3/23/23, 4:41 PM - Elephant 2: 👀
+3/25/23, 8:52 PM - Elephant 2: Oii
+3/25/23, 8:54 PM - Sheharyar Khan: Yes
+3/25/23, 8:56 PM - Elephant 2: I'm working on a project where users will upload their pictures and then the app will respond accordingly to it! What model do i have to learn, in order to know what is happening in the image?
+3/25/23, 8:57 PM - Elephant 2: Beginner friendly model first, I'll shift to intermediate one later! 😂
+3/25/23, 9:00 PM - Sheharyar Khan: Fit h boss
+3/25/23, 9:00 PM - Sheharyar Khan: How can i help?
+3/25/23, 9:00 PM - Elephant 2: Bruh!
+3/25/23, 9:00 PM - Elephant 2: I'm asking a question 😂
+3/25/23, 9:00 PM - Elephant 2: What model do i have to learn?
+3/25/23, 9:03 PM - Elephant 2: Teri awaz muge bilkul ni ari
+3/27/23, 11:38 AM - Elephant 2: Ha g sheri?
+3/28/23, 1:29 PM - Sheharyar Khan: Shahmmer us question ka koi answer mila?
+3/28/23, 1:50 PM - Elephant 2: https://www.google.com/url?sa=t&source=web&rct=j&url=https://linuxhint.com/add-id-to-element-using-javascript/&ved=2ahUKEwjhq7qhn_79AhU7i_0HHf3fCn4QFnoECAgQBQ&usg=AOvVaw3LWAc5ZE-e1Jwmd5eMpDN8
+3/28/23, 1:51 PM - Elephant 2: This is what i found!
+4/1/23, 1:50 PM - Elephant 2: +92 304 7772211.vcf (file attached)
+4/1/23, 1:50 PM - Elephant 2: apna flat main ny insy lia tha!
+4/1/23, 1:52 PM - Elephant 2: +92 343 2724623
+4/1/23, 1:52 PM - Elephant 2: ye 2 numbers hain eiki estate k, inky pas kafi achy ghr hoty hain!
+4/4/23, 8:58 PM - Sheharyar Khan: ??
+4/4/23, 9:15 PM - Elephant 2: Han g
+4/4/23, 9:25 PM - Sheharyar Khan: Kidr hy
+4/4/23, 9:25 PM - Elephant 2: Ghr hu, khair?
+4/4/23, 9:25 PM - Sheharyar Khan: Ara hn m
+4/4/23, 9:26 PM - Elephant 2: Okaay
+4/5/23, 7:12 PM - Sheharyar Khan: Suggest me any good English movie
+4/5/23, 11:27 PM - Elephant 2: If you grew up watching baby Looney toons,than try Space Jam new legacy, otherwise try John carter
+4/5/23, 11:28 PM - Sheharyar Khan: John wick 4 kssi hy?
+4/5/23, 11:28 PM - Elephant 2: 9/10 for me!
+4/5/23, 11:28 PM - Sheharyar Khan: Yni achi h phr to
+4/5/23, 11:28 PM - Elephant 2: Jhon carter is a different movie tho!
+4/5/23, 11:29 PM - Elephant 2: Yeeep! Expectations py pori utri thi
+4/7/23, 5:27 PM - Sheharyar Khan: Shahmmer interview dna h?
+4/7/23, 5:27 PM - Sheharyar Khan: Meri dusri company m
+4/7/23, 5:28 PM - Sheharyar Khan: Kafiii achi company hy
+4/7/23, 5:28 PM - Elephant 2: kis cheez ka?
+4/7/23, 5:28 PM - Sheharyar Khan: Km full stack ka kryga tu
+4/7/23, 5:28 PM - Sheharyar Khan: Jo m kra hn .net angular sql
+4/7/23, 5:28 PM - Sheharyar Khan: Pr expected knowledge just dsa oop hy bki chzn additional hngi
+4/7/23, 5:28 PM - Elephant 2: Sure sure! hook me up!
+4/7/23, 5:28 PM - Sheharyar Khan: Cv send kr
+4/7/23, 5:29 PM - Elephant 2: eik mnt krta hu
+4/7/23, 5:29 PM - Sheharyar Khan: Tuny krvaya nii mera bhai m hi krvadta hn
+4/7/23, 5:29 PM - Elephant 2: <Media omitted>
+4/7/23, 5:29 PM - Sheharyar Khan: Pr yeah jov achi h kafi and I think you are a best match
+4/7/23, 5:29 PM - Elephant 2: Fair enough haha
+4/7/23, 5:29 PM - Elephant 2: We'll see if i get selected hahaha
+4/7/23, 5:31 PM - Sheharyar Khan: Ni yhn hojyga tera i know
+4/7/23, 5:31 PM - Sheharyar Khan: Your skill set match with the job
+4/7/23, 5:31 PM - Sheharyar Khan: Like i think you are better than me for this job
+4/7/23, 5:32 PM - Elephant 2: Sure sure! i havent worked on any this of stack tho!
+4/7/23, 5:32 PM - Elephant 2: Fair enough haha, we'll see bub!
+4/7/23, 5:33 PM - Sheharyar Khan: Tuny kmzkm mujh sy zda kya hwa like jb m biggner tha i was a lot bad than you
+4/7/23, 5:33 PM - Sheharyar Khan: Tujh call arai h
+4/7/23, 5:33 PM - Sheharyar Khan: M btaya h isk pas job nhi hy
+4/7/23, 5:33 PM - Sheharyar Khan: Part time internship kra hy
+4/7/23, 5:33 PM - Sheharyar Khan: Or degree ka yhi khn k meri hogai h bs fyp chalra hy
+4/7/23, 5:33 PM - Elephant 2: Fair enough hahaha
+4/7/23, 5:33 PM - Sheharyar Khan: Time compensation dydty h yeah wssy h degree ka btany ki zrort ni
+4/7/23, 5:34 PM - Elephant 2: Sure sure main bol du ga
+4/7/23, 5:34 PM - Elephant 2: okayy karo!
+4/7/23, 5:34 PM - Elephant 2: interview call py hona ha?
+4/7/23, 5:34 PM - Sheharyar Khan: Or sallary achi mangi like 70 atleast isy kam p na mani
+4/7/23, 5:35 PM - Sheharyar Khan: Ni just general interview call p yni ap kya kry ho yeah voh
+4/7/23, 5:35 PM - Elephant 2: Hell yeah! i was planning 50 but sure sure 70 is a go to as well hehe
+4/7/23, 5:35 PM - Sheharyar Khan: Technical interview Monday office m
+4/7/23, 5:35 PM - Elephant 2: sahi sahi!
+4/7/23, 5:35 PM - Sheharyar Khan: Bruh thay will pay you 70 i know you deserve
+4/7/23, 5:35 PM - Elephant 2: monday papeer ha mera saley
+4/7/23, 5:35 PM - Elephant 2: i know ajkal i am working hard, so yes i defo deserve it
+4/7/23, 5:35 PM - Sheharyar Khan: Unsy kahdyn koi excuse ya time manage krlya paper dyk ajyn yaa phr phly ajyn
+4/7/23, 5:36 PM - Elephant 2: han yahi karu ga
+4/7/23, 5:36 PM - Sheharyar Khan: Bs please cercsum na krain i know speeling wrong h mery pr jo b hy yeah  na krain yr😂
+4/7/23, 5:37 PM - Elephant 2: Hahahahahah understood!
+4/7/23, 5:37 PM - Elephant 2: its sarcasm tho!
+4/7/23, 5:37 PM - Elephant 2: i will be as honest as i can!
+4/7/23, 5:37 PM - Elephant 2: no sarcasm! noted
+4/7/23, 5:37 PM - Sheharyar Khan: Or zda English ki b zrort ni stay bi langual
+4/7/23, 5:37 PM - Elephant 2: bs okay ha! sure sure!
+4/7/23, 5:38 PM - Sheharyar Khan: Bki i know its a piece of pie for you
+4/7/23, 5:38 PM - Elephant 2: bilangual, noted!
+4/7/23, 5:38 PM - Sheharyar Khan: Technical m to 100/💯 hy
+4/7/23, 5:38 PM - Sheharyar Khan: Voh masla e ni
+4/7/23, 5:38 PM - Elephant 2: Bruh, my logic building is ass you know this hahahhaha
+4/7/23, 5:38 PM - Sheharyar Khan: Yr zda logic building ni hti frame works m
+4/7/23, 5:38 PM - Elephant 2: but yes i can develop stuff so yep! i belive hahaha
+4/7/23, 5:38 PM - Elephant 2: yahi to faida ha is ka!
+4/7/23, 5:39 PM - Elephant 2: kb tk call ani wesy?
+4/7/23, 5:39 PM - Elephant 2: i did add my guthub in the cv as well
+4/7/23, 5:39 PM - Elephant 2: github*
+4/7/23, 5:39 PM - Sheharyar Khan: Yeah i was quit impressed by your this step
+4/7/23, 5:39 PM - Sheharyar Khan: Thats really really good
+4/7/23, 5:40 PM - Elephant 2: yea yea! i know i am great hahaha
+4/7/23, 5:41 PM - Sheharyar Khan: Bruh m owner tu hn ni company ka 😂
+4/7/23, 5:41 PM - Sheharyar Khan: Thats beyond my powers
+4/7/23, 5:41 PM - Sheharyar Khan: Hr ny kha tha bs kra abi call
+4/7/23, 5:41 PM - Elephant 2: main poch raha tha bs!
+4/7/23, 5:41 PM - Elephant 2: sahi sahi! sure sure lets see how it goes!
+4/7/23, 5:42 PM - Sheharyar Khan: Oor dusri bt yeah i suggest never mention or even show your hardwork to any one let time show the world
+4/7/23, 5:42 PM - Sheharyar Khan: Thats my suggestion
+4/7/23, 5:44 PM - Elephant 2: Agreed! i someyimess think loud hahah
+4/7/23, 5:44 PM - Elephant 2: suggetion takeen!
+4/7/23, 5:44 PM - Sheharyar Khan: Bhrhal tujh aj call ajygi qk owner ny kha h monday tk new bnda higher kro
+4/7/23, 5:44 PM - Sheharyar Khan: Oor Monday ko interview b hoga
+4/7/23, 5:45 PM - Sheharyar Khan: So stay prepaired wish you best of luck
+4/7/23, 5:45 PM - Sheharyar Khan: And if you need me i am always here for you
+4/7/23, 5:45 PM - Elephant 2: oop and dsa, right?
+4/7/23, 5:45 PM - Elephant 2: understood Sire!
+4/7/23, 5:46 PM - Sheharyar Khan: Yes this is the basic requirements other things will be additional
+4/7/23, 5:46 PM - Sheharyar Khan: I was selected on the basis of these
+4/7/23, 5:46 PM - Elephant 2: understood! and i am weak in those haha
+4/7/23, 5:46 PM - Sheharyar Khan: Requirement*
+4/7/23, 5:46 PM - Elephant 2: basic are clear obvio
+4/7/23, 5:46 PM - Elephant 2: lekin in depth, i am meh, weak!
+4/7/23, 5:46 PM - Sheharyar Khan: Ek program ko rata marly m btata hn tujh
+4/7/23, 5:47 PM - Elephant 2: han bhej
+4/7/23, 5:47 PM - Sheharyar Khan: How to find double elements of an array😂
+4/7/23, 5:47 PM - Sheharyar Khan: Like array m repeated elements kssy find krry
+4/7/23, 5:47 PM - Sheharyar Khan: Iska solution dhund k rata marly m dkha hr software house wala isk pichy pra hta😂
+Yeah office waly b hr kssi sy yeah puchry hty i dnt know why
+4/7/23, 5:48 PM - Elephant 2: sahi sahi
+4/7/23, 5:48 PM - Elephant 2: i guess its like we take a flag, then itrate over the loop, when we get an item increase the flag if fflag is not one than it is repeating
+4/7/23, 5:48 PM - Elephant 2: ni?
+4/7/23, 5:49 PM - Elephant 2: itrate over the array damn it
+4/7/23, 5:50 PM - Sheharyar Khan: Sorry bruh m thk sy smjh ni ska
+4/7/23, 5:50 PM - Sheharyar Khan: Bhrhal google krly na
+4/7/23, 5:51 PM - Elephant 2: han okaa
+4/7/23, 5:51 PM - Elephant 2: main tuge code send krta bna kr
+4/7/23, 5:51 PM - Sheharyar Khan: Drasal is km koo krny k kafi triky hty h according to them they are looking for how use the best approach
+4/7/23, 5:51 PM - Elephant 2: sahi sahi
+4/7/23, 6:57 PM - Elephant 2: let numbers = [1,2,3,4,1,4,2];
+
+for(let i=0; i<numbers.length; i++) {
+  for(let j=i+1; j<numbers.length; j++){
+    if(numbers[i] === numbers[j]) {
+      console.log(numbers[i] + ' is repeating');
+    }
+  }
+}
+4/7/23, 6:59 PM - Sheharyar Khan: Hn fit h boss
+4/7/23, 7:40 PM - Elephant 2: Bruh share some more questions that I can practice!
+4/7/23, 7:40 PM - Elephant 2: 2 ya 3 more bs!
+4/7/23, 7:44 PM - Sheharyar Khan: Yr relax hoja you will made it inshallah
+4/7/23, 7:44 PM - Sheharyar Khan: Dsa oop k concepts dkhly
+4/7/23, 7:45 PM - Elephant 2: Dsa: tress, linked lists
+Oop: abstraction, inheritance, polymorphism, encapsulation
+4/7/23, 7:45 PM - Elephant 2: Right?
+4/7/23, 7:49 PM - Sheharyar Khan: Gg
+4/7/23, 7:49 PM - Elephant 2: Bruh, I'm panicking! 😂😂😂😂
+4/7/23, 7:50 PM - Elephant 2: It's okay tho! We move, we move! 😂
+4/7/23, 7:54 PM - Sheharyar Khan: Its totally fine
+4/7/23, 7:55 PM - Sheharyar Khan: And its normal
+4/7/23, 7:55 PM - Elephant 2: Yeahh!
+4/7/23, 7:55 PM - Elephant 2: Kal ob ka paper ha mera 🫡
+4/7/23, 7:55 PM - Elephant 2: Wish me luck!
+4/7/23, 8:04 PM - Sheharyar Khan: Oh khair
+4/7/23, 8:04 PM - Sheharyar Khan: Papers start hogy🙄
+4/7/23, 8:04 PM - Sheharyar Khan: Btw best of luck jnu
+4/7/23, 8:05 PM - Elephant 2: Han g Friday ko adv se ka
+4/7/23, 8:05 PM - Elephant 2: Syllabus ka kuch ni pta 😂
+4/7/23, 8:05 PM - Sheharyar Khan: Understandable
+4/7/23, 11:06 PM - Sheharyar Khan: Call ai?
+4/7/23, 11:08 PM - Elephant 2: Nope
+4/7/23, 11:08 PM - Elephant 2: Abi tk to ni ayi!
+4/7/23, 11:08 PM - Elephant 2: My resume didn't resonate with them ig haha
+4/7/23, 11:10 PM - Sheharyar Khan: Aygi aygi inshallah
+4/7/23, 11:14 PM - Elephant 2: In sha allah! 🫡
+4/8/23, 12:48 PM - Sheharyar Khan: Kidr h
+4/8/23, 12:48 PM - Sheharyar Khan: Ghr kb tkk jna hyy
+4/8/23, 12:52 PM - Elephant 2: Paper abi dy kr nikla hu
+4/8/23, 12:52 PM - Elephant 2: Khair ha?
+4/8/23, 12:52 PM - Sheharyar Khan: Ghr kb jna?
+4/8/23, 12:53 PM - Elephant 2: Pta ni garmi zor ki ha
+4/8/23, 12:53 PM - Sheharyar Khan: Chal punch k btyn m auga phr
+4/8/23, 12:53 PM - Elephant 2: Main shayed yaha thokr py ruk jau rest kr k niklu ga
+4/8/23, 12:53 PM - Sheharyar Khan: Tery andr?😂
+4/8/23, 12:54 PM - Sheharyar Khan: Tera ghr thokar p nhi 🙄
+4/8/23, 12:54 PM - Elephant 2: Bhr bhai 😂😂
+4/8/23, 12:54 PM - Elephant 2: 😑
+4/8/23, 12:54 PM - Elephant 2: Ajeeb batin ni kia kr, you know mery ghr kidhr ha;
+4/8/23, 12:54 PM - Sheharyar Khan: Wtf man
+4/8/23, 12:54 PM - Sheharyar Khan: I am really out of mind
+4/8/23, 12:54 PM - Sheharyar Khan: Tera ghr thokar p nhi😳
+4/8/23, 12:55 PM - Elephant 2: Bhai Johar town main ha!
+4/8/23, 12:55 PM - Elephant 2: 🙂
+4/8/23, 12:55 PM - Sheharyar Khan: Yr tuu jhn mrzi ja jb punch jy mujh btyn m auga
+4/8/23, 12:55 PM - Sheharyar Khan: Ek 2 km krny h us side p
+4/8/23, 12:55 PM - Elephant 2: Han okay ha!
+4/8/23, 12:55 PM - Sheharyar Khan: Tujh sath e lyluga
+4/8/23, 12:55 PM - Elephant 2: Iftar ka bad plan bna lein?
+4/8/23, 12:55 PM - Elephant 2: I'll be completely free tb
+4/8/23, 12:55 PM - Sheharyar Khan: Km abi krny h 3 bjy tk
+4/8/23, 12:56 PM - Elephant 2: Chal muge phr yaha ali town sy pick kr lein
+4/8/23, 12:56 PM - Elephant 2: Main udhr e jara abi
+4/8/23, 12:56 PM - Sheharyar Khan: Yr us k bad na shops open hty h sary na property dealers hngy
+4/8/23, 12:56 PM - Sheharyar Khan: Or bhai ny ana h mery 4 bjy ussy b pick krna h so ana to 3 bjy tk hi pryga
+4/8/23, 12:57 PM - Sheharyar Khan: Phr jb m aya tujh mery sath ana pryga 🤷🏼‍♂️
+4/8/23, 12:57 PM - Elephant 2: Sahi ha! Ali town e aja phr esy ghny tk
+4/8/23, 12:57 PM - Sheharyar Khan: Ok
+4/8/23, 12:57 PM - Elephant 2: Muge call kr lein Whatsapp py
+4/8/23, 12:57 PM - Sheharyar Khan: Okay
+4/8/23, 12:57 PM - Elephant 2: Signals ni aty idhr sim py meri
+4/8/23, 12:57 PM - Sheharyar Khan: Ok ok
+4/8/23, 4:09 PM - Sheharyar Khan: Agya??
+4/8/23, 8:40 PM - Sheharyar Khan: M agya hn
+4/9/23, 1:54 PM - Sheharyar Khan: yr shahmmer
+4/9/23, 1:55 PM - Sheharyar Khan: mera dil kra aj chly hamza pas
+4/9/23, 1:58 PM - Elephant 2: han sheri
+4/9/23, 1:58 PM - Elephant 2: i am on a laptop
+4/9/23, 1:59 PM - Elephant 2: sure chal party hain, lekin iftar sy pehly ajayen gy phrr!
+4/9/23, 1:59 PM - Elephant 2: i am up for ideas tho!
+4/9/23, 1:59 PM - Sheharyar Khan: <Media omitted>
+4/9/23, 2:00 PM - Elephant 2: han iftar k bad chal party hain
+4/9/23, 2:00 PM - Elephant 2: me is down for it
+4/9/23, 2:00 PM - Elephant 2: hamza ko bol dy!
+4/9/23, 2:00 PM - Sheharyar Khan: Down?
+4/9/23, 2:00 PM - Elephant 2: Yeo
+4/9/23, 2:00 PM - Sheharyar Khan: <Media omitted>
+4/9/23, 2:01 PM - Elephant 2: chal main bolta hu
+4/9/23, 2:01 PM - Sheharyar Khan: Bruh i am a layman why can't you just use layman language 😂
+4/9/23, 2:01 PM - Elephant 2: phr chalna lazmi ha bhai!
+4/9/23, 2:01 PM - Elephant 2: it was layman, nvm haha!
+4/9/23, 2:01 PM - Sheharyar Khan: Hm tuny ana h bhubhtian tk bs
+4/9/23, 2:01 PM - Elephant 2: Sala!
+4/9/23, 2:01 PM - Elephant 2: Sure sure, main ajau ga!
+4/9/23, 2:02 PM - Elephant 2: hamza ka reply ajaye phr btata hu
+4/9/23, 2:02 PM - Sheharyar Khan: Call krni prni usy i think
+4/9/23, 2:02 PM - Sheharyar Khan: Ya m usy call krk khn shahmeer tujh sy koi bt krna chta h😂
+4/9/23, 2:04 PM - Elephant 2: Hahaahaha
+4/9/23, 2:04 PM - Elephant 2: Sure sure!
+4/9/23, 2:07 PM - Sheharyar Khan: <Media omitted>
+4/9/23, 2:10 PM - Elephant 2: yara hamzabol raha k papers k bad scene bna lety hain
+4/9/23, 2:10 PM - Elephant 2: papers k bad
+4/9/23, 2:11 PM - Sheharyar Khan: Kal paper h?
+4/9/23, 2:12 PM - Elephant 2: hamza ka ha shayed
+4/9/23, 2:12 PM - Elephant 2: muge uski awaz sahi sy ni ari thu
+4/9/23, 2:12 PM - Elephant 2: bs yahi smg aya k papers k bad scene bnaty hain, wo keh raha tha k main khud bulau ga
+4/9/23, 2:15 PM - Sheharyar Khan: <Media omitted>
+4/9/23, 2:23 PM - Elephant 2: okaay ha
+4/9/23, 3:29 PM - Sheharyar Khan: sun shahmeeer
+4/9/23, 3:29 PM - Elephant 2: han g
+4/9/23, 3:29 PM - Sheharyar Khan: advance se ki assignments upload hwe hwe hy
+4/9/23, 3:29 PM - Sheharyar Khan: tuny project kisy uthaya h bhlan?
+4/9/23, 3:30 PM - Sheharyar Khan: oiii gand ki dukan?
+4/9/23, 3:41 PM - Elephant 2: fyp?
+4/9/23, 3:41 PM - Elephant 2: sorry yara main zara kam kr raha tha
+4/9/23, 3:41 PM - Sheharyar Khan: Yes
+4/9/23, 3:42 PM - Elephant 2: sir usman k pas
+4/9/23, 3:42 PM - Elephant 2: khair?
+4/9/23, 3:42 PM - Elephant 2: mera phone cahrge hora, me on a laptop
+4/9/23, 3:42 PM - Sheharyar Khan: <Media omitted>
+4/9/23, 3:42 PM - Sheharyar Khan: <Media omitted>
+4/9/23, 3:43 PM - Elephant 2: Na meea name likh ly
+4/9/23, 3:43 PM - Elephant 2: Mery koi group ni ga
+4/9/23, 3:43 PM - Elephant 2: Han sahi ha!
+4/9/23, 3:44 PM - Sheharyar Khan: <Media omitted>
+4/9/23, 3:44 PM - Sheharyar Khan: <Media omitted>
+4/9/23, 3:45 PM - Elephant 2: okaaay!
+4/9/23, 3:45 PM - Sheharyar Khan: <Media omitted>
+4/9/23, 3:45 PM - Elephant 2: tery name k neechy? ya usko replace kr k apna name likhu?
+4/9/23, 3:46 PM - Sheharyar Khan: O bhi bhi tu Mera name e hta rha h😂😂
+4/9/23, 3:46 PM - Sheharyar Khan: Name k sath likh grounp h hmara
+4/9/23, 3:46 PM - Elephant 2: mean k sheherayar, shahmmer@
+4/9/23, 3:46 PM - Elephant 2: right
+4/9/23, 3:46 PM - Sheharyar Khan: @ q likhna sath?
+4/9/23, 3:46 PM - Elephant 2: mis typed!
+4/9/23, 3:46 PM - Elephant 2: my bad hahaha!
+4/9/23, 3:47 PM - Elephant 2: wrong key pressed yknow!
+4/9/23, 3:47 PM - Sheharyar Khan: Yeo
+4/9/23, 3:47 PM - Sheharyar Khan: Yep
+4/9/23, 3:47 PM - Sheharyar Khan: Thkk h bs phr likhdy duno name
+4/9/23, 3:47 PM - Sheharyar Khan: Sap b sath
+4/9/23, 3:47 PM - Elephant 2: okaaay main likta hu
+4/9/23, 3:47 PM - Elephant 2: sahi ha
+4/9/23, 3:47 PM - Elephant 2: <Media omitted>
+4/9/23, 3:47 PM - Elephant 2: ?
+4/9/23, 3:50 PM - Sheharyar Khan: I guess thkk hy
+4/9/23, 3:51 PM - Sheharyar Khan: Group assignment thi so yes thats good i guess
+4/9/23, 3:51 PM - Elephant 2: upload eiki bndy ny krni?
+4/9/23, 3:56 PM - Sheharyar Khan: <Media omitted>
+4/9/23, 3:57 PM - Elephant 2: okkkk
+4/9/23, 3:57 PM - Elephant 2: ssignmet 1 main opload krna na
+4/9/23, 3:57 PM - Elephant 2: assignmet
+4/9/23, 4:00 PM - Elephant 2: <Media omitted>
+4/9/23, 4:00 PM - Elephant 2: done
+4/9/23, 4:00 PM - Sheharyar Khan: Good boy
+4/9/23, 4:01 PM - Sheharyar Khan: Ab assignment 2 ka dkh kch smjh ata
+4/9/23, 4:01 PM - Sheharyar Khan: Ya hath prta
+4/9/23, 4:01 PM - Elephant 2: dekhta eik mnt
+4/9/23, 4:04 PM - Elephant 2: Describe which software development is better for your Fyp! Bruh what kinda question is this 😂😂
+4/9/23, 4:15 PM - Sheharyar Khan: 🤷🏼‍♂️🤷🏼‍♂️
+4/9/23, 5:16 PM - Sheharyar Khan: <Media omitted>
+4/9/23, 7:25 PM - Sheharyar Khan: M ara hn
+4/10/23, 2:06 PM - Sheharyar Khan: There?
+4/10/23, 2:46 PM - Elephant 2: Yeep
+4/10/23, 2:46 PM - Elephant 2: Behen ko leny gaya howa tha bus sy
+4/10/23, 2:46 PM - Sheharyar Khan: Agya h ?
+4/10/23, 2:46 PM - Sheharyar Khan: Ek km hy
+4/10/23, 2:49 PM - Sheharyar Khan: how can i make this div
+4/10/23, 2:49 PM - Elephant 2: Which one
+4/10/23, 2:49 PM - Sheharyar Khan: <Media omitted>
+4/10/23, 2:51 PM - Elephant 2: Parent div bna, i.e 300 by 300 ka! Give a border radius of 50%
+Inside the parent div make a child div, 250 by 250 ka and give it a 50% radius as well!
+For the image, rather than img tag, try giving the child element a background image property and make it cover!
+4/10/23, 2:52 PM - Elephant 2: For the border across the image, well, you can than give that child element a border of like 5px each side with the same color as the parent one
+4/10/23, 2:52 PM - Elephant 2: This shall suffice! 🫡😂
+4/10/23, 3:02 PM - Elephant 2: Hogaya?
+4/10/23, 3:22 PM - Sheharyar Khan: m trying buddy😅
+4/10/23, 3:22 PM - Elephant 2: kia issue ara?
+4/10/23, 3:23 PM - Sheharyar Khan: abi ek dusry km m lgaya hwa boss ny
+4/10/23, 3:24 PM - Elephant 2: hahaha fair enough!
+4/10/23, 3:24 PM - Sheharyar Khan: voh km krk phr is trf auga
+4/10/23, 3:24 PM - Sheharyar Khan: masla yeah h mujh dar lgra
+4/10/23, 3:24 PM - Sheharyar Khan: m is image k ui k chkar m screen ki gand na mardu
+4/10/23, 3:24 PM - Elephant 2: eik div main ye sb kr lein tky baqi kuch effect na ho
+4/10/23, 3:25 PM - Sheharyar Khan: mtlb is div ki b kafi zda functionality hy na
+4/10/23, 3:25 PM - Elephant 2: chal agr kahi py phas jaye to poch lein
+4/10/23, 3:25 PM - Sheharyar Khan: ui chnage krty hwy
+4/10/23, 3:25 PM - Sheharyar Khan: hn ok
+4/10/23, 3:37 PM - Elephant 2: <Media omitted>
+4/10/23, 3:37 PM - Elephant 2: there you go!
+4/10/23, 3:38 PM - Elephant 2: i just had a call from your office as well, wednesday 3.15 pm interview ha ig. i am waiting for the email confrmation!
+4/10/23, 3:39 PM - Sheharyar Khan: Ajygi
+4/10/23, 3:39 PM - Elephant 2: sahi ha!
+4/10/23, 3:39 PM - Sheharyar Khan: Uper wala circle thura zda weight wala ho
+4/10/23, 3:39 PM - Sheharyar Khan: About double
+4/10/23, 3:40 PM - Elephant 2: <Media omitted>
+4/10/23, 3:40 PM - Elephant 2: there ya go
+4/10/23, 3:43 PM - Sheharyar Khan: Hn thkk h perfect
+4/10/23, 3:43 PM - Sheharyar Khan: Yeah send krdy muj
+4/10/23, 3:45 PM - Elephant 2: This message was deleted
+4/10/23, 3:50 PM - Elephant 2: <Media omitted>
+4/10/23, 3:50 PM - Sheharyar Khan: Thanks buddy
+4/10/23, 3:50 PM - Elephant 2: agayi email!
+4/10/23, 3:50 PM - Elephant 2: well wednesday there is haha
+4/10/23, 3:55 PM - Sheharyar Khan: Chlo good hy
+4/10/23, 3:56 PM - Elephant 2: 😁
+4/10/23, 5:08 PM - Sheharyar Khan: Name na khrab krian Teri bri tarify ki hy yr😂
+4/10/23, 5:09 PM - Elephant 2: Bhai 😂
+4/10/23, 5:09 PM - Elephant 2: Muge jitna ata hoga, I'll let them know!
+4/10/23, 5:10 PM - Elephant 2: Agr tuny avin tareef k pull bndh diye hain, than I'm sorry in advance! 😂
+4/10/23, 5:13 PM - Sheharyar Khan: Bc sory ni tyari kr
+4/10/23, 5:13 PM - Elephant 2: muge bs ye bta dy tuny unko bola kia?
+4/10/23, 5:14 PM - Elephant 2: kal yar micro ka paper ha wo dy kr dobara revise karu ga, you can suggest me some topics or ask me questions if you think they have the potential to be asked tomorrow
+4/10/23, 5:23 PM - Sheharyar Khan: Yr i will tell you
+4/10/23, 5:23 PM - Sheharyar Khan: M inka paper chori krmy ki try kra hn😂😂
+4/10/23, 5:24 PM - Elephant 2: 😂😂😂😂
+4/10/23, 5:24 PM - Elephant 2: Fair enough hahahaha
+4/10/23, 5:26 PM - Sheharyar Khan: Hmm
+4/10/23, 7:26 PM - Elephant 2: <Media omitted>
+4/10/23, 7:37 PM - Sheharyar Khan: Yes
+4/10/23, 7:37 PM - Sheharyar Khan: I have found
+4/10/23, 7:38 PM - Elephant 2: Kia price ha?
+4/10/23, 7:38 PM - Sheharyar Khan: It will cost you around 1100
+4/10/23, 7:38 PM - Elephant 2: Yrrrr
+4/10/23, 7:38 PM - Elephant 2: Bc Zindagi main eik to cheezein kam pasand ati hain
+4/10/23, 7:39 PM - Sheharyar Khan: https://bglam.shop/products/euro-collection-perfumed-body-spray-for-men-200ml-dark-chocolate
+4/10/23, 7:39 PM - Elephant 2: Jo ati hain wo bc ni milti ya mehngi hoti
+4/10/23, 7:39 PM - Elephant 2: 🥲
+4/10/23, 7:39 PM - Sheharyar Khan: You can visit this link might be shipping na lgy than 950
+4/10/23, 7:42 PM - Elephant 2: Fair enough! Shukran 🫡😊
+4/10/23, 7:45 PM - Sheharyar Khan: I can surely gift you this but at 2nd of next month😂
+4/10/23, 7:46 PM - Elephant 2: Naaaaa
+4/10/23, 7:47 PM - Elephant 2: I love it, and I'll buy it myself!
+4/10/23, 7:47 PM - Elephant 2: Surely soon 🥲😂
+4/10/23, 7:47 PM - Elephant 2: Aur gift tu rehny e dy! My shirt isn't with me 😑
+4/10/23, 8:16 PM - Sheharyar Khan: Hn yr tera dukhi hna bnta h or mera sorry khna b
+4/10/23, 8:38 PM - Elephant 2: 😂😂😂
+4/11/23, 5:48 PM - Elephant 2: I have practiced:
+Abstraction, inheritance, polymorphism, encapsulation (concepts)
+Linked lists, arrays, queues, stack, binary search tree (concepts)
+4/11/23, 5:49 PM - Elephant 2: Is it enough? If not, suggest me some questions that i should take a look at Interview wise
+4/11/23, 5:54 PM - Sheharyar Khan: Umm let me see
+4/11/23, 5:55 PM - Elephant 2: Sure! 😊
+4/11/23, 5:55 PM - Sheharyar Khan: Yr arrays p grip achi hni chya i think
+4/11/23, 5:56 PM - Sheharyar Khan: Array or list m difference
+4/11/23, 5:56 PM - Elephant 2: Ig I'm good at arrays! Slicing, finding, finding when and all
+4/11/23, 5:56 PM - Sheharyar Khan: M aftari k bd ata hn teri trf
+4/11/23, 5:56 PM - Elephant 2: Doesnt it depend on the language?
+4/11/23, 5:56 PM - Sheharyar Khan: Ni ni
+4/11/23, 5:56 PM - Sheharyar Khan: Khas ni
+4/11/23, 5:56 PM - Elephant 2: Janu busy hun ga main iftar k bad thory sy kam hain
+4/11/23, 5:57 PM - Sheharyar Khan: Pr ab yeah na ho na ap hr km e built in function sy krdo khud kch b na kro
+4/11/23, 5:57 PM - Elephant 2: Arrays are like, you can store on type of data and list , you can store multiple until you explicitly define what data it'll store
+4/11/23, 5:57 PM - Elephant 2: That is true
+4/11/23, 6:11 PM - Sheharyar Khan: Hn thkk h
+4/11/23, 6:11 PM - Sheharyar Khan: Hn bki inshallah hojyga yr teri tyari achi h
+4/11/23, 6:11 PM - Elephant 2: On a scale of 10 kitna thk?
+4/11/23, 6:12 PM - Elephant 2: In sha allllaaaaahhhhhh!!
+4/11/23, 6:16 PM - Sheharyar Khan: Mery khyal sy to blkul thk
+4/11/23, 6:17 PM - Elephant 2: Bs sahi ha! Alhamdulil'lah 😁
+4/11/23, 6:17 PM - Elephant 2: Kal 3.15 bulaya ha
+4/11/23, 6:17 PM - Elephant 2: Main 2.45 py nikal paru ga ghr sy
+4/11/23, 6:17 PM - Elephant 2: Also, send me the location of the office if you're there!
+4/11/23, 6:17 PM - Sheharyar Khan: location: https://maps.google.com/?q=31.4567433,74.321411
+4/11/23, 6:17 PM - Elephant 2: Muge map py smg ni ara
+4/11/23, 6:17 PM - Sheharyar Khan: Done
+4/11/23, 6:18 PM - Sheharyar Khan: Or kch?
+4/11/23, 6:18 PM - Elephant 2: You quick boi 😂
+4/11/23, 6:18 PM - Elephant 2: Aur dua bs! 😂
+4/11/23, 6:20 PM - Sheharyar Khan: Zror
+4/11/23, 6:23 PM - Sheharyar Khan: Linklist sy question ayga lzmi
+4/11/23, 6:23 PM - Elephant 2: Kis type ka? Searching and sorting?
+4/11/23, 6:25 PM - Sheharyar Khan: Yeah ni pta😂
+4/11/23, 6:26 PM - Sheharyar Khan: Paper bs itna hi leak hwa h k linklist ka question hy😂
+4/11/23, 6:26 PM - Elephant 2: Saley kal exam hona? 😂😂😂
+4/11/23, 6:27 PM - Sheharyar Khan: Phla to written test hi hy
+4/11/23, 6:27 PM - Sheharyar Khan: Agr voh pas hwa phr 1 to 1 interview
+4/11/23, 6:27 PM - Elephant 2: Should i take something with me!
+4/11/23, 6:27 PM - Elephant 2: Ya wo khud dein gy?
+4/11/23, 6:27 PM - Elephant 2: Kitny questions hun gy?
+4/11/23, 6:28 PM - Elephant 2: Aur exam ki tarah written test hoga?
+4/11/23, 6:28 PM - Sheharyar Khan: Ni khud e dygy
+4/11/23, 6:28 PM - Sheharyar Khan: M smjha ni exam ki trh means?
+4/11/23, 6:28 PM - Sheharyar Khan: U should take your mind with you😂
+4/11/23, 6:29 PM - Elephant 2: Means k will it be like, students sitting in a row,than we'll get question papers and answers sheet
+4/11/23, 6:29 PM - Elephant 2: And we have to write stuff there
+4/11/23, 6:29 PM - Sheharyar Khan: Ni akala hoga tu
+4/11/23, 6:29 PM - Elephant 2: And then poof after a time, go home
+4/11/23, 6:29 PM - Sheharyar Khan: Might be 1 more
+4/11/23, 6:29 PM - Sheharyar Khan: Ni ni
+4/11/23, 6:30 PM - Elephant 2: I'm panicking damnit 😂
+4/11/23, 6:30 PM - Elephant 2: Chal abi tu iftar krly
+4/11/23, 6:30 PM - Elephant 2: I'll text ya raat ko free ho k
+4/11/23, 7:02 PM - Sheharyar Khan: Ok kr
+4/12/23, 10:45 AM - Elephant 2: Oi
+4/12/23, 10:48 AM - Sheharyar Khan: Gg
+4/12/23, 10:49 AM - Elephant 2: Ab bta paper kesa hona? 😂
+4/12/23, 10:50 AM - Sheharyar Khan: Filhal to m advance se k paper ki tension m hn
+4/12/23, 10:50 AM - Elephant 2: Fair enough 😂
+4/12/23, 10:51 AM - Sheharyar Khan: M aj office ni gya abi tk
+4/12/23, 10:51 AM - Sheharyar Khan: Smjh ni arai jau ya paper tyar krn
+4/12/23, 10:52 AM - Sheharyar Khan: Yr advance se tyar krty h shahmmer
+4/12/23, 10:52 AM - Elephant 2: Ab main jau k ni? 😂
+4/12/23, 10:52 AM - Sheharyar Khan: Yr tu kidr h
+4/12/23, 10:52 AM - Elephant 2: Ghr
+4/12/23, 10:53 AM - Sheharyar Khan: Yr tu university ni askta?
+4/12/23, 10:53 AM - Elephant 2: Yr main abi interview ki tiyari kr raha hh
+4/12/23, 10:53 AM - Elephant 2: 🥲
+4/12/23, 10:53 AM - Sheharyar Khan: University ak ni hti?
+4/12/23, 10:54 AM - Elephant 2: Nope!
+4/12/23, 10:54 AM - Elephant 2: Motivation ni milti university main
+4/12/23, 3:44 PM - Sheharyar Khan: What are you doing bruh
+4/12/23, 9:07 PM - Elephant 2: Laley slides bhej dy
+4/12/23, 10:11 PM - Elephant 2: ??
+4/12/23, 10:12 PM - Sheharyar Khan: g
+4/12/23, 10:12 PM - Sheharyar Khan: <Media omitted>
+4/12/23, 10:12 PM - Sheharyar Khan: <Media omitted>
+4/12/23, 10:12 PM - Sheharyar Khan: <Media omitted>
+4/12/23, 10:12 PM - Sheharyar Khan: <Media omitted>
+4/12/23, 10:12 PM - Sheharyar Khan: <Media omitted>
+4/12/23, 10:12 PM - Sheharyar Khan: <Media omitted>
+4/12/23, 10:12 PM - Sheharyar Khan: <Media omitted>
+4/12/23, 10:12 PM - Sheharyar Khan: <Media omitted>
+4/12/23, 10:12 PM - Sheharyar Khan: <Media omitted>
+4/12/23, 10:13 PM - Elephant 2: Kidhr busy tha?
+4/12/23, 10:13 PM - Sheharyar Khan: office time pura kra hn
+4/12/23, 10:13 PM - Sheharyar Khan: tera test check kia h abi😅
+4/12/23, 10:13 PM - Elephant 2: Bhai itna sara?????
+4/12/23, 10:13 PM - Elephant 2: Na bta bhai
+4/12/23, 10:14 PM - Elephant 2: Just tell me should i be happy ya nim
+4/12/23, 10:14 PM - Elephant 2: Baqi rehny dy
+4/12/23, 10:15 PM - Sheharyar Khan: ask your self are you satisfied with your performance
+4/12/23, 10:16 PM - Elephant 2: Bs i think i know the answer!
+4/12/23, 10:16 PM - Elephant 2: Cheers mate! No worries 😂
+4/12/23, 10:17 PM - Elephant 2: Ab apun sakoon sy degree pori kry ga apni 😂
+4/12/23, 10:17 PM - Elephant 2: Job hunting k khwb chorh deny chahiye 😂
+4/12/23, 10:17 PM - Sheharyar Khan: we can try after 3 months if we want to
+4/12/23, 10:17 PM - Elephant 2: Nah! I guess I'm fine! 😂
+4/12/23, 10:17 PM - Elephant 2: Not for me! 😂
+4/12/23, 10:19 PM - Sheharyar Khan: yeah obviously its upto you
+4/12/23, 10:20 PM - Elephant 2: Baqi kal bat krty hain
+4/12/23, 10:20 PM - Elephant 2: 😁
+4/12/23, 10:20 PM - Sheharyar Khan: Hn ok inshallah
+4/12/23, 10:33 PM - Elephant 2: 🫡🫡
+4/12/23, 11:10 PM - Elephant 2: laley 1500 kb tk send kary ga?
+4/12/23, 11:12 PM - Sheharyar Khan: <Media omitted>
+4/12/23, 11:13 PM - Elephant 2: han chal kal pakra dein no issue
+4/12/23, 11:13 PM - Elephant 2: nope admit card ha para mera 😁
+4/12/23, 11:14 PM - Sheharyar Khan: Ok
+4/13/23, 5:27 PM - Sheharyar Khan: Call me
+4/14/23, 4:21 PM - Sheharyar Khan: Yr shahmmer
+4/14/23, 6:21 PM - Sheharyar Khan: <Media omitted>
+4/14/23, 6:52 PM - Elephant 2: Sham ko aye ga?
+4/14/23, 6:54 PM - Sheharyar Khan: Hukm kr ajta hn
+4/14/23, 6:54 PM - Sheharyar Khan: Bs yeah masla hal krdy mera 😭😭
+4/14/23, 6:54 PM - Elephant 2: Phr btau ga iska! 😂😂
+4/14/23, 6:55 PM - Sheharyar Khan: Yr office sy chuti hi tb hni jb yeah km hoga qk Monday ko chech krvana h na
+4/14/23, 6:55 PM - Elephant 2: Message py ni smgha skta main! Ajayen idhr phr bta du ga
+4/14/23, 6:55 PM - Elephant 2: Muge iska code bhej phr
+4/14/23, 6:55 PM - Sheharyar Khan: Yr voh too kafiiiiiiiiiii bra h😂
+4/14/23, 6:55 PM - Elephant 2: Um
+4/14/23, 6:55 PM - Elephant 2: Can I call ya?
+4/14/23, 6:56 PM - Sheharyar Khan: Hm khta too zoom meeting krly
+4/14/23, 6:56 PM - Elephant 2: Han meeting rakh ly
+4/14/23, 6:56 PM - Elephant 2: Phr link bhej
+4/14/23, 6:56 PM - Sheharyar Khan: Bs 1 min m bhjra
+4/14/23, 6:56 PM - Sheharyar Khan: Laptop khol apna
+4/14/23, 6:57 PM - Sheharyar Khan: Skype p b hoskti h wsy call agr h tery pas
+4/14/23, 6:57 PM - Elephant 2: Ruk main dekhta hu
+4/14/23, 6:58 PM - Elephant 2: Laptop open hora 😂😂
+4/14/23, 6:59 PM - Sheharyar Khan: https://uoledupk.zoom.us/j/97883451410?pwd=c2tNQnhIZDh5OUFqcFBQOHdCQmxvdz09
+4/14/23, 6:59 PM - Sheharyar Khan: meeing link
+4/14/23, 6:59 PM - Elephant 2: aya
+4/14/23, 7:00 PM - Elephant 2: bruh bs eik mnt ruk
+4/14/23, 7:00 PM - Elephant 2: update hora ha
+4/14/23, 7:01 PM - Sheharyar Khan: ok
+4/14/23, 7:03 PM - Elephant 2: let me in!
+4/14/23, 7:03 PM - Sheharyar Khan: krlia
+4/14/23, 9:38 PM - Sheharyar Khan: Suna kia hora h
+4/14/23, 9:39 PM - Sheharyar Khan: <Media omitted>
+4/14/23, 9:39 PM - Sheharyar Khan: aftat all the headche
+4/14/23, 10:14 PM - Elephant 2: How did you do it?
+4/14/23, 10:15 PM - Sheharyar Khan: Bhtttt zalil hny k baad
+4/14/23, 10:15 PM - Sheharyar Khan: I really dnt know i just tried everything i could 😂
+4/14/23, 10:15 PM - Elephant 2: Before after?
+4/14/23, 10:15 PM - Elephant 2: That's the beauty of programming 😂
+4/14/23, 10:18 PM - Sheharyar Khan: Haha
+4/15/23, 6:17 PM - Sheharyar Khan: M aftari k bad auga
+4/15/23, 7:02 PM - Elephant 2: Okay ha
+4/15/23, 8:06 PM - Elephant 2: Main laley ali town jara, mera phone dead ha, zain k number py rabta kr lein
+4/15/23, 8:07 PM - Sheharyar Khan: Chal m bs nikal rha ghr sy
+4/15/23, 8:14 PM - Elephant 2: Mery ghr ajayen
+4/15/23, 8:14 PM - Elephant 2: Mamu agaye hain, main yaha ghr beth gaya hu
+4/15/23, 8:14 PM - Elephant 2: Yaha mery ghr ajayen, phr sath nikal parein gy
+4/15/23, 8:15 PM - Sheharyar Khan: Ok
+4/15/23, 8:29 PM - Elephant 2: Ha kitni dair ha?
+4/15/23, 8:32 PM - Sheharyar Khan: 5 min
+4/15/23, 8:32 PM - Sheharyar Khan: Ucp agya hm
+4/15/23, 8:33 PM - Elephant 2: Waiting
+4/15/23, 8:47 PM - Elephant 2: Bhai?
+4/15/23, 8:48 PM - Sheharyar Khan: Gg
+4/15/23, 8:48 PM - Sheharyar Khan: 1 min m agya bs
+4/15/23, 8:48 PM - Sheharyar Khan: Emporium agya hn
+4/16/23, 4:16 PM - Elephant 2: 5 bjy tk rawana hojayen gy hn
+4/16/23, 4:34 PM - Sheharyar Khan: Number send krain subhan ka
+4/16/23, 4:35 PM - Elephant 2: Soban Qureshi.vcf (file attached)
+4/16/23, 4:45 PM - Elephant 2: Howi bat soban sy?
+4/16/23, 4:46 PM - Sheharyar Khan: Reply ni wrw
+4/16/23, 4:46 PM - Sheharyar Khan: Ara
+4/16/23, 4:46 PM - Sheharyar Khan: Seen krk reply e ni kra
+4/16/23, 4:47 PM - Elephant 2: 😂😂😂😂
+4/16/23, 4:47 PM - Elephant 2: Kia hi bat ha! Chal phr zain aur main ary hain
+4/16/23, 4:47 PM - Sheharyar Khan: Ok
+4/16/23, 4:47 PM - Sheharyar Khan: <Media omitted>
+4/16/23, 4:48 PM - Elephant 2: Usky pas shayed tery number ni ha
+4/16/23, 4:48 PM - Elephant 2: Save*
+4/16/23, 5:36 PM - Elephant 2: We on the way laley
+4/16/23, 5:54 PM - Sheharyar Khan: location: https://maps.google.com/?q=31.3876869,74.2408647
+4/16/23, 11:00 PM - Elephant 2: Zain Shahzad.vcf (file attached)
+4/17/23, 12:13 AM - Sheharyar Khan: Shahmeer
+4/17/23, 12:14 AM - Elephant 2: Han g
+4/17/23, 12:15 AM - Sheharyar Khan: Yr shahmmer dil ni krta usk pas bthny ko kbi
+4/17/23, 12:16 AM - Sheharyar Khan: Bsss pas bthny
+4/17/23, 12:16 AM - Sheharyar Khan: Ko
+4/17/23, 12:16 AM - Sheharyar Khan: Yaaa kbiii uski koi purani pics dkhny koo
+4/17/23, 12:17 AM - Elephant 2: Dil ni krta?
+4/17/23, 12:17 AM - Sheharyar Khan: M smjh ni what do you want to ask
+4/17/23, 12:17 AM - Elephant 2: I mean you said k dil ni krta
+4/17/23, 12:17 AM - Elephant 2: And then you said this
+4/17/23, 12:17 AM - Elephant 2: I'm confused what are you asking
+4/17/23, 12:18 AM - Sheharyar Khan: Firstly i was asking you questions tera Dil ni krta?
+4/17/23, 12:18 AM - Elephant 2: You never mentioned anything about me tho
+4/17/23, 12:19 AM - Elephant 2: And yes krta ha, but iska faida ni ha na
+4/17/23, 12:19 AM - Sheharyar Khan: You deleted this message
+4/17/23, 12:19 AM - Sheharyar Khan: You deleted this message
+4/17/23, 12:19 AM - Sheharyar Khan: Wtf am i doing bruh😳
+4/17/23, 12:19 AM - Sheharyar Khan: Sorry sorry sorry
+4/17/23, 12:19 AM - Sheharyar Khan: I really dnt know what just happened
+4/17/23, 12:19 AM - Elephant 2: And regarding to seeing old pictures i do want but i don't. It'll make me fall that hole again haha
+4/17/23, 12:20 AM - Elephant 2: Nah! Understandable 😂😂
+4/17/23, 12:20 AM - Elephant 2: That sticker really did shocked me 😂
+4/17/23, 12:20 AM - Sheharyar Khan: Yr faida to zindagi m kssi chz ka b koi nhi hy
+4/17/23, 12:20 AM - Sheharyar Khan: Kssi b chz ka nhi dunya ki faida
+4/17/23, 12:20 AM - Elephant 2: Faida bilkul ha, once you can see the responsibility we have as big brothers.
+4/17/23, 12:20 AM - Sheharyar Khan: Mhbt nhi to phr kch b ni phr to bs zindagi hi guzrni h guzar looo phr kch hy e nhi
+4/17/23, 12:21 AM - Sheharyar Khan: Bruh thats not life thats not faida of our life those are just responsibilities
+4/17/23, 12:21 AM - Sheharyar Khan: There is difference between responsibilities and life
+4/17/23, 12:21 AM - Elephant 2: Yahi to msla ha! Our thought process!
+4/17/23, 12:22 AM - Elephant 2: We want to gain love from people but never take from whom who want to give it to us!
+4/17/23, 12:22 AM - Sheharyar Khan: It is never our choice from whom we want to take love
+4/17/23, 12:22 AM - Sheharyar Khan: Never we can never choose
+4/17/23, 12:23 AM - Elephant 2: Remember this! As of today. WE CHOOSE WHO WE LOVE!
+4/17/23, 12:23 AM - Sheharyar Khan: We can choose to give importance to time or pretend to respect someone we can never choose  to respect by heart or love to someone
+4/17/23, 12:24 AM - Elephant 2: This i really don't agree! That might be true few years back, but in today's world i don't agree
+4/17/23, 12:24 AM - Elephant 2: Today, we choose who to love.
+4/17/23, 12:24 AM - Sheharyar Khan: I completely disagree purely loving someone is never over decision that's is like we are making our selfs to love someone thats not pure love
+4/17/23, 12:25 AM - Elephant 2: In today's world that is the reality
+4/17/23, 12:25 AM - Elephant 2: Just because someone didn't understand your emotions doesn't mean it won't happen again!
+4/17/23, 12:25 AM - Sheharyar Khan: A person one time said me love is never conditional of there are conditions that is not love and choosing someone by will is condition
+4/17/23, 12:26 AM - Elephant 2: You need to see,talk, or imagine someone to Love them, correct?
+4/17/23, 12:26 AM - Elephant 2: That is you choosing bhai!
+4/17/23, 12:30 AM - Sheharyar Khan: Blve me blve me i dnt think soo these things are important it might be in some cases but all i am trying to say is it might be the case you need to talk imagine or see someone to love and if you are saying i will choose the perosn myself and i will talk to him and see him and imgaine him and i will be in love with that person than might be you will be attracted or addicted to that person but that is not love ..... Love is you dont thinkk you see her if you want tooo you dnt set limits or targets or try to distract or consuntrate your emotions you just go with flow you see her if you want to you miss her not by will you miss her all of sudden you are in her thoughts nothing is your decisions things just happen and you only know you are in love when you are actually in love
+4/17/23, 12:30 AM - Sheharyar Khan: Sorry for the big msg
+4/17/23, 12:33 AM - Elephant 2: Well, this is something i dont think we talk on a message mate!
+4/17/23, 12:33 AM - Elephant 2: Love is a subjective matter for lotta people!
+4/17/23, 12:33 AM - Elephant 2: and sorry kis bat ki bhai?
+4/17/23, 12:34 AM - Elephant 2: also, if you love someone, do you think this is what they want from you? to cry or mourn for them?
+4/17/23, 12:34 AM - Sheharyar Khan: And i think this is complete bull shit if you will compare you family love or responsibilities with the love toward person in whom you have seen your life partner
+4/17/23, 12:34 AM - Elephant 2: you can have your opinion mate, i wont judge you for this!
+4/17/23, 12:34 AM - Elephant 2: Sure!
+4/17/23, 12:35 AM - Sheharyar Khan: This is literally complete bull shit that loving your brother or mother or father makes the love toward your parentner blur
+4/17/23, 12:35 AM - Sheharyar Khan: So you think opposite at this point?
+4/17/23, 12:35 AM - Elephant 2: Yep my views are diffrent then this!
+4/17/23, 12:35 AM - Elephant 2: but i wont be judging ya for your point of views!
+4/17/23, 12:36 AM - Sheharyar Khan: I totally agree love is never never about mourn
+4/17/23, 12:36 AM - Elephant 2: if you can explain this line it will do wonders
+4/17/23, 12:36 AM - Elephant 2: nor is it to cry mate!
+4/17/23, 12:36 AM - Elephant 2: your "loved one" will never want to see you cry for them!
+4/17/23, 12:37 AM - Sheharyar Khan: Yr its simple every relationship in life has its own place your mother can not take you father's place you sister Can't replace your brother same like that your partner can not be replaced by any other family member
+4/17/23, 12:38 AM - Sheharyar Khan: How the fuck is taking about crying
+4/17/23, 12:38 AM - Elephant 2: who disagrees with this? not me atleast!
+4/17/23, 12:39 AM - Elephant 2: No one is talking about crying i am just explaining the pont!
+4/17/23, 12:39 AM - Sheharyar Khan: Than how can you say the gap created in life can be fulfilled by loving or caring about your family
+4/17/23, 12:39 AM - Elephant 2: Bruh you took what i said comepeletly wrong hahaha
+4/17/23, 12:40 AM - Sheharyar Khan: It can just distract you and yeah you are a good person if you are focused toward your family responsibilities but it will never change the gap created in your life and you love life
+4/17/23, 12:40 AM - Elephant 2: i was refering to "trying" to do other stuff "might" help with the gap!
+4/17/23, 12:40 AM - Sheharyar Khan: You are saying youhhhh ???????
+4/17/23, 12:41 AM - Elephant 2: Bruhh, calm down! think and not let the emotions take the best of you!
+4/17/23, 12:41 AM - Sheharyar Khan: Bruh i litterly have learnt to face things from you not to run from things by distracting you in other stuff
+4/17/23, 12:41 AM - Elephant 2: who said run away mate????
+4/17/23, 12:42 AM - Elephant 2: trying to do other stuff means, try to visit the places that make you remind her and do something diffrent there. if she likes something, try to eat it and do something else with it!
+4/17/23, 12:42 AM - Elephant 2: this is what trying means! who is saying run away or get distracted?
+4/17/23, 12:45 AM - Sheharyar Khan: And i am trying too say beside all the stuff happened in our lifes why shouldn't we cannot sit with them stay quit and can just enjoy the feelings that she is with us because after all life is nothing without that person
+4/17/23, 12:46 AM - Sheharyar Khan: In real life is nothing without that person only moments we have are the moments spent with them
+4/17/23, 12:46 AM - Elephant 2: because this is wrong! we should not waste our time on them as they have moved on from us!
+4/17/23, 12:46 AM - Elephant 2: Mate, just imagine how many times have people said this. and to how many people in their lives!
+4/17/23, 12:47 AM - Elephant 2: yet we still somehow find someone else!
+4/17/23, 12:47 AM - Sheharyar Khan: What is wasting time yr we are taking about the person how litterly are everything without them already life is wasted
+4/17/23, 12:47 AM - Sheharyar Khan: Now life is just a imanat or name of responsibility
+4/17/23, 12:47 AM - Elephant 2: and that person, is changing when life moves forward!!
+4/17/23, 12:47 AM - Sheharyar Khan: Name of a loan which has to payed by us
+4/17/23, 12:48 AM - Sheharyar Khan: That person changed obviously because her love was not true but how can this thing change your love?
+4/17/23, 12:48 AM - Elephant 2: This is the thought process that is devoid of reality mate! We find others!
+4/17/23, 12:48 AM - Elephant 2: because with time, you will be doing the same thing!
+4/17/23, 12:48 AM - Elephant 2: if you dont want to that is upto to us!
+4/17/23, 12:49 AM - Elephant 2: but this "we are nothing without a 'person'" is something that is far away from reality
+4/17/23, 12:49 AM - Elephant 2: mate, just look at our lives!! it is not just one person!!!!
+4/17/23, 12:50 AM - Elephant 2: at 12 we have "love of our life" at 18 we had "love of our life" at 21 we had "love of our life"
+4/17/23, 12:50 AM - Elephant 2: what makes you think at 30 or 35 we wont have "love of our life"??
+4/17/23, 12:50 AM - Elephant 2: reality is not butterflies and butter!!
+4/17/23, 12:51 AM - Elephant 2: Love is not "Oh we have to just keep thinking about this person". Love is "they didnt value us, we should let them be happy and move on"
+4/17/23, 12:52 AM - Elephant 2: "we love just person" this looks beautiful in books and movies!!
+4/17/23, 12:52 AM - Elephant 2: the sad thing is we dont give chance to other people!
+4/17/23, 12:53 AM - Elephant 2: khair, i talked too much! nevermind mate!
+4/17/23, 12:53 AM - Sheharyar Khan: 🙄
+4/17/23, 12:53 AM - Sheharyar Khan: No i will mind
+4/17/23, 12:53 AM - Sheharyar Khan: 🤷🏼‍♂️
+4/17/23, 12:53 AM - Sheharyar Khan: Fuck you
+4/17/23, 12:53 AM - Elephant 2: understandable! 😂😂
+4/17/23, 12:53 AM - Elephant 2: this is part of what i believe now tho!
+4/17/23, 12:54 AM - Elephant 2: you can still have your opinion tho!
+4/17/23, 12:55 AM - Sheharyar Khan: Yr person can just talk about thr emotion he is feeling
+4/17/23, 12:55 AM - Sheharyar Khan: That's all what a person is
+4/17/23, 12:55 AM - Sheharyar Khan: You can never talk or understand about the emotion you haven't feel
+4/17/23, 12:55 AM - Elephant 2: Agreed to a 100%
+4/17/23, 12:59 AM - Elephant 2: that is all?
+4/17/23, 1:00 AM - Sheharyar Khan: By miss fortune, I think we can not discuss the topic at which we think completely different
+4/17/23, 1:00 AM - Sheharyar Khan: Obviously the thinking came due to current circumstances
+4/17/23, 1:01 AM - Sheharyar Khan: But still we can not share an emotion at which we don't feel same
+4/17/23, 1:01 AM - Elephant 2: i didnt understand what you just said but okay i guess hahaha
+4/17/23, 1:01 AM - Sheharyar Khan: Hahaha
+4/17/23, 7:45 PM - Sheharyar Khan: ???
+4/17/23, 7:49 PM - Elephant 2: Yeep?
+4/17/23, 7:49 PM - Elephant 2: Internet mar k chal raha
+4/17/23, 7:49 PM - Sheharyar Khan: Rat ko tuu mujh knsi website ka btara tha k is p test du
+4/17/23, 7:49 PM - Elephant 2: Turing
+4/18/23, 7:20 PM - Sheharyar Khan: ??
+4/18/23, 7:21 PM - Sheharyar Khan: Kidr g
+4/18/23, 7:21 PM - Sheharyar Khan: H*
+4/18/23, 9:44 PM - Elephant 2: Mamu ki taraf tha abi ghr aya hu
+4/18/23, 9:44 PM - Elephant 2: Khair?
+4/20/23, 10:40 PM - Elephant 2: Han g sheri?
+4/20/23, 10:43 PM - Sheharyar Khan: Where' are you?
+4/20/23, 10:43 PM - Elephant 2: Ghr 🫡
+4/22/23, 1:25 PM - Sheharyar Khan: Ahn
+4/22/23, 6:46 PM - Elephant 2: Yeep
+4/26/23, 10:40 AM - Sheharyar Khan: Yeah kisko khinchra h tooo dp m bai??
+4/26/23, 10:42 AM - Elephant 2: Yahi to smghny wali bat ha hahaha
+4/26/23, 10:42 AM - Sheharyar Khan: Smjhny wali bat h yani mery to bas ki bat ni phr
+4/26/23, 10:42 AM - Sheharyar Khan: Khair suna tuny university ana h?
+4/26/23, 10:42 AM - Sheharyar Khan: Meri helmit teri trf usko uthana hy
+4/26/23, 10:42 AM - Elephant 2: Main abi abi university sy aya hu
+4/26/23, 10:43 AM - Elephant 2: Yep, idhr rakha howa
+4/26/23, 10:43 AM - Elephant 2: Han pick kr lein yaha sy
+4/26/23, 10:43 AM - Sheharyar Khan: Classes regularly start?
+4/26/23, 10:46 AM - Elephant 2: Han g aj linear ki class to howi thi
+4/28/23, 12:46 PM - Sheharyar Khan: Bhai yeah sbsy nichy wala to mujh crypto ka chart lgra bhrhal
+4/28/23, 12:47 PM - Sheharyar Khan: Jis hisab sy uper nichy hora h
+4/28/23, 12:48 PM - Elephant 2: Fair enough 😂
+4/28/23, 12:49 PM - Sheharyar Khan: Sunaaaa kya kraa h
+4/28/23, 12:49 PM - Sheharyar Khan: Bngai food app ???foodpanda rival
+4/28/23, 12:49 PM - Sheharyar Khan: Mera nashta order krny ka mud hy😂😂
+4/28/23, 12:49 PM - Elephant 2: Main ny company e chorh di 😂
+4/28/23, 12:49 PM - Elephant 2: Abi Foodpanda kr bhai 😂
+4/28/23, 12:50 PM - Sheharyar Khan: Sath to kahra tha tm lgn ki zda achi h so why not the best?
+4/28/23, 12:50 PM - Elephant 2: <Media omitted>
+4/28/23, 12:50 PM - Elephant 2: Currently working on this
+4/28/23, 12:50 PM - Elephant 2: Wo pori bn jaye gi tb achi e ha
+4/28/23, 12:50 PM - Sheharyar Khan: Yr isko b m zror dkhnga zror pr phly bhook lgi h khany ka to kch krdy
+4/28/23, 12:50 PM - Sheharyar Khan: Tery bgair bnalygi company?
+4/28/23, 12:51 PM - Sheharyar Khan: University ni aya?
+4/28/23, 12:51 PM - Elephant 2: Ni aj ni aya
+4/28/23, 12:51 PM - Sheharyar Khan: Yr mera office jany ko dil ni kra bc
+4/28/23, 12:54 PM - Elephant 2: Work from home kr ly 😂
+4/28/23, 12:54 PM - Sheharyar Khan: Usk lya ek rat phly laptop lna prta office ka
+4/28/23, 12:55 PM - Elephant 2: Sad loif indeed! 😂
+4/30/23, 3:22 PM - Sheharyar Khan: O bry bhaii
+4/30/23, 3:22 PM - Sheharyar Khan: Why can't you stay simple
+5/2/23, 10:19 AM - Sheharyar Khan: University aya h aj?
+5/2/23, 11:33 AM - Elephant 2: Ni yara. Kal linear ka lecture ha kal au ga
+5/2/23, 11:33 AM - Elephant 2: 8 sy 9.30
+5/2/23, 11:52 AM - Sheharyar Khan: Ok kr
+5/2/23, 2:24 PM - Elephant 2: 😁🫡
+5/2/23, 7:35 PM - Sheharyar Khan: Yr m free hok tery pas auga aj
+5/2/23, 8:21 PM - Elephant 2: Sure, kb tk?
+5/2/23, 8:22 PM - Sheharyar Khan: 1 hour
+5/2/23, 8:22 PM - Elephant 2: Sure, That'd be 9:22 pm! I will be waiting!
+5/2/23, 8:23 PM - Sheharyar Khan: Ok
+5/2/23, 9:21 PM - Sheharyar Khan: <Media omitted>
+5/2/23, 9:21 PM - Elephant 2: oka, kitni dair lag jaye gi?
+5/2/23, 9:42 PM - Sheharyar Khan: <Media omitted>
+5/2/23, 9:42 PM - Elephant 2: okaay
+5/2/23, 10:01 PM - Sheharyar Khan: ???
+5/2/23, 10:01 PM - Sheharyar Khan: I am here
+5/2/23, 10:01 PM - Elephant 2: Yep?
+5/2/23, 10:01 PM - Elephant 2: Aya
+5/3/23, 12:01 AM - Elephant 2: https://www.bestq.online/
+5/3/23, 12:04 AM - Sheharyar Khan: <Media omitted>
+5/3/23, 12:06 AM - Sheharyar Khan: <Media omitted>
+5/3/23, 2:25 PM - Elephant 2: Han g?
+5/3/23, 2:57 PM - Sheharyar Khan: ??
+5/3/23, 2:57 PM - Elephant 2: Yeah
+5/3/23, 2:57 PM - Sheharyar Khan: <Media omitted>
+5/3/23, 2:57 PM - Sheharyar Khan: Yr aisa bnyn
+5/3/23, 2:57 PM - Sheharyar Khan: Camera lgady profile pic k sath
+5/3/23, 2:58 PM - Elephant 2: Ha bn jaye ga
+5/3/23, 2:58 PM - Sheharyar Khan: Jb camera p click ho voh wala popup open hojy camery k sath hii chota sa popup
+5/3/23, 2:58 PM - Sheharyar Khan: With 3 options 
+1 edit photo
+Remove photo
+See full photo
+5/3/23, 2:58 PM - Sheharyar Khan: See full photo pr pic ka size bra hojy
+5/3/23, 2:59 PM - Elephant 2: Let me try it out!
+5/3/23, 2:59 PM - Elephant 2: Eik mnt
+5/3/23, 3:00 PM - Sheharyar Khan: 2 options krdy just edit photo
+Or remove photo ka
+5/3/23, 3:00 PM - Sheharyar Khan: On outside click p drop-down bnd
+5/3/23, 3:02 PM - Elephant 2: Drop down ya pop up?
+5/3/23, 3:02 PM - Elephant 2: Click py pop up open ho ya drop down?
+5/3/23, 3:07 PM - Sheharyar Khan: Dropdown krly
+5/3/23, 3:07 PM - Sheharyar Khan: Choty sy size m blkul sath hi open ho camera k
+5/3/23, 3:08 PM - Sheharyar Khan: Mtlb dropdown ki top left corner chipki ho camera k sath
+5/3/23, 3:11 PM - Elephant 2: Acha eik mnt
+5/3/23, 3:45 PM - Elephant 2: <Media omitted>
+5/3/23, 3:45 PM - Elephant 2: functionality add kr raha hu abi main
+5/3/23, 3:51 PM - Sheharyar Khan: Functionality html css sy add krain js sy nahi
+5/3/23, 3:52 PM - Elephant 2: brother click handling ky lye 3 js ki lines required!
+5/3/23, 3:52 PM - Sheharyar Khan: Chal thk h daldy phr
+5/3/23, 3:52 PM - Elephant 2: i dont think css has a proprty to listen to click
+5/3/23, 3:52 PM - Sheharyar Khan: M ts m convert krluga
+5/3/23, 3:52 PM - Elephant 2: tum log typescript use kr rahay?
+5/3/23, 3:52 PM - Elephant 2: nice
+5/3/23, 3:53 PM - Elephant 2: ye bta option show is camera icon ko click kr ky hun right?
+5/3/23, 3:58 PM - Sheharyar Khan: Yes
+5/3/23, 3:58 PM - Sheharyar Khan: This is imp
+5/3/23, 4:25 PM - Sheharyar Khan: Tu aj kch na kxh kryga pki bat hy
+5/3/23, 5:06 PM - Elephant 2: Yara functionality ni hori add 😂😂
+5/3/23, 5:06 PM - Elephant 2: 😂😂😂😂
+5/3/23, 5:07 PM - Elephant 2: Bhai layout broke, plus my laptop is burning
+5/3/23, 5:07 PM - Elephant 2: Abi shop py ly kr jara hu
+5/3/23, 5:10 PM - Sheharyar Khan: Chalo g
+5/3/23, 5:10 PM - Sheharyar Khan: <Media omitted>
+5/3/23, 5:11 PM - Elephant 2: Yara laptop bnd hogaya kia karu 🥲
+5/3/23, 5:11 PM - Elephant 2: Abi dukan py jara hu
+5/3/23, 5:14 PM - Sheharyar Khan: Hmm
+5/3/23, 5:52 PM - Sheharyar Khan: Bhai mujh b thankyou khny ka moka dy
+5/3/23, 5:53 PM - Elephant 2: Nope, later!
+5/3/23, 5:53 PM - Sheharyar Khan: Ab kya scene hy
+5/3/23, 5:53 PM - Elephant 2: Abi laptop dy aya hu shop py
+5/3/23, 5:53 PM - Elephant 2: Bnn'ny k liye
+5/3/23, 5:59 PM - Sheharyar Khan: Ab m kam start krn us module p ya koi umid rkhn tujh sy yeah bta
+5/3/23, 6:01 PM - Elephant 2: Tu bi start kr, main bi krta hu
+5/3/23, 6:01 PM - Elephant 2: Laptop sham tk ajaye ga
+5/3/23, 6:02 PM - Sheharyar Khan: 2 resources 1 kam p noo bad practice bruh
+5/3/23, 6:02 PM - Elephant 2: Bruhh 😂
+5/3/23, 10:37 PM - Elephant 2: layout sahi tha wo wala?
+5/3/23, 10:38 PM - Elephant 2: let me show you something
+5/3/23, 10:38 PM - Elephant 2: <Media omitted>
+5/3/23, 10:38 PM - Elephant 2: is this the layout you wanna build?
+5/3/23, 10:39 PM - Elephant 2: after clicking the camera icon that is
+5/3/23, 10:39 PM - Sheharyar Khan: Yeah password khn sy agya bai bich?
+5/3/23, 10:39 PM - Elephant 2: bhai!
+5/3/23, 10:39 PM - Elephant 2: i am showing you the layout
+5/3/23, 10:39 PM - Elephant 2: obvio i'll chnage it
+5/3/23, 10:39 PM - Sheharyar Khan: Is password waly popup ko bnd kr
+5/3/23, 10:40 PM - Elephant 2: cancel py click kary to bnd hojaye ga
+5/3/23, 10:40 PM - Elephant 2: or agr screen k bhr kary ga tb bi bnd hojaye ga
+5/3/23, 10:40 PM - Elephant 2: <Media omitted>
+5/3/23, 10:40 PM - Elephant 2: this is wihtout the pop up/modal
+5/3/23, 10:41 PM - Sheharyar Khan: Bhai bt sun
+5/3/23, 10:41 PM - Sheharyar Khan: Subh wala kam khn tkk puncha voh dikha sbsy phly
+5/3/23, 10:41 PM - Elephant 2: gg bta
+5/3/23, 10:42 PM - Elephant 2: <Media omitted>
+5/3/23, 10:42 PM - Elephant 2: i am adding the camera icon, lekin muge smg ni ari k you guys want a drop down ya pop up?
+5/3/23, 10:43 PM - Elephant 2: cause most websites use pop up like i showed before!
+5/3/23, 10:45 PM - Sheharyar Khan: I guess what you have did is good enough
+5/3/23, 10:45 PM - Sheharyar Khan: Yhi send krdy
+5/3/23, 10:45 PM - Elephant 2: let me tweek some stuff than, eik mnt
+5/3/23, 10:46 PM - Sheharyar Khan: Pr uper yeah edit photo k sath jo down wala symbol ara usy ura dy
+5/3/23, 10:46 PM - Elephant 2: sirf text aye?
+5/3/23, 10:46 PM - Sheharyar Khan: Bs camera k click pr 2 options nichy khul jyn editphoto
+Remove current photo
+5/3/23, 10:46 PM - Sheharyar Khan: Hn
+5/3/23, 10:47 PM - Elephant 2: ruk let me see if i can do something about it
+5/3/23, 10:48 PM - Sheharyar Khan: Hmm
+5/3/23, 10:49 PM - Sheharyar Khan: Bruh no need to put extra efforts krna hna vhi h jo client ny khna h your creativity and time will be wasted
+5/3/23, 10:49 PM - Sheharyar Khan: Client ko jo chya voh btaya h m ny tujh
+5/3/23, 10:49 PM - Elephant 2: i know i am trying to do it
+5/3/23, 10:49 PM - Elephant 2: wohi to muskil ha hahhaha
+5/3/23, 10:51 PM - Sheharyar Khan: Hmn
+5/3/23, 11:06 PM - Elephant 2: This fine?
+5/3/23, 11:06 PM - Elephant 2: <Media omitted>
+5/3/23, 11:13 PM - Sheharyar Khan: Hn thkk h send krdu
+5/3/23, 11:14 PM - Sheharyar Khan: Cool hu
+5/3/23, 11:14 PM - Sheharyar Khan: Hy*
+5/3/23, 11:14 PM - Sheharyar Khan: Oor kal university hoo tu 12 bjy
+5/3/23, 11:14 PM - Elephant 2: <Media omitted>
+5/3/23, 11:14 PM - Elephant 2: added few tweeks, you can customize it like you want, i added comments you can read it without problem
+5/3/23, 11:16 PM - Elephant 2: <Media omitted>
+5/3/23, 11:17 PM - Sheharyar Khan: Cool dude
+5/3/23, 11:17 PM - Sheharyar Khan: Professionalism
+5/3/23, 11:17 PM - Elephant 2: 🫡
+5/3/23, 11:18 PM - Sheharyar Khan: ..
+5/3/23, 11:18 PM - Elephant 2: i am not promising, we'll see hahaha
+5/3/23, 11:18 PM - Sheharyar Khan: Oh bhai university ho tu
+5/3/23, 11:19 PM - Elephant 2: acha dekhty hain!
+5/3/23, 11:24 PM - Sheharyar Khan: Mexican h bhi
+5/3/23, 11:24 PM - Sheharyar Khan: Yhi bt tujh voh khti tuny superman bn k jana tha
+5/3/23, 11:24 PM - Elephant 2: we emotional black mailing now?
+5/3/23, 11:31 PM - Sheharyar Khan: Am i wrong?
+5/3/23, 11:32 PM - Sheharyar Khan: Women !
+5/4/23, 12:13 AM - Elephant 2: You might be right, but that doesnt matter cause she wont be asking this hahaha
+5/4/23, 12:42 AM - Sheharyar Khan: You always have a excuse, whatever cheers🥂
+5/4/23, 1:03 AM - Elephant 2: 🫡
+5/6/23, 11:27 AM - Sheharyar Khan: Bhaii kidr ??
+5/8/23, 10:29 PM - Elephant 2: Oiiii
+5/8/23, 10:30 PM - Sheharyar Khan: G
+5/8/23, 10:30 PM - Elephant 2: Write a function that takes a list of integers as input and returns the sum of all the even numbers in the list.
+5/8/23, 10:30 PM - Elephant 2: const numbers = [1,3,5,2];
+
+function addEvenNumbers(numbers) {
+  let sum = 0;
+  numbers.forEach(number => {
+    if(number % 2 == 0) {
+      console.log(`${number} is an even number`);
+      console.log(`${sum} + ${number} = `);
+      sum += number;
+      console.log(sum);
+    }
+  });
+}
+
+addEvenNumbers(numbers);
+is this correct?
+5/8/23, 10:30 PM - Sheharyar Khan: Bmm
+5/8/23, 10:30 PM - Elephant 2: is this correct???
+5/8/23, 10:30 PM - Sheharyar Khan: Run krk ni dkha?
+5/8/23, 10:30 PM - Elephant 2: time ni haaa
+5/8/23, 10:30 PM - Elephant 2: jaldi bta
+5/8/23, 10:31 PM - Elephant 2: submit kr dia bs haha
+5/8/23, 10:31 PM - Sheharyar Khan: Hn thk hy
+5/8/23, 10:31 PM - Elephant 2: bs sahi ha!
+5/8/23, 10:32 PM - Sheharyar Khan: Bruh i am a human bruh need some time😂
+5/8/23, 10:32 PM - Elephant 2: i know i know! understandable haha
+5/8/23, 10:32 PM - Elephant 2: i was freaking out
+5/8/23, 10:32 PM - Sheharyar Khan: Kia krra hy?
+5/8/23, 10:33 PM - Elephant 2: <Media omitted>
+5/8/23, 10:33 PM - Elephant 2: 🫡
+5/8/23, 10:35 PM - Sheharyar Khan: Best of luck 🤞
+5/8/23, 10:35 PM - Sheharyar Khan: Bruh
+5/8/23, 10:36 PM - Elephant 2: Shukran 😁
+5/12/23, 1:54 PM - Sheharyar Khan: Yr agr kal b signle open na hwy m phr tery ghr auga prhny k lya
+5/12/23, 3:03 PM - Elephant 2: Sure sure, signals idhr bi koi ni ary wesy 😂
+5/12/23, 3:06 PM - Sheharyar Khan: Wifi koi chlta thura bht ya koi ni?
+5/12/23, 3:07 PM - Elephant 2: <Media omitted>
+5/12/23, 4:45 PM - Elephant 2: <Media omitted>
+5/12/23, 4:45 PM - Elephant 2: Try it out! Let me know if you catch any issues in here! Cheers! 🫡
+5/12/23, 4:46 PM - Sheharyar Khan: Bhi dkhn tujh p yakeen krk open kra hn hack na marlyn mujh😂
+5/12/23, 4:46 PM - Elephant 2: Bruhh 😂😂
+5/12/23, 4:46 PM - Elephant 2: It's my fyp! 😂
+5/12/23, 4:47 PM - Sheharyar Khan: Kis name sy install hw ah?
+5/12/23, 4:47 PM - Sheharyar Khan: Mil hi nahi rha
+5/12/23, 4:47 PM - Elephant 2: Fyp name hoga
+5/12/23, 4:47 PM - Elephant 2: I forgot to add the name so it might fall back to being default name! 😂
+5/12/23, 4:48 PM - Sheharyar Khan: Yr i need to learn css from you really
+5/12/23, 4:48 PM - Sheharyar Khan: Sory html css
+5/12/23, 4:48 PM - Elephant 2: Well sure sure! 😂
+5/12/23, 4:48 PM - Elephant 2: And imma charge ya for that! 😂
+5/12/23, 4:49 PM - Elephant 2: Muge ss bi send karin, how is it looking on your device!
+5/12/23, 4:59 PM - Sheharyar Khan: Cool
+5/12/23, 4:59 PM - Sheharyar Khan: I mean application is cool
+5/12/23, 4:59 PM - Sheharyar Khan: Ahn
+5/12/23, 5:00 PM - Elephant 2: Did ya stumble upon any bugs?
+5/12/23, 5:00 PM - Sheharyar Khan: Jb tkk mujh functionality nhi pta m ksy btaskta hn bug kya h or feature kya
+5/12/23, 5:02 PM - Sheharyar Khan: Features btyn oor kis kis chz p km hogya h btyn phr next btauga
+5/12/23, 5:02 PM - Elephant 2: You're right! 😂😂
+5/12/23, 5:03 PM - Elephant 2: For now, users can signin and signup, and they can reset the password if they forgot it. They can log out as well
+5/12/23, 5:03 PM - Elephant 2: Baqi abi add krni ha
+5/12/23, 6:40 PM - Elephant 2: Oii can ya arrange 4000 kahi sy? Main tuge ahista ahista send krdu ga phr!
+5/12/23, 6:55 PM - Sheharyar Khan: Ni yr koi scene ni
+5/12/23, 6:56 PM - Sheharyar Khan: Might be mery pas ajyn 20 tk
+5/12/23, 6:56 PM - Sheharyar Khan: 20 date tk
+5/12/23, 6:57 PM - Sheharyar Khan: Ek project pkra hwa h ajyngy as soon as i will give release pr bc net ki vjah sy atka hwa
+5/12/23, 7:39 PM - Elephant 2: Sahi sahi!
+5/12/23, 7:39 PM - Elephant 2: Chal I'll text ya 20 ko 😂😂
+5/12/23, 7:40 PM - Elephant 2: 😂😂😂
+5/12/23, 7:40 PM - Sheharyar Khan: I hope so net ka issue solve hojy kch hoga phr hi agy
+5/12/23, 7:41 PM - Elephant 2: Hahahaha yea yea 🥹
+5/12/23, 7:42 PM - Sheharyar Khan: Project ki tension m hi tu tujh kahra tha net ka kch na bna tu auga m phr
+5/12/23, 7:42 PM - Sheharyar Khan: Net k bgair kam e ni hta
+5/12/23, 7:43 PM - Elephant 2: Ajaye wo to msla ni ha! Internet idhr bi ni chal raha khas!
+5/12/23, 7:43 PM - Sheharyar Khan: Yr litterly were are we living??
+5/12/23, 7:43 PM - Elephant 2: Literal bytes main speed ati 😂
+5/12/23, 7:43 PM - Elephant 2: Literally 😂😂
+5/12/23, 7:43 PM - Sheharyar Khan: Are we really in 21st century 😭
+5/12/23, 7:43 PM - Elephant 2: We are, our country ain't 😂
+5/12/23, 7:44 PM - Sheharyar Khan: Agr log kssi chz m struggle krk khud agay h free launching m voh b hakumat ab pichy pargai h
+5/12/23, 7:44 PM - Sheharyar Khan: Hmari county k pas last chz thii free launcing litterly ek last Opportunity to earn dollars only and last
+5/12/23, 7:44 PM - Elephant 2: Mat kr pagly na rula 😂
+5/12/23, 7:45 PM - Sheharyar Khan: Tuu google kr kitna loss hora h it industry
+5/12/23, 7:45 PM - Sheharyar Khan: Bruh its costing daily loss of 4million dollar to free launcers
+5/12/23, 7:45 PM - Sheharyar Khan: Hmari company ka client kahra tha halat dkh k lgta h indians ko order dna chya
+5/12/23, 7:46 PM - Elephant 2: Bruhhh teri job na lun lag jaye😂
+5/12/23, 7:54 PM - Sheharyar Khan: Idhr software house lun lgta h meri job ki phr khair hi hy
+5/12/23, 7:58 PM - Elephant 2: 😂😂😂😂😂😂
+5/12/23, 10:55 PM - Elephant 2: Oi, hm log abi chai saly hotel sy uthy hain!
+5/12/23, 10:55 PM - Elephant 2: Main abi dost k hostel aya hu
+5/12/23, 10:56 PM - Sheharyar Khan: Saly?
+5/12/23, 11:07 PM - Elephant 2: Janu tuge btaya to tha haha
+5/12/23, 11:08 PM - Sheharyar Khan: <Media omitted>
+5/12/23, 11:09 PM - Elephant 2: Main ab ghr jara huu
+5/12/23, 11:09 PM - Elephant 2: Ohhhh
+5/12/23, 11:09 PM - Elephant 2: Eap6*
+5/12/23, 11:09 PM - Elephant 2: Esgy**
+5/12/23, 11:09 PM - Elephant 2: Wssy**
+5/12/23, 11:09 PM - Elephant 2: Bruhhhhh
+5/12/23, 11:09 PM - Elephant 2: Waly**
+5/12/23, 11:53 PM - Sheharyar Khan: <Media omitted>
+5/12/23, 11:53 PM - Sheharyar Khan: <Media omitted>
+5/13/23, 12:02 AM - Elephant 2: ni ni walk kr raha tha haha
+5/13/23, 12:02 AM - Elephant 2: isi liye likha ni jara tha
+5/13/23, 12:04 AM - Sheharyar Khan: Hmm
+5/13/23, 12:06 AM - Elephant 2: yep!
+5/17/23, 6:13 PM - Sheharyar Khan: So how was the interview bruh?
+5/17/23, 6:15 PM - Elephant 2: Alhamdulil'lah! Got selected mate! Just came back from the interview 😊
+5/17/23, 6:16 PM - Sheharyar Khan: Vaaaah g vaaaah
+5/17/23, 6:16 PM - Sheharyar Khan: Bhiiiiiiiiii🥳🥳🥳
+5/17/23, 6:16 PM - Elephant 2: Hehe yepp!
+5/17/23, 6:16 PM - Sheharyar Khan: Mubarak hoo bht hht
+5/17/23, 6:16 PM - Sheharyar Khan: Bht
+5/17/23, 6:16 PM - Elephant 2: Shukran shukran bub! ❤️
+5/17/23, 6:16 PM - Sheharyar Khan: Kis stack p hwa?
+5/17/23, 6:16 PM - Sheharyar Khan: Or kya name h software house ka?
+5/17/23, 6:16 PM - Sheharyar Khan: Chlo shukar h yr yeah b
+5/17/23, 6:16 PM - Elephant 2: Apex, aur js
+5/17/23, 6:16 PM - Elephant 2: Prism solutions name ha
+5/17/23, 6:17 PM - Elephant 2: Han yara. Alhamdulil'lah!
+5/17/23, 6:17 PM - Sheharyar Khan: Pkg decide hogya?
+5/17/23, 6:17 PM - Elephant 2: Han g!
+5/17/23, 6:17 PM - Elephant 2: Internee position, 30k!
+5/17/23, 6:19 PM - Sheharyar Khan: Yr internee k lyaaa bhttt h 30k kam companies hi dti h itna
+5/17/23, 6:19 PM - Sheharyar Khan: 3 month bd permanent or 2 months bd??
+5/17/23, 6:28 PM - Elephant 2: Yeeep
+5/17/23, 6:28 PM - Elephant 2: 3 months ki probation ha!
+5/17/23, 6:32 PM - Sheharyar Khan: Internship k bd probation hy?
+5/17/23, 6:32 PM - Sheharyar Khan: Phr permanent?
+5/17/23, 6:32 PM - Elephant 2: Na na!
+5/17/23, 6:33 PM - Elephant 2: Internee and probation same e ha! 3 months bad permanent
+5/17/23, 6:33 PM - Sheharyar Khan: Chlo fit h boss
+5/17/23, 6:33 PM - Elephant 2: Yep! 😊
+5/18/23, 12:57 PM - Sheharyar Khan: Shahmmer kia kra h??
+5/18/23, 12:57 PM - Sheharyar Khan: Office h ya ghr?
+5/18/23, 12:58 PM - Elephant 2: Abi to ghr hu! Khair?
+5/18/23, 12:58 PM - Elephant 2: Offer letter ka wait kr raha hu😂
+5/18/23, 1:15 PM - Sheharyar Khan: ek kam tha
+5/18/23, 1:15 PM - Sheharyar Khan: <!DOCTYPE html>
+<html>
+<head>
+  <title>Video and Picture Upload</title>
+  <style>
+    body {
+      background-color: #000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    
+    .container {
+      display: flex;
+      width: 800px;
+      height: 600px;
+    }
+    
+    .video-section, .picture-section {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: #ccc;
+    }
+    
+    .divider {
+      width: 2px;
+      height: 80%;
+      background-color: #ccc;
+      margin-top: 10%;
+      margin-bottom: 10%;
+      position: relative;
+    }
+    .video-container, .picture-container {
+      position: relative;
+      width: 40%;
+      height: 40%;
+      margin: 10px;
+    }
+    
+    .video-container video, .picture-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    
+    .section-heading {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    
+    .plus-sign {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 100px;
+      color: #222;
+      cursor: pointer;
+      background-color: rgba(255, 255, 255, 0.2);
+      width: 120px;
+      height: 120px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: background-color 0.3s ease;
+    }
+    
+    .plus-sign:hover {
+      background-color: rgba(255, 255, 255, 0.5);
+    }
+    
+    input[type="file"] {
+      display: none;
+    }
+    @keyframes scaleEffect {
+      0% {
+        transform: scale(1);
+      }
+      100% {
+        transform: scale(1.2);
+      }
+    }
+    
+    @keyframes lineAnimation {
+      0% {
+        height: 0;
+      }
+      100% {
+        height: 80%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="video-section">
+      <h2 class="section-heading">Upload Videos</h2>
+      <div class="video-container">
+        <video id="video1" autoplay></video>
+        <label for="file1" class="plus-sign">+</label>
+        <input type="file" id="file1" accept="video/*" onchange="uploadVideo(event, 'video1')">
+      </div>
+      <div class="video-container">
+        <video id="video2" autoplay></video>
+        <label for="file2" class="plus-sign">+</label>
+        <input type="file" id="file2" accept="video/*" onchange="uploadVideo(event, 'video2')">
+      </div>
+      <div class="video-container">
+        <video id="video3" autoplay></video>
+        <label for="file3" class="plus-sign">+</label>
+        <input type="file" id="file3" accept="video/*" onchange="uploadVideo(event, 'video3')">
+      </div>
+      <div class="video-container">
+        <video id="video4" autoplay></video>
+        <label for="file4" class="plus-sign">+</label>
+        <input type="file" id="file4" accept="video/*" onchange="uploadVideo(event, 'video4')">
+      </div>
+    </div>
+    
+    <div class="divider"></div>
+    
+    <div class="picture-section">
+      <h2 class="section-heading">Upload Picture</h2>
+      <div class="picture-container">
+        <img id="picture" alt="Uploaded Picture">
+        <label for="pictureFile" class="plus-sign">+</label>
+        <input type="file" id="pictureFile" accept="image/*" onchange="uploadPicture(event)">
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function uploadVideo(event, videoId) {
+      const file = event.target.files[0];
+      const video = document.getElementById(videoId);
+
+      // Create a URL object for the video file
+      const videoURL = URL.createObjectURL(file);
+
+      // Set the video source to the URL
+      video.src = videoURL;
+    }
+    
+    function uploadPicture(event) {
+      const file = event.target.files[0];
+      const picture = document.getElementById("picture");
+
+      // Create a URL object for the image file
+      const imageURL = URL.createObjectURL(file);
+
+      // Set the image source to the URL
+      picture.src = imageURL;
+    }
+    // Animate the line on page load
+    const divider = document.querySelector('.divider');
+    divider.style.animation = 'lineAnimation 1s forwards';
+  </script>
+</body>
+</html>
+5/18/23, 1:15 PM - Elephant 2: Bruhh!😂
+5/18/23, 1:15 PM - Sheharyar Khan: isko run krk dkh
+5/18/23, 1:15 PM - Elephant 2: Krta eik mnt
+5/18/23, 1:15 PM - Sheharyar Khan: <Media omitted>
+5/18/23, 1:19 PM - Elephant 2: <Media omitted>
+5/18/23, 1:19 PM - Elephant 2: kia krna is main?
+5/18/23, 1:29 PM - Sheharyar Khan: <Media omitted>
+5/18/23, 1:29 PM - Sheharyar Khan: <Media omitted>
+5/18/23, 1:30 PM - Elephant 2: let me see, eik mnt!
+5/18/23, 1:35 PM - Elephant 2: this okay?
+5/18/23, 1:35 PM - Elephant 2: <Media omitted>
+5/18/23, 1:36 PM - Elephant 2: aur line ka tu kia keh raha tha
+5/18/23, 1:44 PM - Sheharyar Khan: Inko thura dur krdy line sy like line or left side of screen k drmyan m ayn blocks
+5/18/23, 1:45 PM - Sheharyar Khan: Line k edges sharp hoskn agr
+5/18/23, 1:45 PM - Elephant 2: sharp as in kia matlb?
+5/18/23, 1:46 PM - Sheharyar Khan: Yr live an oval sharp from edge and think from center
+5/18/23, 1:46 PM - Elephant 2: brother who wrote the css, he/she is 5/10 in css!
+5/18/23, 1:46 PM - Sheharyar Khan: 🙋🏼‍♂️🙋🏼‍♂️🙋🏼‍♂️
+5/18/23, 1:46 PM - Elephant 2: if ya can share an image?
+5/18/23, 1:46 PM - Sheharyar Khan: And i am glad to have 5 marks😂😂
+5/18/23, 1:46 PM - Elephant 2: you disappoint me! 😂😂😂😂😂
+5/18/23, 1:47 PM - Sheharyar Khan: I keep doing this thing nothing to worry about
+5/18/23, 1:58 PM - Elephant 2: Fuck you! 🙂
+5/18/23, 2:06 PM - Sheharyar Khan: Bruh i am glad to get fucked by talented person like you
+5/18/23, 2:06 PM - Elephant 2: tip: in css use % only when the parent has a height or widht!
+5/18/23, 2:07 PM - Elephant 2: and DONT display to the entire body mate!
+5/18/23, 2:07 PM - Elephant 2: <Media omitted>
+5/18/23, 2:09 PM - Sheharyar Khan: Thankyou
+5/18/23, 2:09 PM - Sheharyar Khan: Seems cool
+5/18/23, 2:09 PM - Sheharyar Khan: Have you tested the functionality working fine after the changes ?
+5/18/23, 2:10 PM - Elephant 2: <Media omitted>
+5/18/23, 2:11 PM - Elephant 2: yep the stuff is uploading!
+5/18/23, 2:11 PM - Elephant 2: <Media omitted>
+5/18/23, 2:14 PM - Sheharyar Khan: Cool
+5/18/23, 2:14 PM - Sheharyar Khan: Send kr code zra let me check
+5/18/23, 2:15 PM - Elephant 2: eik mnt krta send!
+5/18/23, 2:16 PM - Elephant 2: <Media omitted>
+5/18/23, 2:24 PM - Sheharyar Khan: Oh hn i forgot
+5/18/23, 2:24 PM - Sheharyar Khan: Background p koi video ya image lgany ka irada hy
+5/18/23, 2:25 PM - Sheharyar Khan: What do you suggest
+5/18/23, 2:28 PM - Elephant 2: if the hosting is fast than go with the vidoe otherwise an image would do just fine!
+5/18/23, 2:28 PM - Elephant 2: just dont forget to add a 0.5 opacity to the image so thae text is visivle!
+5/18/23, 2:28 PM - Sheharyar Khan: Hosting ni h bhiii 😭
+5/18/23, 2:28 PM - Elephant 2: apna local project ha?
+5/18/23, 2:29 PM - Sheharyar Khan: Jny dy khn sy agai hosting itna Advance ni hn m
+5/18/23, 2:29 PM - Sheharyar Khan: Yeah mery fyp k lya hy
+5/18/23, 2:29 PM - Elephant 2: ohh acha acha!
+5/18/23, 2:29 PM - Elephant 2: go with the image mate!
+5/18/23, 2:29 PM - Sheharyar Khan: Ok kro
+5/18/23, 2:29 PM - Elephant 2: yeep!
+5/18/23, 10:21 PM - Elephant 2: <Media omitted>
+5/18/23, 11:13 PM - Sheharyar Khan: cool
+5/18/23, 11:13 PM - Sheharyar Khan: old memories are always gold to me
+5/19/23, 12:59 PM - Elephant 2: Nice! 😂
+5/19/23, 1:18 PM - Elephant 2: Oii, when you had an iPhone, you took some decent pictures of mine! Pari hain tery pas?
+5/19/23, 1:18 PM - Elephant 2: Company waly mang rahy, and mery pas eik bi picture unko deny wali ni ha 🥲
+5/19/23, 1:26 PM - Sheharyar Khan: Naaah
+5/19/23, 1:26 PM - Elephant 2: Mate, trust me yesterday I got burned to ashes! They asked me to send them a picture of me for welcome post?
+5/19/23, 1:26 PM - Elephant 2: And guess what!!
+5/19/23, 1:27 PM - Elephant 2: I didn't have one single good picture of me that they could post on their linkedin page! Fuck my life! 🥹 23 years and not a single professional picture! 🥹
+5/19/23, 1:28 PM - Sheharyar Khan: Hahh😂😂
+5/19/23, 1:28 PM - Sheharyar Khan: Yeah relatable
+5/19/23, 1:31 PM - Elephant 2: 🌚
+5/19/23, 3:52 PM - Sheharyar Khan: Shahmmer tera hmny ek dfa binanace ka account bnaya is it working?
+5/19/23, 3:58 PM - Elephant 2: I have no idea
+5/19/23, 3:58 PM - Elephant 2: App ny khari pass mery
+5/19/23, 4:01 PM - Elephant 2: Khairi?
+5/19/23, 4:01 PM - Sheharyar Khan: hn btauga km h rek
+5/19/23, 4:01 PM - Elephant 2: Chal main dobara download krta hu
+5/19/23, 4:04 PM - Sheharyar Khan: hm
+5/20/23, 11:52 AM - Elephant 2: Oi 20 agayi ha 😂
+5/20/23, 12:05 PM - Sheharyar Khan: Salary 20 agai h?
+5/20/23, 1:07 PM - Elephant 2: Oi laley paisy arrange hogaye hain! Tu easy hoja!
+5/20/23, 2:10 PM - Sheharyar Khan: Ahn
+5/20/23, 2:31 PM - Elephant 2: yep!
+5/20/23, 3:32 PM - Sheharyar Khan: Gusa krgya h bhai??
+5/20/23, 3:45 PM - Elephant 2: Bhai? Kis bat ka?
+5/20/23, 3:45 PM - Sheharyar Khan: Call e ni uthara
+5/20/23, 3:45 PM - Elephant 2: And if you said it's related to money, I'll fucking kill you
+5/20/23, 3:45 PM - Elephant 2: Janu meeting main hu!
+5/20/23, 3:45 PM - Sheharyar Khan: Acha kb tk hora free?
+5/20/23, 3:45 PM - Elephant 2: I'll text ya!
+5/20/23, 3:46 PM - Sheharyar Khan: Yr tujh dkh k mujh lgta h m hii dunya ka sbsy free insan hn
+5/20/23, 3:46 PM - Sheharyar Khan: 😂😂
+5/20/23, 4:09 PM - Elephant 2: Bruhhh!!
+5/20/23, 4:09 PM - Elephant 2: eik error main phasa howa tha wo solve ni hora tha so cousin sy seekh raha tha!
+5/20/23, 4:12 PM - Sheharyar Khan: Hogya ???
+5/20/23, 4:12 PM - Elephant 2: han g
+5/20/23, 4:12 PM - Elephant 2: hukm kr
+5/20/23, 4:12 PM - Sheharyar Khan: Ghr khany m kya pka h?
+5/20/23, 4:12 PM - Elephant 2: abi ghr mehman ary hain so khana to full level ka pak raha ha hahahahaha
+5/20/23, 4:13 PM - Sheharyar Khan: Yani mujh tuu ni milskta khana phr
+5/20/23, 4:14 PM - Sheharyar Khan: Chal thkk h bai phr m bhr sy hi kha lta hn
+5/20/23, 4:15 PM - Elephant 2: bhai!
+5/20/23, 4:15 PM - Elephant 2: emtional blackmail na kr bhai!
+5/20/23, 4:16 PM - Sheharyar Khan: Ni ni thk h chill scene h
+5/20/23, 4:16 PM - Sheharyar Khan: Drasal meri mama khala trf gai hwe
+5/20/23, 4:16 PM - Elephant 2: aja idhr muge msla ni ha! main time ni dy saku ga bs! cause cousins ary hain idhr!
+5/20/23, 4:16 PM - Elephant 2: aur tu ghr akela ha
+5/20/23, 4:17 PM - Sheharyar Khan: Ni ni bruh take your time
+5/20/23, 4:40 PM - Elephant 2: Cheers mate!
+5/20/23, 6:19 PM - Sheharyar Khan: Yr tery sath mil k thura sa html css kaaa kam krna tha
+5/21/23, 4:04 PM - Sheharyar Khan: <Media omitted>
+5/21/23, 4:07 PM - Elephant 2: 10 bjy tk ajayen laley! I'll be free then! 😁
+5/21/23, 4:24 PM - Sheharyar Khan: Ok kro
+5/21/23, 5:13 PM - Sheharyar Khan: ???
+5/21/23, 5:13 PM - Elephant 2: Yep
+5/21/23, 5:13 PM - Sheharyar Khan: Abiii kya kra h tuu
+5/21/23, 5:13 PM - Elephant 2: Main dost k pas aya hu abi, khair?
+5/21/23, 5:13 PM - Sheharyar Khan: Haaaaaaaa haaaaaaaa
+5/21/23, 5:13 PM - Sheharyar Khan: Sad loif
+5/21/23, 5:14 PM - Sheharyar Khan: Wssy tera Aisa knsa dost bngya jiska mujh ni pta
+5/21/23, 5:14 PM - Sheharyar Khan: Name btady naaaa bsdkkk
+5/21/23, 5:14 PM - Elephant 2: Cousins k pas yr!
+5/21/23, 5:14 PM - Elephant 2: Dost cousin eiki bat ha 😂
+5/21/23, 5:14 PM - Sheharyar Khan: Sidha sidha bola kr na😂😂
+5/21/23, 5:14 PM - Sheharyar Khan: Yni m tera czn b hn??
+5/21/23, 5:15 PM - Elephant 2: Bruh 😂
+5/21/23, 6:33 PM - Sheharyar Khan: Yr mujh ni pta
+5/21/23, 6:33 PM - Sheharyar Khan: M phnsa khara hn
+5/21/23, 6:33 PM - Sheharyar Khan: Ghr a apny m ara hn
+5/21/23, 6:39 PM - Elephant 2: Yara main abi zara kam kr raha hu idhr
+5/21/23, 6:39 PM - Elephant 2: Thory bht kam krny hain! Phr ata hu usky bas
+5/21/23, 6:39 PM - Sheharyar Khan: Margy v
+5/21/23, 6:39 PM - Elephant 2: Tuge ghr ja kr btata hu
+5/21/23, 6:40 PM - Elephant 2: Free ho k
+5/21/23, 7:10 PM - Sheharyar Khan: Bhai m johar town aya hwa hn wait kra hn teara
+5/21/23, 7:59 PM - Elephant 2: I'm at home laley!
+5/21/23, 7:59 PM - Elephant 2: Aja
+5/21/23, 8:01 PM - Sheharyar Khan: Acha
+5/21/23, 8:11 PM - Sheharyar Khan: M bhr hn
+5/21/23, 8:11 PM - Elephant 2: Aya
+5/22/23, 9:08 PM - Sheharyar Khan: Cool
+5/22/23, 9:10 PM - Elephant 2: Yep, you seem happy! 🙂
+5/24/23, 5:17 PM - Sheharyar Khan: <Media omitted>
+5/24/23, 7:27 PM - Elephant 2: Don't think too high of yourself mate! 🙂
+5/24/23, 7:28 PM - Elephant 2: Or should I say, don't think we see you as a "developer" not me atleast 🙂
+5/24/23, 7:28 PM - Sheharyar Khan: It was a generic meme 🤦🏻‍♂️🤦🏻‍♂️
+5/24/23, 7:29 PM - Sheharyar Khan: I shared like what every non technical person think about programmers😂
+5/24/23, 7:40 PM - Elephant 2: I won't miss opportunity to roast my friends! 😁
+5/24/23, 7:40 PM - Sheharyar Khan: Ghr agya ?
+5/24/23, 7:40 PM - Sheharyar Khan: Kya timings h office ki
+5/24/23, 7:43 PM - Elephant 2: Abi abi aya hu
+5/24/23, 7:44 PM - Elephant 2: 11 sy 7 ya 8 tk ka time hota
+5/24/23, 7:49 PM - Sheharyar Khan: Fit h biss
+5/24/23, 7:49 PM - Sheharyar Khan: Boss*
+5/24/23, 7:50 PM - Elephant 2: Yep!
+5/25/23, 11:16 AM - Elephant 2: Oii, invest 3000 on me for long term! 😂😂
+5/25/23, 11:16 AM - Elephant 2: You're investment will be stored safely for later use
+5/25/23, 12:55 PM - Sheharyar Khan: Ahhh cool
+5/25/23, 12:56 PM - Sheharyar Khan: Seems like a good oppertunity 😂
+5/25/23, 1:48 PM - Elephant 2: You know my account details send the money and secure it today for future use! 😂
+5/25/23, 1:48 PM - Elephant 2: That future will be decided by me tho!
+5/25/23, 2:58 PM - Sheharyar Khan: Hahahah😂😂
+5/25/23, 2:58 PM - Sheharyar Khan: I will surely do that if i got money in my account
+5/25/23, 3:20 PM - Elephant 2: Sad indeed!
+5/29/23, 12:16 AM - Sheharyar Khan: https://youtu.be/30w3zaU0Ak0
+5/29/23, 12:16 AM - Sheharyar Khan: Ignore krdyn is link ko wsy e send kia
